@@ -203,6 +203,169 @@
       "chinese": "我不喜欢羊肉。不仅因为羊羔很可爱，还因为羊肉带有一些不愉快的膻味。",
       "english": "I don't like mutton. Not only because the lambs are very cute, but also because the mutton has a somewhat unpleasant smell.",
       "type": "sentence"
-    }
+    },
+
+  {
+    "category": "Person Description",
+    "chinese": "我今天要讲的是泰勒·斯威夫特，一位拥有庞大全球粉丝群、声名远播的歌手。",
+    "english": "I’d like to talk about Taylor Swift, a singer who is incredibly famous with a massive global following.",
+    "type": "sentence"
+  },
+  {
+    "category": "Person Description",
+    "chinese": "她来自美国，但如今无疑是全球乐坛的超级巨星之一。",
+    "english": "She hails from the United States, but today, she's certainly one of the world's superstars of music.",
+    "type": "sentence"
+  },
+  {
+    "category": "Discovery",
+    "chinese": "我第一次知道她是我十岁左右上小学的时候。",
+    "english": "I first became aware of her when I was about ten years old in primary school.",
+    "type": "sentence"
+  },
+  {
+    "category": "Feelings & Impact",
+    "chinese": "当我听她的音乐时，我立刻感到一种赋权感和愉悦感。",
+    "english": "When I listen to her music, I immediately feel a sense of empowerment and delight.",
+    "type": "sentence"
+  },
+  {
+    "category": "Relatability",
+    "chinese": "让我感到如此亲切的是，她的许多歌曲反映了日常生活的现实，几乎就像是为我的经历而写的。",
+    "english": "What makes her so relatable is that many of her songs reflect the realities of everyday life, almost as if they were written about my own experiences.",
+    "type": "sentence"
+  },
+  {
+    "category": "Coping Mechanism (Idiomatic)",
+    "chinese": "当我面临困难或感到完全不知所措——那种让你只想放弃休息的感觉——我就会播放她的歌曲。",
+    "english": "When I'm facing a difficult problem or just feeling completely overwhelmed—you know, the kind of feeling where you just want to throw in the towel and take a break—I put on her tracks.",
+    "type": "sentence"
+  },
+  {
+    "category": "Emotional Release",
+    "chinese": "这样做是宣泄我的挫败感和彻底释放压力的绝佳方式。",
+    "english": "Doing this is an amazing way to vent my frustrations and simply release all the pressure.",
+    "type": "sentence"
+  },
+  {
+    "category": "Unique Relationship",
+    "chinese": "我今天要讲的重要朋友是萨拉（歌手的化名），她是一位才华横溢的音乐家和表演者。",
+    "english": "I’d like to talk about my important friend, Sarah (a fictional name for the singer), who is a talented musician and performer.",
+    "type": "sentence"
+  },
+  {
+    "category": "Digital Connection",
+    "chinese": "我们主要通过微信和其他平台进行交流，尽管我们相隔遥远。",
+    "english": "We communicate primarily through WeChat and other platforms, despite the vast distance between us.",
+    "type": "sentence"
+  },
+  {
+    "category": "Relationship Origin",
+    "chinese": "我们最初在一个专注于歌曲分析的群聊中互动。我给她发了一条关于某句歌词如何引起我共鸣的私信，令我惊讶的是，她竟然回复了！",
+    "english": "We first interacted in a group chat focused on songwriting analysis. I sent her a private message about how a specific lyric resonated with me, and to my surprise, she actually replied!",
+    "type": "sentence"
+  },
+  {
+    "category": "Drawback",
+    "chinese": "我唯一不喜欢的是我们之间巨大的时差。这意味着我们的聊天经常延迟；有时我必须等一整天才能等到她的回复。",
+    "english": "The only drawback, the thing I truly dislike, is the huge time difference between us. It means our chats are often delayed; sometimes I have to wait a full day for her reply.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Location",
+    "chinese": "这个公园坐落在山脚下，正好位于广州黄埔区的边界上。",
+    "english": "This park is beautifully situated at the foot of a mountain, right on the border of Guangzhou's Huangpu District.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Discovery",
+    "chinese": "我是在刷小红书等社交媒体平台的帖子时，发现了这个隐藏的宝地。",
+    "english": "I discovered this hidden gem after scrolling through social media posts on platforms like Xiaohongshu (Red notes).",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Special Feature (Nature)",
+    "chinese": "它拥有一个非常宜人的环境，最重要的是，提供了一大片开阔的草地，我的狗可以自由安全地奔跑。",
+    "english": "It boasts a truly lovely environment and, crucially, provides a large, expansive grassy area where she can run freely and safely off-leash.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Activity",
+    "chinese": "我的目标是总是找到一片天然水域，这样在最热的夏天，她可以痛快地游个泳。",
+    "english": "My goal is always to find a natural body of water so that during the hottest days of summer, she can take a refreshing swim.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Feeling (Stress Relief)",
+    "chinese": "在这个环境中我感到无比舒缓。空气非常清新，我被郁郁葱葱的绿树环绕。",
+    "english": "Being in this environment is incredibly soothing. The air is remarkably fresh, and I’m surrounded by lush, green trees.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Description (Building)",
+    "chinese": "我要描述的不寻常建筑是佛山博物馆，它是位于佛山市中心的一座主要文化地标。",
+    "english": "The unusual building I’d like to describe is the Foshan Museum, a major cultural landmark situated right in the heart of Foshan City.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Architecture",
+    "chinese": "它的外观设计由四个独特、有棱角的方形结构组成，使其外观非常现代而有力。",
+    "english": "Its exterior design is composed of four distinct, angular square structures that jut out from the main body, giving it a very modern yet powerful appearance.",
+    "type": "sentence"
+  },
+  {
+    "category": "Motivation",
+    "chinese": "我对历史有着强烈、终生的兴趣，我相信里面的展品真正地让历史叙事栩栩如生。",
+    "english": "I have a strong, lifelong interest in history, and I believe the exhibits inside truly bring historical narratives to life.",
+    "type": "sentence"
+  },
+  {
+    "category": "Future Goal",
+    "chinese": "除了参观之外，我还有一个强烈的愿望是去博物馆做志愿者。",
+    "english": "Beyond simply visiting, I have a deep desire to volunteer at the museum.",
+    "type": "sentence"
+  },
+  {
+    "category": "Learning & Contribution",
+    "chinese": "这将使我能够获得有关文化遗物的专业知识，同时也能通过为公共服务做贡献来实现我的自我价值。",
+    "english": "It would allow me to gain specialized knowledge about cultural relics while also enabling me to realize my own worth by contributing to a public service.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Feeling (Museum)",
+    "chinese": "我发现那里的氛围意义深远。这是一个安静反思的地方，我总能感受到一种难以置信的内心平静。",
+    "english": "I find the atmosphere profoundly meaningful. It’s a place of quiet reflection where I always feel an incredible sense of inner peace.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Location (Private)",
+    "chinese": "它的位置再方便不过了：它就在我家隔壁。",
+    "english": "Its location couldn't be more convenient: it's situated right next door to my own house.",
+    "type": "sentence"
+  },
+  {
+    "category": "Discovery (Private)",
+    "chinese": "我第一次开始在那里待很长时间，是因为她提到她家有一架大钢琴。",
+    "english": "I first started spending a lot of time there because she mentioned that her family owned a grand piano.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Features (Private)",
+    "chinese": "这个地方本身非常令人印象深刻和宽敞。在280平方米内，它包括四个宽敞的房间、两个阳台，甚至还有一个小的、装饰性的鱼塘。",
+    "english": "The place itself is quite impressive and spacious. Within the 280 square metres, it includes four sizable rooms, two balconies, and even a small, decorative fish pond in the garden area.",
+    "type": "sentence"
+  },
+  {
+    "category": "Activity (Private)",
+    "chinese": "我想和她一起学习钢琴。虽然我一直很喜欢钢琴，但我从未完全掌握它，所以她将担任我的私人导师和指导。",
+    "english": "I want to do next is focus on learning the piano together. While I've always loved it, I've never quite mastered it, so she is going to act as my private tutor and mentor, guiding me through the complex pieces.",
+    "type": "sentence"
+  },
+  {
+    "category": "Place Feeling (Private)",
+    "chinese": "她家里的气氛非常舒适宜人。当音乐开始时，我立刻感到内心深处的平静和安宁。",
+    "english": "The atmosphere in her house is utterly cosy and comfortable. When the music starts, I immediately feel a deep sense of inner calm and peace.",
+    "type": "sentence"
+  }
   ]
 }
