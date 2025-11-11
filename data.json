@@ -1302,7 +1302,446 @@
   "chinese": "这个目标不仅提升了体能，也锻炼了意志力，让我与狗的关系更亲密。",
   "english": "The goal improved my fitness, built my willpower, and brought me closer to my dog.",
   "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "隐藏景点",
+  "english": ["hidden gem", "underrated spot", "little-known treasure"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "引起我的兴趣",
+  "english": ["pique my interest", "spark my curiosity", "catch my interest"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "无绳（遛狗）",
+  "english": ["off-leash", "without a leash", "leash-free"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "大片草地",
+  "english": ["expansive grassy area", "wide lawn", "large open meadow"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "正式徒步",
+  "english": ["proper hike", "full hike", "serious trek"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "天然水域",
+  "english": ["natural body of water", "natural pool", "wild water spot"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "完全解压",
+  "english": ["completely de-stress", "unwind fully", "totally relax"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "内心的平静",
+  "english": ["inner peace", "calm within", "inner calm"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "文化地标",
+  "english": ["cultural landmark", "heritage landmark", "iconic cultural site"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "位于城市中心",
+  "english": ["in the heart of the city", "in the city center", "right downtown"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "市政府办公楼",
+  "english": ["municipal offices", "city government offices", "city hall departments"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "市中心图书馆",
+  "english": ["central library", "main library", "city library"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "方形体量向外突出",
+  "english": ["angular square volumes jut out", "boxy forms project outward", "square blocks protrude"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Museum",
+  "chinese": "让历史鲜活起来",
+  "english": ["bring history to life", "make history vivid", "animate the past"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "做志愿者",
+  "english": ["volunteer", "serve as a volunteer", "do volunteer work"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "文物",
+  "english": ["cultural relics", "heritage artifacts", "historical artifacts"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "实现自我价值",
+  "english": ["realize my self-worth", "fulfill my value", "affirm my worth"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "山脚下",
+  "english": ["at the base of a mountain", "at the foot of the mountain", "mountainside base"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "辽阔的，广阔的",
+  "english": ["expansive", "vast", "wide-ranging"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "去山里（出发）",
+  "english": ["head to the mountains", "set off for the mountains", "go up to the hills"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "淌过小溪",
+  "english": ["cross small rivers", "ford streams", "wade across creeks"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "攀爬陡坡",
+  "english": ["climb steep hills", "ascend steep slopes", "scale sharp inclines"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "在压力大的工作后放松",
+  "english": ["unwind after stressful work", "decompress after a hard week", "relax after a tough day"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Health",
+  "chinese": "增强耐力",
+  "english": ["build endurance", "increase stamina", "boost staying power"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Health",
+  "chinese": "清空思绪",
+  "english": ["clear my mind", "reset my mind", "empty my head"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "第一次一起徒步",
+  "english": ["first hike together", "our first hiking trip", "our first trek together"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "登顶",
+  "english": ["reach the summit", "make the summit", "get to the top"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "珍贵回忆",
+  "english": ["precious memories", "treasured memories", "cherished memories"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "挑战极限",
+  "english": ["push my limits", "test my limits", "stretch my boundaries"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "尺码表",
+  "english": ["size charts", "sizing guides", "measurement charts"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "退货很麻烦",
+  "english": ["returning is a hassle", "returns are a pain", "the return process is tedious"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "试穿",
+  "english": ["try on", "fit on", "test the fit"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "触摸布料",
+  "english": ["feel the fabric", "touch the material", "check the fabric by hand"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "每周的固定习惯",
+  "english": ["weekly routine", "weekly habit", "part of my week"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "冷门宝地；隐藏好去处",
+  "english": ["hidden gems", "secret spots", "undiscovered finds"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "实用建议",
+  "english": ["practical tips", "useful advice", "hands-on pointers"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "连接有共同爱好的人",
+  "english": ["connect people who share the same passion", "bring like-minded people together", "link people with shared interests"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "持续探索",
+  "english": ["keep exploring", "continue exploring", "carry on discovering"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "温暖而振奋的",
+  "english": ["warm and uplifting", "heartwarming and inspiring", "comforting and encouraging"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "经历低谷期",
+  "english": ["go through a rough patch", "hit a rough spell", "have a hard time"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "坚持追求梦想",
+  "english": ["pursue a dream", "chase a dream", "keep after a dream"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "内向的",
+  "english": ["introverted", "reserved", "inward-looking"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "走出舒适圈",
+  "english": ["push myself out of my comfort zone", "step out of my comfort zone", "leave my comfort zone"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "借力他人的长处",
+  "english": ["rely on others’ strengths", "leverage others’ strengths", "draw on others’ strengths"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "永久地改变了我的人生（积极）",
+  "english": ["changed my life for good", "changed my life permanently", "changed my life forever"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "领养狗",
+  "english": ["adopt a dog", "take in a dog", "bring a dog home"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "8公里徒步",
+  "english": ["eight-kilometer hike", "8km hike", "eight-kilometre trek"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "融入日常习惯",
+  "english": ["become part of my routine", "work into my routine", "become a regular habit"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "重塑生活方式与心态",
+  "english": ["reshape lifestyle and mindset", "transform habits and outlook", "rework lifestyle and attitude"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "跨学科小组项目",
+  "english": ["interdisciplinary group project", "cross-disciplinary team project", "multi-discipline project"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "跨专业协作",
+  "english": ["cross-major teamwork", "inter-major collaboration", "cross-field teamwork"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "开放沟通",
+  "english": ["open communication", "candid communication", "transparent communication"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "寻求帮助",
+  "english": ["seek help", "ask for help", "reach out for assistance"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "一等奖",
+  "english": ["first place", "the top prize", "take first"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "减重十磅",
+  "english": ["lose about ten pounds", "drop around ten pounds", "shed roughly ten pounds"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "精力水平",
+  "english": ["energy levels", "energy reserves", "vitality levels"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "肌肉力量",
+  "english": ["muscle strength", "muscular strength", "strength in muscles"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "彼此的陪伴",
+  "english": ["each other’s company", "one another’s company", "being together"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "更有动力",
+  "english": ["more motivated", "better motivated", "extra motivated"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "有意义的礼物",
+  "english": ["meaningful gift", "significant present", "gift with meaning"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "相册",
+  "english": ["photo album", "picture album", "photograph album"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "又累又开心",
+  "english": ["exhausted but happy", "tired yet joyful", "worn out but cheerful"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "阳光和新鲜空气",
+  "english": ["sunlight and fresh air", "sunshine and fresh air", "warm light and clean air"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "与…有分歧",
+  "english": ["have a disagreement with", "be at odds with", "disagree with"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "充分准备",
+  "english": ["thorough preparations", "careful planning", "detailed preparations"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "详细路线图",
+  "english": ["detailed map of the route", "route map in detail", "turn-by-turn map"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "一切顺利",
+  "english": ["everything went smoothly", "it all went well", "no issues arose"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Family/Reflection",
+  "chinese": "更独立",
+  "english": ["more independent", "greater independence", "increasingly self-reliant"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "迷路",
+  "english": ["get lost", "lose my way", "go off course"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "手机没电",
+  "english": ["phone ran out of battery", "phone died", "battery drained"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "指引方向",
+  "english": ["show the way", "point me in the right direction", "guide the route"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "偶遇",
+  "english": ["chance encounter", "random meeting", "serendipitous meeting"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "成为要好朋友",
+  "english": ["become close friends", "become good friends", "form a close friendship"],
+  "type": "vocabulary"
   }
+
 
 
 
