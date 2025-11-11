@@ -366,6 +366,946 @@
     "chinese": "她家里的气氛非常舒适宜人。当音乐开始时，我立刻感到内心深处的平静和安宁。",
     "english": "The atmosphere in her house is utterly cosy and comfortable. When the music starts, I immediately feel a deep sense of inner calm and peace.",
     "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我是在刷小红书等社交媒体时发现这个隐藏景点的。",
+  "english": "I discovered this hidden gem while scrolling on Xiaohongshu.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "大量精美照片和好评立刻引起了我的兴趣。",
+  "english": "The impressive photos and positive reviews immediately caught my interest.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "这座公园对我来说特别重要，因为我的狗是我最好的朋友。",
+  "english": "The park is special to me because my dog is my best friend.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "作为狗主人，我一直在寻找适合遛狗的地方。",
+  "english": "As a dog owner, I keep looking for places to walk her.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "这里环境优美，还有一大片安全的草地可以无绳奔跑。",
+  "english": "This spot has a lovely environment and a large grassy area for safe off-leash running.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "其他游客的分享最初吸引了我。",
+  "english": "Other visitors’ shared experiences first attracted me.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我主要是想带狗一起徒步。",
+  "english": "My main motivation was hiking with my dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我已经去过那里，还计划再去正式徒步一次。",
+  "english": "I have already been there and plan to go again for a proper hike.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我总会寻找一处天然水域，让她在夏天最热的时候能下水消暑。",
+  "english": "I always try to find a natural body of water so she can cool off in summer.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "与她一起创造这些回忆是最好的部分。",
+  "english": "Creating these memories with her is the best part.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "在那里让我感到非常放松。",
+  "english": "Being there is incredibly soothing.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "空气格外清新，我被郁郁葱葱的树木包围。",
+  "english": "The air is remarkably fresh, and lush green trees surround me.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "我的工作通常压力大且节奏快。",
+  "english": "My work is usually stressful and fast-paced.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "在这里亲近自然能让我完全解压并获得深层的安慰。",
+  "english": "Immersing myself in nature there helps me fully de-stress and feel deep comfort.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "这是我理想的逃离之地。",
+  "english": "It is my perfect escape.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "我想描述的一座不寻常建筑是佛山市博物馆。",
+  "english": "The unusual building I want to describe is the Foshan Museum.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "它是位于佛山中心的主要文化地标。",
+  "english": "It is a major cultural landmark in the heart of Foshan.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "它地理位置非常中心，周围是市政府和市图书馆等公共建筑。",
+  "english": "It sits in a central area surrounded by the municipal offices and the central library.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "我在小学时就注意到这座奇特的建筑。",
+  "english": "I noticed this peculiar structure in my primary school years.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "家人常带我去旁边的图书馆，我路过时发现了这座与众不同的博物馆。",
+  "english": "My family often took me to the adjacent library, and I noticed the distinctive museum as we passed.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "它独特而标志性的一点是建筑外观。",
+  "english": "Its unusual and iconic feature is its exterior.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "外立面由四个棱角分明的方形体量突出主体，呈现出现代而有力量的形象。",
+  "english": "Four angular square volumes jut from the main body, giving it a modern, powerful look.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "馆内则陈列着大量引人入胜的展品。",
+  "english": "Inside, the museum houses a vast and compelling collection of exhibits.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Personal Interest",
+  "chinese": "我对历史有长期而浓厚的兴趣。",
+  "english": "I have a strong, lifelong interest in history.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Personal Interest",
+  "chinese": "这些展品让历史叙事鲜活起来。",
+  "english": "The exhibits bring historical narratives to life.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Personal Interest",
+  "chinese": "参观不仅是看实物，更是在体验这座城市的故事与过去。",
+  "english": "Visiting is not just seeing objects; it is experiencing the city’s story and past.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Sharing",
+  "chinese": "我特别想和我最好的美国朋友一起去。",
+  "english": "I would like to visit it with my best friend, who is American.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Sharing",
+  "chinese": "带她去可以借展品讲解中国的历史和文化。",
+  "english": "Taking her there would let me share China’s history and culture through the exhibits.",
+  "type": "sentence"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "我还想在博物馆做志愿者。",
+  "english": "I also want to volunteer at the museum.",
+  "type": "sentence"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "这能让我学习文物知识，也能通过公共服务实现自我价值。",
+  "english": "It would help me learn about cultural relics and contribute to public service.",
+  "type": "sentence"
+  },
+  {
+  "category": "Culture/Feelings",
+  "chinese": "在那里我总能获得宁静并与过去产生联结。",
+  "english": "There I always feel inner peace and a connection to the past.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "这座公园位于山脚，紧靠广州黄埔区边缘。",
+  "english": "This park sits at the base of a mountain on the edge of Guangzhou’s Huangpu District.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "它面积辽阔，仿佛远离市中心，非常适合运动。",
+  "english": "It is expansive and feels far from the city center, which makes it ideal for activity.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我在小红书上看到很多人徒步、骑行、遛宠物的视频。",
+  "english": "I saw many videos of hiking, cycling, and pet walking on Xiaohongshu.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "这些内容立刻引起了我的注意。",
+  "english": "Those posts immediately caught my attention.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "公园很适合我的养狗需求。",
+  "english": "The park suits my needs as a dog owner.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "最重要的是，这里有一片广阔的草地，适合她全速奔跑。",
+  "english": "Most importantly, it offers a vast open lawn for her to run at full speed.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "我去那里的主要原因是运动。",
+  "english": "My main reason for going is to be active.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "我喜欢带着我的狗沿山路进行更具挑战性的徒步。",
+  "english": "I like taking my dog on challenging hikes up the mountain trails.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "天气炎热时，我会寻找溪流或水塘让她下水降温。",
+  "english": "In hot weather, I look for a stream or pond so she can swim and cool off.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "我们因此能在户外创造美好的共同回忆。",
+  "english": "That lets us create wonderful shared memories outdoors.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "在那里我感到焕然一新。",
+  "english": "Being there feels rejuvenating.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "新鲜空气和绿色树林带来巨大放松。",
+  "english": "Fresh air and green trees bring great relief.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "我的工作常常压力大而且久坐不动。",
+  "english": "My job is often stressful and sedentary.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "参与这些活动并亲近自然是我释压的最佳方式。",
+  "english": "Activity and immersion in nature are my best ways to release pressure.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "在那里我能身心同时充电。",
+  "english": "There I recharge both physically and mentally.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Personal",
+  "chinese": "我想谈的私人空间是我最好朋友的家。",
+  "english": "The private place I want to talk about is my best friend’s house.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Personal",
+  "chinese": "对我而言，它是一个重要的避风港。",
+  "english": "For me, it is an important sanctuary.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Personal",
+  "chinese": "房子约有280平方米，就在我家隔壁。",
+  "english": "The house is about 280 square meters and sits next door to mine.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Personal",
+  "chinese": "我们都在同一座城市长大，一直做邻居。",
+  "english": "We were born and raised in the same city and have always been neighbors.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Music",
+  "chinese": "我开始常去她家是因为她家里有一架三角钢琴。",
+  "english": "I started visiting often because her family has a grand piano.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Music",
+  "chinese": "我们都热爱弹钢琴，她家很快成了我们的练习地。",
+  "english": "We both love playing, and her home became our practice spot.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Description",
+  "chinese": "房子很宽敞，有四个大房间、两个阳台和一个小型观赏鱼池。",
+  "english": "The home is spacious, with four large rooms, two balconies, and a small decorative fish pond.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Music",
+  "chinese": "她是一位有才华的钢琴家，已发布过专业录音。",
+  "english": "She is a talented pianist who has released professional recordings.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Music",
+  "chinese": "我去那里的主要动机是亲耳听她演奏。",
+  "english": "My main reason for visiting is to hear her play in person.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Music",
+  "chinese": "能近距离聆听她的才华让我倍感珍惜。",
+  "english": "Hearing her talent up close feels like a privilege.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Personal",
+  "chinese": "我通常只和她一起去那里。",
+  "english": "I usually go there with her only.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Study",
+  "chinese": "接下来我想和她一起系统学钢琴。",
+  "english": "Next, I want to study piano with her in a focused way.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Study",
+  "chinese": "我一直喜欢钢琴，但从未真正掌握。",
+  "english": "I have always loved piano but have never mastered it.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Study",
+  "chinese": "她将作为我的私人导师，带我攻克复杂曲目。",
+  "english": "She will act as my private tutor and guide me through complex pieces.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Study",
+  "chinese": "我希望在这个地方一起学钢琴，因为我从未真正掌握过。她将成为我的老师，指导我演奏。",
+  "english": "I want to learn piano here together because I have never truly mastered it. She will be my teacher and guide my playing.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Well-being",
+  "chinese": "我觉得这里非常温馨舒适，让我在音乐中获得内心的平静。",
+  "english": "I find this place very cozy and comfortable. The music gives me inner calm.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Well-being",
+  "chinese": "她家的氛围格外温馨舒适。",
+  "english": "The atmosphere in her house is exceptionally cozy and comfortable.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Well-being",
+  "chinese": "音乐一响起，我立刻感到深深的平静与安宁。",
+  "english": "When the music starts, I immediately feel deep calm and peace.",
+  "type": "sentence"
+  },
+  {
+  "category": "Home/Well-being",
+  "chinese": "这里是我远离外界的完美私人栖身之所。",
+  "english": "It is the perfect and most personal retreat from the outside world.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "我学到的一项实用技能是有勇气与他人合作。",
+  "english": "One useful skill I learned is the courage to work with others.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "我在大学期间掌握了这项技能，这确实改变了我学习和工作的方式。",
+  "english": "I picked it up during my university years, and it changed how I study and work.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "起初，团队合作让我感到畏惧，因为我比较内向。",
+  "english": "At first, teamwork felt intimidating because I was quite introverted.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "但我不断逼自己走出舒适圈。",
+  "english": "But I kept pushing myself out of my comfort zone.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "最终，勇于合作让我明白，可以求助并借力他人的优势。",
+  "english": "In the end, cooperating courageously taught me that it is fine to ask for help and rely on others’ strengths.",
+  "type": "sentence"
+  },
+  {
+  "category": "Skills/Teamwork",
+  "chinese": "这种心态在毕业后的职业生涯中帮助很大，从积极意义上永久地改变了我的人生。",
+  "english": "This mindset has helped my career after graduation and changed my life for good in a positive way.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "让我最感动的电影之一是皮克斯出品的《寻梦环游记》。",
+  "english": "One of the most touching films I have watched is Coco, a heartwarming Pixar animation.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "它不仅画面精彩，而且意义深刻，讲述家庭、梦想与勇气。",
+  "english": "It is not only visually stunning but also deeply meaningful, a story about family, dreams, and courage.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "主角坚持追求成为音乐家的梦想，尽管家人反对，这点很鼓舞人心。",
+  "english": "The main character keeps pursuing his dream of becoming a musician despite family opposition, which I found inspiring.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "我在去年刚开始第一份工作后独自去电影院观看。",
+  "english": "I watched it alone in the cinema last year after starting my first job.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "虽然一个人，但并不感到孤单，因为电影温暖而振奋。",
+  "english": "Even by myself, I did not feel lonely because the film was warm and uplifting.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "当时我在工作上经历低谷，但这部电影鼓励我坚持热爱的事物。",
+  "english": "I was going through a rough patch at work, but the film encouraged me to keep pursuing what I love.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "这部电影在网上口碑极好，我完全理解原因。",
+  "english": "The film has excellent online reviews, and I can see why.",
+  "type": "sentence"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "它让我感到感动又受激励，是我最难忘的电影之一。",
+  "english": "It left me touched and inspired and is one of the most unforgettable films I have seen.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "作为狗主人，我确保她有足够运动并快乐成长，所以我们常去山里。",
+  "english": "As a dog owner, I make sure she gets enough exercise and grows up happy, so we often head to the mountains.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "我们淌过小溪，攀上陡坡，周围是新鲜空气与宁静森林。",
+  "english": "We cross small rivers and climb steep hills, surrounded by fresh air and quiet forests.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "这是在高压工作后放松的完美方式。",
+  "english": "It is the perfect way to unwind after stressful work.",
+  "type": "sentence"
+  },
+  {
+  "category": "Leisure/Health",
+  "chinese": "徒步让我保持良好体型，提升耐力，并清空思绪。",
+  "english": "Hiking keeps me in shape, builds endurance, and clears my mind.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "一张对我意义重大的照片是我和我的狗的合影，拍于我们第一次一起徒步时。",
+  "english": "One photo that means a lot to me is a picture of my dog and me from our first hike together.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "那天是她的两岁生日，我们刚到达山顶。",
+  "english": "It was her second birthday, and we had just reached the summit.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "这张照片拍于广州天河区市中心的龙眼洞森林公园，是全市的最高峰。",
+  "english": "The photo was taken at Longyandong Forest Park in Tianhe District, the highest peak in Guangzhou’s city center.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "作为狗主人，我常带她徒步确保运动和快乐。",
+  "english": "As a dog owner, I often take her hiking to keep her active and happy.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "那一天很特别，因为我们第一次成功完成了一整段路线。",
+  "english": "That day was special because we finished a full trail for the first time.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "照片里我们看起来有点疲惫但真心快乐。",
+  "english": "In the photo we look a bit tired but genuinely joyful.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "背景是高大的绿树和柔和的阳光，让画面温暖而有生气。",
+  "english": "Tall green trees and soft sunlight in the background make the picture feel warm and alive.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "我为那一刻感到自豪，因为我们一起登上了山顶。",
+  "english": "I am proud of that moment because we reached the summit together.",
+  "type": "sentence"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "这张照片捕捉了我们最珍贵的回忆之一，也提醒我凭借决心与爱可以不断突破极限。",
+  "english": "The photo captures one of our most precious memories and reminds me that with determination and love we can push our limits.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "网购已成为我生活的重要部分，但并不总是一帆风顺。",
+  "english": "Online shopping is a big part of my life, but it does not always go smoothly.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "我常遇到的问题是买到尺码不合适的衣服。",
+  "english": "A common problem is buying clothes that do not fit properly.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "因为没有线下门店，我只能依赖图片和尺码表，而它们并不总是准确。",
+  "english": "Without physical stores, I can only rely on photos and size charts, and they are not always accurate.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "有时颜色与网上看到的差很多，面料也比预期更廉价。",
+  "english": "Sometimes the color looks very different, and the fabric feels cheaper than expected.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "我曾买过一条看起来完美的裙子，但到手后太紧且材质不舒服。",
+  "english": "I once ordered a dress that looked perfect, but it was too tight and uncomfortable.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Online",
+  "chinese": "退货非常麻烦，我差点放弃。",
+  "english": "Returning it was such a hassle that I almost gave up.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "那次经历后，我发现自己更喜欢去实体店购物。",
+  "english": "After that, I realized I prefer shopping in physical stores.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "这样可以试穿、触摸布料，确保大小合适。",
+  "english": "There I can try items on, feel the fabric, and ensure the fit.",
+  "type": "sentence"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "这能节省时间、金钱，也避免失望。",
+  "english": "It saves time, money, and disappointment.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "我很喜欢一个本地徒步社区网站，它为户外爱好者提供分享经验与路线的平台。",
+  "english": "I enjoy a local hiking community site that lets outdoor lovers share experiences and routes.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "我是在几年前发现它的，现在它已成为我每周习惯的一部分。",
+  "english": "I discovered it a few years ago, and it has become part of my weekly routine.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "通过浏览该网站，我了解了许多城市周边的优质徒步路线，包括以前没听说过的冷门地点。",
+  "english": "By browsing it, I learned many great local trails, including hidden gems I had never heard of.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "它还提供关于安全、装备和训练的实用建议，帮助我提升很多。",
+  "english": "It also offers practical tips on safety, gear, and training that helped me improve.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "我最喜欢的是它能连接有共同爱好的人。",
+  "english": "What I love most is how it connects people who share the same passion.",
+  "type": "sentence"
+  },
+  {
+  "category": "Web/Community",
+  "chinese": "它不仅提供信息，还有许多登顶的故事和照片，激励我持续探索。",
+  "english": "It is not just informational; the summit stories and photos motivate me to keep exploring.",
+  "type": "sentence"
+  },
+  {
+  "category": "Reading/Article",
+  "chinese": "一篇让我印象深刻的文章来自小红书，作者是一位带狗徒步的女生。",
+  "english": "An article that impressed me was on REDNOTE, written by a girl who hiked with her dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Reading/Article",
+  "chinese": "她详细描述了路线、山道、休息点以及给狗准备的零食。",
+  "english": "She described the route in detail, including trails, rest stations, and snacks for her dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Reading/Article",
+  "chinese": "最打动我的是她的毅力，虽然中途很累，但一步步坚持到达山顶。",
+  "english": "Her determination moved me; she felt tired halfway but kept going step by step to the top.",
+  "type": "sentence"
+  },
+  {
+  "category": "Reading/Article",
+  "chinese": "这篇文章不只是关于徒步，更关于勇气、陪伴与坚持。",
+  "english": "It was not only about hiking but also about courage, companionship, and persistence.",
+  "type": "sentence"
+  },
+  {
+  "category": "Reading/Article",
+  "chinese": "她的故事给了我很多动力，带着我的狗开展更多户外冒险并创造美好回忆。",
+  "english": "Her story motivated me to take my dog on more outdoor adventures and create beautiful memories.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "我收到过最有意义的礼物之一是妈妈送的相册。",
+  "english": "One of the most meaningful gifts I have received is a photo album from my mom.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "相册装满了我和狗的照片，尤其是我们第一次一起徒步的记录。",
+  "english": "It is filled with photos of my dog and me, especially from our first hike together.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "她两岁时，我们完成了第一次徒步，并在山顶拍了一张照片。",
+  "english": "When she turned two, we finished our first hike and took a photo at the summit.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "那张照片是我最喜欢的，我们又累又开心。",
+  "english": "That picture is my favorite; we looked exhausted but happy.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "阳光、清新的空气和周围的树木让那一刻温暖而宁静。",
+  "english": "Sunlight, fresh air, and trees made the moment warm and peaceful.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "我珍视这份礼物，因为它记录了我们一路走来的点滴。",
+  "english": "I treasure this gift because it shows how far we have come together.",
+  "type": "sentence"
+  },
+  {
+  "category": "Gifts/Memory",
+  "chinese": "它不仅是相册，更是承载爱、陪伴与勇于挑战自我的回忆集合。",
+  "english": "It is not just an album but a collection of memories of love, companionship, and courage.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "我和妈妈曾就是否独自带狗徒步发生分歧。",
+  "english": "I once disagreed with my mom about hiking alone with my dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "她担心路程远且我独自应对不安全。",
+  "english": "She worried about the long drive and the safety of handling everything alone.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "我做了充分准备，带足水和食物，并规划好路线。",
+  "english": "I prepared carefully with enough water, food, and a planned route.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Conflict",
+  "chinese": "结果一切顺利，我们成功登顶。",
+  "english": "Everything went smoothly, and we reached the top.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Reflection",
+  "chinese": "回头看，我很庆幸坚持了下来，这次经历让我更独立也更自信。",
+  "english": "Looking back, I am glad I insisted; the experience made me more independent and confident.",
+  "type": "sentence"
+  },
+  {
+  "category": "Family/Reflection",
+  "chinese": "它创造了我与狗最珍贵的回忆之一，证明我们能一起克服挑战。",
+  "english": "It created one of our most precious memories and showed we can overcome challenges together.",
+  "type": "sentence"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "我想谈一位在我第一次带狗徒步时帮助我的朋友。",
+  "english": "I want to talk about a friend who helped me on my first hike with my dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "起初不太顺利，我对路线不熟，半山腰手机没电而迷路了。",
+  "english": "Things did not go well at first; I was unfamiliar with the route, my phone died, and I got lost.",
+  "type": "sentence"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "一位名叫Tina的女孩出现，热心为我指路，并一路陪我到山顶。",
+  "english": "A girl named Tina appeared, kindly showed me the way, and walked with us to the top.",
+  "type": "sentence"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "这次经历对我意义重大，我们安全登顶，也成了要好的朋友。",
+  "english": "The experience meant a lot to me; we reached the summit safely and became good friends.",
+  "type": "sentence"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "直到现在我们有时还一起徒步，我真心感激那天遇见她。",
+  "english": "We still hike together sometimes, and I am truly grateful I met her.",
+  "type": "sentence"
+  },
+  {
+  "category": "Conversation/Family",
+  "chinese": "我和母亲就是否独自带狗徒步进行过一次深入的对话。",
+  "english": "I had an in-depth conversation with my mother about hiking alone with my dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Conversation/Family",
+  "chinese": "她强烈反对，担心迷路、遇到陌生人或手机没电等风险。",
+  "english": "She strongly disagreed and worried about risks like getting lost, meeting strangers, or losing phone power.",
+  "type": "sentence"
+  },
+  {
+  "category": "Conversation/Family",
+  "chinese": "我提前检查路线并准备好水和食物，最终顺利完成徒步。",
+  "english": "I checked the route in advance and packed water and food, and I completed the hike successfully.",
+  "type": "sentence"
+  },
+  {
+  "category": "Conversation/Family",
+  "chinese": "这次经历让我更独立，也让我意识到母亲多么关心我。",
+  "english": "The experience made me more independent and showed me how much my mother cares.",
+  "type": "sentence"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "我第一次带狗爬山时结识了Tina，这次偶遇后来发展成深厚的友谊。",
+  "english": "On my first mountain hike with my dog, I met Tina, and the chance encounter became a close friendship.",
+  "type": "sentence"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "当我迷路且手机没电时，她为我指路并陪我登顶。",
+  "english": "When I got lost and my phone died, she guided me and accompanied me to the summit.",
+  "type": "sentence"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "清新的空气与树林环绕，让那次经历成为美好回忆。",
+  "english": "Fresh air and trees all around turned it into a wonderful memory.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "我领养狗后开始规律徒步，这是我生活中的重大积极改变。",
+  "english": "After adopting my dog, I started hiking regularly, a major positive change in my life.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "之前我大多待在室内看书或弹钢琴。",
+  "english": "Before that, I spent most of my time indoors reading or playing the piano.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "成为狗主人后，我意识到她需要大量运动和户外时间。",
+  "english": "As a dog owner, I realized she needed plenty of exercise and time outdoors.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "她两岁时，我们完成了第一次8公里徒步，虽然很累，但彼此的陪伴让一切变得愉快。",
+  "english": "When she turned two, we finished our first eight-kilometer hike; we were tired, but the company made it joyful.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "自那以后，徒步成为每周固定活动，我们几乎每个周末都爬一座新山。",
+  "english": "Since then, hiking has become weekly, and we climb a new mountain almost every weekend.",
+  "type": "sentence"
+  },
+  {
+  "category": "Lifestyle/Change",
+  "chinese": "这不仅强健了体魄与意志，也带来了无数珍贵回忆，说明小改变能积极重塑生活方式与心态。",
+  "english": "It strengthened my body and willpower and brought many precious memories, showing small changes can reshape lifestyle and mindset positively.",
+  "type": "sentence"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "一次真正影响我的比赛是我在大学参加的跨学科小组项目。",
+  "english": "A competition that shaped me was an interdisciplinary group project at university.",
+  "type": "sentence"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "那是需要不同专业合作的论文竞赛，这次经历让我学会勇敢合作。",
+  "english": "It was a paper contest requiring cross-major teamwork, and it taught me to cooperate bravely.",
+  "type": "sentence"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "起初很难，因为我天性内向，但我不断走出舒适圈并学会更开放地沟通。",
+  "english": "It was hard at first because I am introverted, but I left my comfort zone and learned open communication.",
+  "type": "sentence"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "与不同领域的同学合作让我认识到团队能弥补个人短板并取得更好成果。",
+  "english": "Working with other fields showed me that teams offset weaknesses and achieve better results.",
+  "type": "sentence"
+  },
+  {
+  "category": "Education/Competition",
+  "chinese": "最终我们获得一等奖，我很自豪，更重要的是我学会在需要时寻求帮助。",
+  "english": "We won first place, which made me proud, and I learned to seek help when needed.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "我最近给自己设定的个人目标是减重约十磅，我仍在为此努力。",
+  "english": "A recent personal goal is to lose about ten pounds, and I am still working on it.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "我下定决心是因为超重开始影响健康与精力。",
+  "english": "I decided because excess weight was affecting my health and energy.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "过去我多在室内读书或弹琴，导致体重上升、肌肉力量下降。",
+  "english": "I used to stay indoors reading or playing piano, which led to weight gain and less muscle strength.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "为改变这一点，我开始每周带狗去徒步。",
+  "english": "To change that, I started hiking weekly with my dog.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "一开始我们每次都筋疲力尽，但彼此的陪伴让过程更愉快。",
+  "english": "At first we were exhausted after each trip, but the company made it enjoyable.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "随着时间推移，徒步成了固定习惯，我更健康、更强壮，也更有动力。",
+  "english": "Over time, hiking became routine, and I felt healthier, stronger, and more motivated.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "目前我已减掉大约五磅，我对此感到自豪。",
+  "english": "So far I have lost about five pounds, and I am proud of it.",
+  "type": "sentence"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "这个目标不仅提升了体能，也锻炼了意志力，让我与狗的关系更亲密。",
+  "english": "The goal improved my fitness, built my willpower, and brought me closer to my dog.",
+  "type": "sentence"
   }
+
+
+
+
   ]
 }
