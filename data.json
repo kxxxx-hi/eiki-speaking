@@ -1740,7 +1740,243 @@
   "chinese": "成为要好朋友",
   "english": ["become close friends", "become good friends", "form a close friendship"],
   "type": "vocabulary"
+  },
+  {
+  "category": "Web/Social",
+  "chinese": "刷社交媒体",
+  "english": ["scroll through social media", "browse social feeds", "scroll posts"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Social",
+  "chinese": "小红书上看到",
+  "english": ["see on Xiaohongshu", "find on REDNOTE", "spot on the app"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Web/Social",
+  "chinese": "他人分享的经历",
+  "english": ["shared experiences", "others’ stories", "user testimonials"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Motivation",
+  "chinese": "主要动机",
+  "english": ["main motivation", "primary reason", "core driver"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Plan",
+  "chinese": "计划再去",
+  "english": ["plan to go again", "intend to return", "go back again"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Outdoors",
+  "chinese": "凉快一下",
+  "english": ["cool off", "cool down", "take the heat off"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "令人焕然一新",
+  "english": ["rejuvenating", "refreshing", "restorative"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Nature",
+  "chinese": "沉浸于自然",
+  "english": ["immerse myself in nature", "sink into nature", "lose myself in nature"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "节奏快",
+  "english": ["fast-paced", "high-paced", "rapid tempo"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "完美的逃离",
+  "english": ["perfect escape", "ideal getaway", "personal refuge"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Location",
+  "chinese": "地理位置居中",
+  "english": ["central location", "prime central spot", "centrally located"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Location",
+  "chinese": "被…环绕",
+  "english": ["surrounded by", "encircled by", "ringed by"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "奇特建筑",
+  "english": ["peculiar structure", "unusual building", "odd-looking structure"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Proximity",
+  "chinese": "邻近图书馆",
+  "english": ["adjacent library", "next-door library", "nearby library"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Museum",
+  "chinese": "引人入胜的藏品",
+  "english": ["compelling collection", "captivating exhibits", "engaging displays"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Interest",
+  "chinese": "毕生兴趣",
+  "english": ["lifelong interest", "long-standing passion", "enduring interest"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Sharing",
+  "chinese": "分享并讲解文化",
+  "english": ["share and explain culture", "introduce and explain culture", "walk someone through the culture"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Civic/Service",
+  "chinese": "公共服务",
+  "english": ["public service", "serve the public", "civic service"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Geo",
+  "chinese": "城市边缘",
+  "english": ["on the edge of the city", "city outskirts", "at the city’s fringe"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Feeling",
+  "chinese": "感觉远离市中心",
+  "english": ["feels miles away from downtown", "feels far from the city center", "feels removed from the city"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "精力充沛的活动",
+  "english": ["energetic pursuits", "high-energy activities", "vigorous pursuits"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Pets",
+  "chinese": "全速奔跑",
+  "english": ["run at full speed", "sprint flat out", "go full tilt"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "体力活动",
+  "english": ["physical activity", "exercise", "active movement"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Recovery",
+  "chinese": "身心同时充电",
+  "english": ["recharge physically and mentally", "recharge body and mind", "reset both body and mind"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Emotion",
+  "chinese": "避风港",
+  "english": ["sanctuary", "safe haven", "refuge"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Proximity",
+  "chinese": "就在隔壁",
+  "english": ["right next door", "next door to me", "immediately next door"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Origin",
+  "chinese": "在同一城市长大",
+  "english": ["born and raised in the same city", "grew up in the same city", "raised in the same hometown"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Objects",
+  "chinese": "三角钢琴",
+  "english": ["grand piano", "concert grand", "baby grand (contextual)"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Study",
+  "chinese": "练习地点",
+  "english": ["practice spot", "practice place", "practice hub"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Description",
+  "chinese": "宽敞",
+  "english": ["spacious", "roomy", "airy"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Feature",
+  "chinese": "观赏鱼池",
+  "english": ["decorative fish pond", "ornamental pond", "garden fish pond"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/People",
+  "chinese": "有才华的钢琴家",
+  "english": ["talented pianist", "gifted pianist", "accomplished pianist"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Recording",
+  "chinese": "专业录音",
+  "english": ["professional recordings", "studio releases", "recorded works"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Experience",
+  "chinese": "亲耳聆听",
+  "english": ["hear in person", "listen live", "hear up close"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Education/Mentorship",
+  "chinese": "私人导师与导师角色",
+  "english": ["private tutor and mentor", "personal teacher and mentor", "one-on-one mentor"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Study",
+  "chinese": "指导复杂曲目",
+  "english": ["guide me through complex pieces", "coach me on difficult pieces", "lead me through challenging works"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Attention",
+  "chinese": "引起我的注意",
+  "english": ["caught my attention", "grabbed my attention", "drew my attention"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Weather/Feeling",
+  "chinese": "在酷热天",
+  "english": ["on the hottest days", "during scorching days", "in peak heat"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Memory",
+  "chinese": "创造回忆",
+  "english": ["create memories", "make memories", "build memories"],
+  "type": "vocabulary"
   }
+  ]
+
 
 
 
