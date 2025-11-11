@@ -1974,7 +1974,193 @@
   "chinese": "创造回忆",
   "english": ["create memories", "make memories", "build memories"],
   "type": "vocabulary"
+  },    
+  {
+  "category": "Web/Social",
+  "chinese": "好评",
+  "english": ["positive reviews", "glowing reviews", "rave reviews"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "舒缓的环境",
+  "english": ["soothing environment", "calming setting", "tranquil atmosphere"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Nature",
+  "chinese": "格外清新的空气",
+  "english": ["remarkably fresh air", "crisp air", "clean air"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Nature",
+  "chinese": "葱郁的绿树",
+  "english": ["lush green trees", "verdant trees", "leafy greenery"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "外观设计",
+  "english": ["exterior design", "facade design", "outside design"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Architecture",
+  "chinese": "标志性建筑风格",
+  "english": ["iconic architecture", "signature design", "distinctive architecture"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Museum",
+  "chinese": "庞大藏品",
+  "english": ["vast collection", "extensive collection", "large holdings"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Sharing",
+  "chinese": "深厚的历史与文化",
+  "english": ["rich history and culture", "deep history and culture", "cultural heritage"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Volunteer/Goals",
+  "chinese": "获得专业知识",
+  "english": ["gain specialized knowledge", "acquire specialist knowledge", "build subject-matter expertise"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Culture/Feelings",
+  "chinese": "安静的反思",
+  "english": ["quiet reflection", "silent contemplation", "calm reflection"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Geo",
+  "chinese": "区界边缘",
+  "english": ["on the district edge", "at the edge of the district", "on the district boundary"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Fitness",
+  "chinese": "富有挑战的徒步",
+  "english": ["challenging hikes", "strenuous hikes", "demanding trails"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Health",
+  "chinese": "保持好身材",
+  "english": ["stay in good shape", "keep fit", "maintain fitness"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Leisure/Well-being",
+  "chinese": "释放压力",
+  "english": ["release pressure", "relieve stress", "let off steam"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Description",
+  "chinese": "280平方米",
+  "english": ["280 square metres", "280-square-meter home", "280 m²"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Home/Feature",
+  "chinese": "两个阳台",
+  "english": ["two balconies", "a pair of balconies", "dual balconies"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Music/Study",
+  "chinese": "一起练习",
+  "english": ["practice together", "study together", "practice side by side"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Emotion",
+  "chinese": "感到荣幸",
+  "english": ["feel privileged", "feel honored", "feel fortunate"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Emotion",
+  "chinese": "不可替代的",
+  "english": ["irreplaceable", "cannot be replaced", "one of a kind"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "视觉上令人惊艳",
+  "english": ["visually stunning", "gorgeous to look at", "a feast for the eyes"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Media/Film",
+  "chinese": "从未放弃热爱",
+  "english": ["never gave up on his passion", "kept his passion alive", "stuck with his passion"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Memory/Photos",
+  "chinese": "柔和的阳光",
+  "english": ["soft sunlight", "gentle sunlight", "diffused light"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Place/Peak",
+  "chinese": "城市最高峰",
+  "english": ["highest peak in the city", "the city’s highest point", "the city’s tallest peak"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Shopping/Preference",
+  "chinese": "更喜欢实体店购物",
+  "english": ["prefer shopping in physical stores", "prefer buying in-store", "favor brick-and-mortar shopping"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Safety/Prep",
+  "chinese": "提前查看路线",
+  "english": ["check the route in advance", "preview the route", "recon the route in advance"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Safety/Prep",
+  "chinese": "带足水和食物",
+  "english": ["bring enough water and food", "pack ample water and snacks", "carry sufficient food and water"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Conversation/Family",
+  "chinese": "强烈反对",
+  "english": ["strongly disagreed", "was firmly against", "objected strongly"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Experience",
+  "chinese": "一开始不太顺利",
+  "english": ["things didn’t go smoothly", "it didn’t go to plan", "things went awry"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Help/Kindness",
+  "chinese": "一路陪我们到顶",
+  "english": ["accompanied us to the top", "walked with us to the summit", "led us all the way up"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Encounter",
+  "chinese": "意外相遇",
+  "english": ["unexpected meeting", "chance meeting", "surprising encounter"],
+  "type": "vocabulary"
+  },
+  {
+  "category": "Health/Goals",
+  "chinese": "正在为目标努力",
+  "english": ["working toward it", "working on it", "making progress toward it"],
+  "type": "vocabulary"
   }
-  
+      
   ]
 }
