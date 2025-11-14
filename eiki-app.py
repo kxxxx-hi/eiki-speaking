@@ -81,15 +81,15 @@ html_content = f"""<!DOCTYPE html>
       margin-bottom: 1rem;
     }}
     .phrasal-verb {{
-      background-color: #fef3c7;
-      color: #92400e;
+      background-color: #dbeafe;
+      color: #1e40af;
       padding: 2px 6px;
       border-radius: 4px;
       font-weight: 600;
     }}
     .phrasal-verb-en {{
-      background-color: #dbeafe;
-      color: #1e40af;
+      background-color: #d1fae5;
+      color: #065f46;
       padding: 2px 6px;
       border-radius: 4px;
       font-weight: 600;
@@ -119,7 +119,7 @@ html_content = f"""<!DOCTYPE html>
     <div class="text-gray-500 mb-4" id="card-counter"></div>
 
     <div class="card-content border border-gray-300 rounded-xl p-6 w-full flex flex-col justify-center items-center">
-      <div id="verb-group" class="text-lg font-bold text-purple-600 mb-3 text-center"></div>
+      <div id="verb-group" class="text-lg font-bold text-green-600 mb-3 text-center"></div>
       <div id="chinese-text" class="text-2xl sm:text-3xl font-semibold text-gray-800 mb-4 text-center"></div>
       <div id="english-text" class="text-xl sm:text-2xl text-gray-600 transition-opacity duration-300 ease-in-out opacity-0 mt-4 text-center"></div>
     </div>
@@ -194,32 +194,63 @@ html_content = f"""<!DOCTYPE html>
             return `<span class="${{className}}">${{match}}</span>`;
           }});
         }} else {{
-          // For English, handle tense variations
+          // For English, handle tense variations including irregular verbs
           // Split phrasal verb into verb and particle(s)
           const parts = pvText.trim().split(/\\s+/);
           if (parts.length >= 2) {{
             const baseVerb = parts[0].toLowerCase();
             const particle = parts.slice(1).join(' ');
             
-            // Create a pattern that matches the verb in various tenses
-            // This will match: base verb, verb+s, verb+ed, verb+ing, verb+es, and irregular forms
-            // Use word boundaries to avoid partial matches
+            // Irregular verb forms mapping
+            const irregularVerbs = {{
+              'take': ['take', 'takes', 'took', 'taken', 'taking'],
+              'get': ['get', 'gets', 'got', 'gotten', 'getting'],
+              'go': ['go', 'goes', 'went', 'gone', 'going'],
+              'come': ['come', 'comes', 'came', 'coming'],
+              'make': ['make', 'makes', 'made', 'making'],
+              'break': ['break', 'breaks', 'broke', 'broken', 'breaking'],
+              'bring': ['bring', 'brings', 'brought', 'bringing'],
+              'run': ['run', 'runs', 'ran', 'running'],
+              'give': ['give', 'gives', 'gave', 'given', 'giving'],
+              'set': ['set', 'sets', 'setting'],
+              'cut': ['cut', 'cuts', 'cutting'],
+              'fall': ['fall', 'falls', 'fell', 'fallen', 'falling'],
+              'hang': ['hang', 'hangs', 'hung', 'hanging'],
+              'hold': ['hold', 'holds', 'held', 'holding'],
+              'keep': ['keep', 'keeps', 'kept', 'keeping'],
+              'leave': ['leave', 'leaves', 'left', 'leaving'],
+              'pull': ['pull', 'pulls', 'pulled', 'pulling'],
+              'back': ['back', 'backs', 'backed', 'backing'],
+              'look': ['look', 'looks', 'looked', 'looking'],
+              'turn': ['turn', 'turns', 'turned', 'turning'],
+              'call': ['call', 'calls', 'called', 'calling'],
+              'carry': ['carry', 'carries', 'carried', 'carrying']
+            }};
+            
             const escapedParticle = particle.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
             
-            // Build pattern: match base verb with common tense endings + particle
-            // Pattern matches: pull/pulls/pulled/pulling + over
-            // Also handles irregular verbs by matching any word that starts with the base verb
-            const verbPattern = `\\\\b${{baseVerb}}[a-z]*`;
-            const pattern = `(${{verbPattern}}\\\\s+${{escapedParticle}})`;
+            // Check if this is an irregular verb
+            let verbForms = [];
+            if (irregularVerbs[baseVerb]) {{
+              verbForms = irregularVerbs[baseVerb];
+            }} else {{
+              // Regular verb: generate forms
+              verbForms = [
+                baseVerb,
+                baseVerb + 's',
+                baseVerb + 'ed',
+                baseVerb + 'ing',
+                baseVerb + 'es'
+              ];
+            }}
+            
+            // Create pattern matching any of the verb forms followed by particle
+            const verbPattern = verbForms.map(v => v.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&')).join('|');
+            const pattern = `\\\\b(${{verbPattern}})\\\\s+${{escapedParticle}}\\\\b`;
             const regex = new RegExp(pattern, 'gi');
             
             highlighted = highlighted.replace(regex, (match) => {{
-              // Only highlight if the match starts with the base verb (to avoid false matches)
-              const matchVerb = match.split(/\\s+/)[0].toLowerCase();
-              if (matchVerb.startsWith(baseVerb)) {{
-                return `<span class="${{className}}">${{match}}</span>`;
-              }}
-              return match;
+              return `<span class="${{className}}">${{match}}</span>`;
             }});
           }} else {{
             // Single word phrasal verb (less common, use exact match with tense variations)
