@@ -185,12 +185,55 @@ html_content = f"""<!DOCTYPE html>
 
       sorted.forEach(pv => {{
         const pvText = isChinese ? pv.chinese : pv.english;
-        // Escape special regex characters
-        const escaped = pvText.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
-        const regex = new RegExp(escaped, 'gi');
-        highlighted = highlighted.replace(regex, (match) => {{
-          return `<span class="${{className}}">${{match}}</span>`;
-        }});
+        
+        if (isChinese) {{
+          // For Chinese, use exact match (no tense variations)
+          const escaped = pvText.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+          const regex = new RegExp(escaped, 'gi');
+          highlighted = highlighted.replace(regex, (match) => {{
+            return `<span class="${{className}}">${{match}}</span>`;
+          }});
+        } else {{
+          // For English, handle tense variations
+          // Split phrasal verb into verb and particle(s)
+          const parts = pvText.trim().split(/\\s+/);
+          if (parts.length >= 2) {{
+            const baseVerb = parts[0].toLowerCase();
+            const particle = parts.slice(1).join(' ');
+            
+            // Create a pattern that matches the verb in various tenses
+            // This will match: base verb, verb+s, verb+ed, verb+ing, verb+es, and irregular forms
+            // Use word boundaries to avoid partial matches
+            const escapedParticle = particle.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+            
+            // Build pattern: match base verb with common tense endings + particle
+            // Pattern matches: pull/pulls/pulled/pulling + over
+            // Also handles irregular verbs by matching any word that starts with the base verb
+            const verbPattern = `\\\\b${{baseVerb}}[a-z]*`;
+            const pattern = `(${{verbPattern}}\\\\s+${{escapedParticle}})`;
+            const regex = new RegExp(pattern, 'gi');
+            
+            highlighted = highlighted.replace(regex, (match) => {{
+              // Only highlight if the match starts with the base verb (to avoid false matches)
+              const matchVerb = match.split(/\\s+/)[0].toLowerCase();
+              if (matchVerb.startsWith(baseVerb)) {{
+                return `<span class="${{className}}">${{match}}</span>`;
+              }}
+              return match;
+            }});
+          }} else {{
+            // Single word phrasal verb (less common, use exact match with tense variations)
+            const baseWord = pvText.toLowerCase();
+            const pattern = `\\\\b${{baseWord}}[a-z]*\\\\b`;
+            const regex = new RegExp(pattern, 'gi');
+            highlighted = highlighted.replace(regex, (match) => {{
+              if (match.toLowerCase().startsWith(baseWord)) {{
+                return `<span class="${{className}}">${{match}}</span>`;
+              }}
+              return match;
+            }});
+          }}
+        }}
       }});
 
       return highlighted;
