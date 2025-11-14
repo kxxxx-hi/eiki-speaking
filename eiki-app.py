@@ -119,6 +119,7 @@ html_content = f"""<!DOCTYPE html>
     <div class="text-gray-500 mb-4" id="card-counter"></div>
 
     <div class="card-content border border-gray-300 rounded-xl p-6 w-full flex flex-col justify-center items-center">
+      <div id="verb-group" class="text-lg font-bold text-purple-600 mb-3 text-center"></div>
       <div id="chinese-text" class="text-2xl sm:text-3xl font-semibold text-gray-800 mb-4 text-center"></div>
       <div id="english-text" class="text-xl sm:text-2xl text-gray-600 transition-opacity duration-300 ease-in-out opacity-0 mt-4 text-center"></div>
     </div>
@@ -147,6 +148,7 @@ html_content = f"""<!DOCTYPE html>
     const chineseText = document.getElementById('chinese-text');
     const englishText = document.getElementById('english-text');
     const cardCounter = document.getElementById('card-counter');
+    const verbGroupDisplay = document.getElementById('verb-group');
     const showHideBtn = document.getElementById('show-hide-btn');
     const nextBtn = document.getElementById('next-btn');
     const shuffleBtn = document.getElementById('shuffle-btn');
@@ -199,17 +201,27 @@ html_content = f"""<!DOCTYPE html>
         chineseText.innerHTML = "No cards available.";
         englishText.innerHTML = "";
         englishText.classList.add('opacity-0');
+        verbGroupDisplay.innerText = "";
         cardCounter.innerText = "0/0";
         return;
       }}
       const currentCard = filteredData[cardIndex];
       const selectedType = document.querySelector('input[name="card_type"]:checked')?.value || 'sentence';
       
+      // Display verb group for phrasal verbs
+      if (selectedType === 'phrasal_verbs' && currentCard.verbGroup) {{
+        verbGroupDisplay.innerText = `Verb: ${{currentCard.verbGroup.toUpperCase()}}`;
+        verbGroupDisplay.style.display = 'block';
+      }} else {{
+        verbGroupDisplay.style.display = 'none';
+      }}
+      
       if (selectedType === 'phrasal_verbs' && currentCard.phrasalVerbs) {{
-        // Highlight phrasal verbs
+        // Highlight phrasal verbs - always set innerHTML for both
         const highlightedChinese = highlightPhrasalVerbs(currentCard.chinese || "", currentCard.phrasalVerbs, true);
         const highlightedEnglish = highlightPhrasalVerbs(currentCard.english || "", currentCard.phrasalVerbs, false);
         chineseText.innerHTML = highlightedChinese;
+        // Always set the innerHTML, then control visibility with opacity
         englishText.innerHTML = highlightedEnglish;
       }} else {{
         // Regular rendering for sentences and vocabulary
@@ -217,6 +229,7 @@ html_content = f"""<!DOCTYPE html>
         englishText.innerText = currentCard.english || "";
       }}
       
+      // Control visibility after setting content
       if (showTranslation) {{
         englishText.classList.remove('opacity-0');
       }} else {{
