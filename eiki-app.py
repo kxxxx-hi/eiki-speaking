@@ -80,6 +80,20 @@ html_content = f"""<!DOCTYPE html>
       color: #374151;
       margin-bottom: 1rem;
     }}
+    .phrasal-verb {{
+      background-color: #fef3c7;
+      color: #92400e;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }}
+    .phrasal-verb-en {{
+      background-color: #dbeafe;
+      color: #1e40af;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }}
   </style>
 </head>
 <body>
@@ -95,6 +109,10 @@ html_content = f"""<!DOCTYPE html>
       <div class="flex items-center space-x-2">
         <input type="radio" id="vocabulary" name="card_type" value="vocabulary" class="form-radio text-blue-600 h-4 w-4">
         <label for="vocabulary" class="text-lg font-medium text-gray-700">Vocabulary</label>
+      </div>
+      <div class="flex items-center space-x-2">
+        <input type="radio" id="phrasal_verbs" name="card_type" value="phrasal_verbs" class="form-radio text-blue-600 h-4 w-4">
+        <label for="phrasal_verbs" class="text-lg font-medium text-gray-700">Phrasal Verbs</label>
       </div>
     </div>
 
@@ -149,17 +167,56 @@ html_content = f"""<!DOCTYPE html>
       showTranslation = false;
     }}
 
+    function highlightPhrasalVerbs(text, phrasalVerbs, isChinese) {{
+      if (!phrasalVerbs || !Array.isArray(phrasalVerbs) || phrasalVerbs.length === 0) {{
+        return text;
+      }}
+      let highlighted = text;
+      const className = isChinese ? 'phrasal-verb' : 'phrasal-verb-en';
+      
+      // Sort by length (longest first) to avoid partial matches
+      const sorted = [...phrasalVerbs].sort((a, b) => {{
+        const aText = isChinese ? a.chinese : a.english;
+        const bText = isChinese ? b.chinese : b.english;
+        return bText.length - aText.length;
+      }});
+
+      sorted.forEach(pv => {{
+        const pvText = isChinese ? pv.chinese : pv.english;
+        // Escape special regex characters
+        const escaped = pvText.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+        const regex = new RegExp(escaped, 'gi');
+        highlighted = highlighted.replace(regex, (match) => {{
+          return `<span class="${{className}}">${{match}}</span>`;
+        }});
+      }});
+
+      return highlighted;
+    }}
+
     function renderCard() {{
       if (filteredData.length === 0) {{
-        chineseText.innerText = "No cards available.";
-        englishText.innerText = "";
+        chineseText.innerHTML = "No cards available.";
+        englishText.innerHTML = "";
         englishText.classList.add('opacity-0');
         cardCounter.innerText = "0/0";
         return;
       }}
       const currentCard = filteredData[cardIndex];
-      chineseText.innerText = currentCard.chinese || "";
-      englishText.innerText = currentCard.english || "";
+      const selectedType = document.querySelector('input[name="card_type"]:checked')?.value || 'sentence';
+      
+      if (selectedType === 'phrasal_verbs' && currentCard.phrasalVerbs) {{
+        // Highlight phrasal verbs
+        const highlightedChinese = highlightPhrasalVerbs(currentCard.chinese || "", currentCard.phrasalVerbs, true);
+        const highlightedEnglish = highlightPhrasalVerbs(currentCard.english || "", currentCard.phrasalVerbs, false);
+        chineseText.innerHTML = highlightedChinese;
+        englishText.innerHTML = highlightedEnglish;
+      }} else {{
+        // Regular rendering for sentences and vocabulary
+        chineseText.innerText = currentCard.chinese || "";
+        englishText.innerText = currentCard.english || "";
+      }}
+      
       if (showTranslation) {{
         englishText.classList.remove('opacity-0');
       }} else {{
