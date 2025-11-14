@@ -193,7 +193,7 @@ html_content = f"""<!DOCTYPE html>
           highlighted = highlighted.replace(regex, (match) => {{
             return `<span class="${{className}}">${{match}}</span>`;
           }});
-        } else {{
+        }} else {{
           // For English, handle tense variations
           // Split phrasal verb into verb and particle(s)
           const parts = pvText.trim().split(/\\s+/);
