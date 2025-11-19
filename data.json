@@ -6231,6 +6231,3619 @@
           "translation": "持久的"
         }
       ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?",
+      "answer": "I don't think a child's relationship with friends can be fully replaced by family members. Friends offer a different kind of interaction compared to parents or relatives. They allow children to develop social skills, share secrets, and learn how to cooperate and resolve conflicts with peers, which is crucial for growing independence. For instance, a child might confide in a close friend about a disagreement at school, something they might feel awkward or hesitant to tell their parents. This kind of peer support is unique and helps them learn to navigate social situations. Of course, parents and other family members play an irreplaceable role in providing guidance and emotional support. They can give advice, set rules, and provide unconditional love, which friends usually cannot. But family interactions are generally more structured and less about equality or mutual problem-solving. For example, when a child faces a challenge at school, parents can comfort and guide them, but they may not share the same day-to-day experiences as the child, unlike friends who go through the same classes or activities. So overall, while family relationships are extremely important, a child's friendships cannot be fully replaced because they provide peer-level support, shared experiences, and opportunities to learn social skills that are different from what family can offer.",
+      "logicalConnectives": [
+        "for instance",
+        "of course",
+        "but",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "confide in",
+        "navigate situations",
+        "go through",
+        "provide support"
+      ],
+      "advancedVocab": [
+        {
+          "word": "interaction",
+          "translation": "互动"
+        },
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "hesitant",
+          "translation": "犹豫的"
+        },
+        {
+          "word": "irreplaceable",
+          "translation": "不可替代的"
+        },
+        {
+          "word": "unconditional",
+          "translation": "无条件的"
+        },
+        {
+          "word": "structured",
+          "translation": "结构化的"
+        },
+        {
+          "word": "mutual",
+          "translation": "相互的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What makes a successful family business?",
+      "answer": "I think one of the most important factors is good communication and trust among family members. In a family business, personal relationships can easily affect professional decisions. If family members trust each other and communicate openly, it's easier to make important decisions and avoid conflicts. Take Walmart as an example. It was started by Sam Walton and his family, and even as it grew into a global retail giant, the Walton family maintained strong trust and communication when making key business decisions. This helped the company stay on track and expand successfully over decades. Another key factor is having clear roles and responsibilities. Even though it's a family business, each member should know exactly what they are responsible for. This helps prevent misunderstandings and ensures that work is done efficiently. For example, in some successful family shops, one person handles finances, another takes care of marketing, and someone else manages customer service. This way, everyone knows their tasks and the business runs like clockwork. So overall, I'd say a successful family business depends on trust, open communication, and clearly defined roles, which together create a professional and harmonious working environment while keeping the family bond strong.",
+      "logicalConnectives": [
+        "if",
+        "take as an example",
+        "another",
+        "even though",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "affect decisions",
+        "stay on track",
+        "takes care of",
+        "runs like clockwork",
+        "keeping bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "factors",
+          "translation": "因素"
+        },
+        {
+          "word": "communication",
+          "translation": "沟通"
+        },
+        {
+          "word": "conflicts",
+          "translation": "冲突"
+        },
+        {
+          "word": "global",
+          "translation": "全球的"
+        },
+        {
+          "word": "retail",
+          "translation": "零售"
+        },
+        {
+          "word": "maintained",
+          "translation": "维持"
+        },
+        {
+          "word": "responsibilities",
+          "translation": "责任"
+        },
+        {
+          "word": "misunderstandings",
+          "translation": "误解"
+        },
+        {
+          "word": "efficiently",
+          "translation": "高效地"
+        },
+        {
+          "word": "harmonious",
+          "translation": "和谐的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people in your country like to say sorry?",
+      "answer": "Yes, I'd say people in my country generally do say 'sorry' quite often. Firstly, it's considered polite, humble, and a sign of being well-educated to apologize when you've done something wrong. Because, showing that you're aware of your mistakes and care about others is highly valued in Chinese culture. For instance, if someone bumps into you on the street or even crashes a car into you, most people will apologize sincerely and sometimes even accompany you to the hospital if necessary. This shows genuine concern and respect for others. Secondly, the government also encourages people to be apologetic and considerate in public. This is part of promoting social harmony and civility—basically, a society where people acknowledge mistakes helps everyone get along better. For example, in public service campaigns, there are messages reminding people to say sorry or express regret when they offend someone, which reinforces this habit in daily life. So overall, I'd say saying 'sorry' is both a social expectation and a personal virtue in my country. People are generally considerate and willing to acknowledge their mistakes, whether in everyday life or in more serious situations.",
+      "logicalConnectives": [
+        "firstly",
+        "because",
+        "for instance",
+        "secondly",
+        "for example",
+        "so overall",
+        "both",
+        "and",
+        "whether"
+      ],
+      "phrasalVerbs": [
+        "bumps into",
+        "crashes into",
+        "accompany to",
+        "get along",
+        "acknowledge mistakes"
+      ],
+      "advancedVocab": [
+        {
+          "word": "humble",
+          "translation": "谦逊的"
+        },
+        {
+          "word": "well-educated",
+          "translation": "受过良好教育的"
+        },
+        {
+          "word": "sincerely",
+          "translation": "真诚地"
+        },
+        {
+          "word": "genuine",
+          "translation": "真诚的"
+        },
+        {
+          "word": "apologetic",
+          "translation": "道歉的"
+        },
+        {
+          "word": "considerate",
+          "translation": "体贴的"
+        },
+        {
+          "word": "harmony",
+          "translation": "和谐"
+        },
+        {
+          "word": "civility",
+          "translation": "文明"
+        },
+        {
+          "word": "acknowledge",
+          "translation": "承认"
+        },
+        {
+          "word": "virtue",
+          "translation": "美德"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of old things do people in your country like to keep?",
+      "answer": "Well, I think people in my country usually like to keep old items that carry cultural or personal value. Firstly, many families keep jewelry that has been handed down from their ancestors. These items are not only a carrier of traditional culture, but also a symbol of Chinese heritage. Some of the most famous pieces are even displayed in museums because of their historical and artistic value. For instance, the Palace Museum in Beijing has a lot of jewelry and jade pieces that are considered extremely precious. They show how Chinese craftsmanship and culture have been preserved for generations. Another common item people like to keep is old photo albums. These albums carry memories from childhood to old age, letting people remember their life journey and loved ones. For example, some people keep the photos of their grandparents after they pass away. Looking at these pictures can make them feel as if their grandparents are still around, providing comfort and a sense of connection. So overall, people in my country tend to keep ancestral jewelry and old photo albums, as they are not only valuable culturally but also help preserve personal and family memories.",
+      "logicalConnectives": [
+        "firstly",
+        "for instance",
+        "another",
+        "for example",
+        "so overall",
+        "as"
+      ],
+      "phrasalVerbs": [
+        "handed down",
+        "carry value",
+        "pass away",
+        "preserve memories"
+      ],
+      "advancedVocab": [
+        {
+          "word": "ancestors",
+          "translation": "祖先"
+        },
+        {
+          "word": "carrier",
+          "translation": "载体"
+        },
+        {
+          "word": "heritage",
+          "translation": "遗产"
+        },
+        {
+          "word": "displayed",
+          "translation": "展示"
+        },
+        {
+          "word": "historical",
+          "translation": "历史的"
+        },
+        {
+          "word": "artistic",
+          "translation": "艺术的"
+        },
+        {
+          "word": "precious",
+          "translation": "珍贵的"
+        },
+        {
+          "word": "craftsmanship",
+          "translation": "工艺"
+        },
+        {
+          "word": "preserved",
+          "translation": "保存"
+        },
+        {
+          "word": "ancestral",
+          "translation": "祖先的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you committed to rigorously and went successfully.",
+      "answer": "I'd like to talk about a plan I made for my dog's second birthday. The situation was that we wanted to take her for a proper hike to celebrate. Since she had never done a long hike before, I knew we had to be very careful and organized. The task involved planning out the route carefully and preparing enough food and drinks for both of us. I also made a checklist of all the essentials we might need, like a first-aid kit and water bowls for my dog, to make sure nothing went wrong. On the day itself, we drove to the highest mountain in Guangzhou, right in the middle of Tianhe District, and started our hike early in the morning. I made sure to follow the route step by step, keeping an eye on my dog's energy and stopping whenever we needed a break. The result was really satisfying. After a few hours, we managed to reach the top of the mountain. Seeing my dog happy and healthy at the summit was an amazing feeling, and the whole experience gave me a sense of accomplishment. This plan not only worked perfectly but also strengthened my bond with my dog and taught me the value of preparation and perseverance.",
+      "logicalConnectives": [
+        "since",
+        "the task involved",
+        "on the day itself",
+        "the result was",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "planning out",
+        "make sure",
+        "went wrong",
+        "keeping an eye on",
+        "strengthened bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "rigorously",
+          "translation": "严格地"
+        },
+        {
+          "word": "organized",
+          "translation": "有组织的"
+        },
+        {
+          "word": "essentials",
+          "translation": "必需品"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "accomplishment",
+          "translation": "成就"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you failed to fulfill because of some mistake.",
+      "answer": "I'd like to talk about a plan I made to take my dog for a hike when she was 2 years old. The situation was that we had carefully planned to climb to the peak of a mountain in Guangzhou, but unfortunately, my phone died halfway, and we got completely lost on the trail. The task was to find the way and still reach the top, because the goal of the hike was to celebrate my dog's birthday by getting to the summit. I felt a bit stressed because we didn't know the trail well, and it seemed like the plan was going to fail. During the action stage, luckily we met a girl called Tina on the trail. She kindly offered to guide us to the top. She showed us the right path step by step, and we followed her carefully, making sure my dog stayed safe. The result was that we still managed to reach the peak, even though the original plan went off track. Looking back, I realized that mistakes happen, but sometimes unexpected help can turn failure into success, and the experience became a memorable adventure that I'll never forget.",
+      "logicalConnectives": [
+        "but unfortunately",
+        "because",
+        "during",
+        "luckily",
+        "even though",
+        "looking back"
+      ],
+      "phrasalVerbs": [
+        "got lost",
+        "going to fail",
+        "offered to",
+        "went off track",
+        "turn into"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unfortunately",
+          "translation": "不幸地"
+        },
+        {
+          "word": "completely",
+          "translation": "完全地"
+        },
+        {
+          "word": "trail",
+          "translation": "小径"
+        },
+        {
+          "word": "stressed",
+          "translation": "有压力的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "adventure",
+          "translation": "冒险"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan you made together with your friend.",
+      "answer": "I'd like to talk about a plan I made with my friend Tina to take my dog hiking. The situation was that my dog was 2 years old, and we wanted to celebrate by climbing a mountain in Guangzhou. Since I didn't know the trail well, I invited Tina, who had some hiking experience, to join me. The task was to plan the route carefully, make sure we had enough food and water for both the humans and my dog, and safely reach the peak. We also wanted to make sure my dog would enjoy the hike and stay safe. On the day of the hike, we drove to the mountain together and started early in the morning. Tina and I took turns leading the way, keeping an eye on my dog's energy, and supporting each other along the trail. Whenever we faced tricky paths, we communicated and decided together which route was safest. The result was really satisfying. Thanks to our teamwork, we successfully reached the summit, and my dog was happy and healthy throughout. The experience not only strengthened my friendship with Tina but also taught me how much smoother and more enjoyable a plan can go when it's done together.",
+      "logicalConnectives": [
+        "since",
+        "the task was",
+        "on the day",
+        "whenever",
+        "thanks to",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "invited to",
+        "join me",
+        "make sure",
+        "took turns",
+        "keeping an eye on",
+        "faced paths",
+        "done together"
+      ],
+      "advancedVocab": [
+        {
+          "word": "experience",
+          "translation": "经验"
+        },
+        {
+          "word": "teamwork",
+          "translation": "团队合作"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "throughout",
+          "translation": "整个过程中"
+        },
+        {
+          "word": "strengthened",
+          "translation": "加强"
+        },
+        {
+          "word": "smoother",
+          "translation": "更顺利的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What important decisions should be made by teenagers themselves?",
+      "answer": "Well, I think some decisions should definitely be made by teenagers themselves, while others are better left to adults. For starters, choices about hobbies, interests, friends, clothing, or food are best made by teenagers themselves. These decisions help them develop independence, build their personality, and learn responsibility for their choices. For example, if a teenager wants to join a music club or try painting, letting them decide encourages self-expression and confidence. Similarly, choosing what friends to hang out with or what clothes to wear allows them to explore their identity and personal taste. On the other hand, major life decisions, such as picking a university major, deciding where to settle down, or making choices involving a large sum of money, are usually better made with guidance. These decisions have long-term consequences and often require experience, financial knowledge, and maturity. For instance, choosing a major might affect future career opportunities, so parents or mentors can help teenagers weigh the pros and cons before committing. So overall, teenagers should be encouraged to make decisions about daily life and personal interests, while bigger, long-term decisions are better approached with guidance from adults. This way, they can learn responsibility gradually without risking serious mistakes.",
+      "logicalConnectives": [
+        "while",
+        "for starters",
+        "for example",
+        "on the other hand",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "left to",
+        "develop independence",
+        "hang out with",
+        "settle down",
+        "weigh pros and cons",
+        "approached with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "definitely",
+          "translation": "肯定地"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "personality",
+          "translation": "个性"
+        },
+        {
+          "word": "responsibility",
+          "translation": "责任"
+        },
+        {
+          "word": "self-expression",
+          "translation": "自我表达"
+        },
+        {
+          "word": "identity",
+          "translation": "身份"
+        },
+        {
+          "word": "consequences",
+          "translation": "后果"
+        },
+        {
+          "word": "maturity",
+          "translation": "成熟"
+        },
+        {
+          "word": "mentors",
+          "translation": "导师"
+        },
+        {
+          "word": "gradually",
+          "translation": "逐渐地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What qualities do people need when starting their own business?",
+      "answer": "Well, I'd say starting a business, especially a family-run one, calls for a few essential qualities. First off, people really need to be perseverant and determined. Let's face it, running a business is never a smooth ride, and there are always obstacles and setbacks along the way. Without perseverance, people might throw in the towel when things don't go according to plan, especially in the early stages when success is still up in the air. Take Jack Ma, the founder of Alibaba, for example. He faced countless rejections and failures in the beginning, but by sticking to his guns, he eventually built a hugely successful empire. Another key quality is having strong management and financial skills, particularly in a family business where resources and responsibilities are shared. People need to plan carefully, allocate resources wisely, and make smart financial choices to keep the business running smoothly. For instance, the Li & Fung Group, a well-known family-run business in China, has survived for generations because the owners know how to manage both people and money effectively. So all in all, I'd say that perseverance, determination, and solid management skills are absolutely vital. With these in place, people are far more likely to turn their business dreams into reality and grow it sustainably over the long term.",
+      "logicalConnectives": [
+        "first off",
+        "for example",
+        "another",
+        "for instance",
+        "so all in all"
+      ],
+      "phrasalVerbs": [
+        "calls for",
+        "smooth ride",
+        "throw in the towel",
+        "go according to plan",
+        "up in the air",
+        "sticking to",
+        "turn into",
+        "in place"
+      ],
+      "advancedVocab": [
+        {
+          "word": "perseverant",
+          "translation": "坚持不懈的"
+        },
+        {
+          "word": "determined",
+          "translation": "坚定的"
+        },
+        {
+          "word": "obstacles",
+          "translation": "障碍"
+        },
+        {
+          "word": "setbacks",
+          "translation": "挫折"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        },
+        {
+          "word": "countless",
+          "translation": "无数的"
+        },
+        {
+          "word": "rejections",
+          "translation": "拒绝"
+        },
+        {
+          "word": "eventually",
+          "translation": "最终"
+        },
+        {
+          "word": "empire",
+          "translation": "帝国"
+        },
+        {
+          "word": "management",
+          "translation": "管理"
+        },
+        {
+          "word": "allocate",
+          "translation": "分配"
+        },
+        {
+          "word": "sustainably",
+          "translation": "可持续地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a person who you know that enjoys dressing up.",
+      "answer": "I'd like to talk about Taylor Swift, who is not only a world-famous singer but also someone who clearly loves dressing up. When she performs at her concerts, she usually wears glittering outfits covered in sequins and sometimes sparkling diamonds, paired with high heels and carefully chosen accessories. She often changes several outfits during one show, each one more eye-catching than the last. I think the reason she dresses this way is that it matches her performance and her public image. On stage, she wants to stand out and show confidence, and these dazzling clothes really help her do that. Also, it's a way for her to express her personality and creativity. Watching her, I feel really inspired and excited. Her style is bold, glamorous, and full of energy, which makes her performances even more memorable. It's amazing how someone's fashion can literally sparkle and convey their personality at the same time.",
+      "logicalConnectives": [
+        "not only",
+        "but also",
+        "when",
+        "also",
+        "it's amazing how"
+      ],
+      "phrasalVerbs": [
+        "dressing up",
+        "covered in",
+        "paired with",
+        "stand out",
+        "express personality",
+        "convey personality"
+      ],
+      "advancedVocab": [
+        {
+          "word": "glittering",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "outfits",
+          "translation": "服装"
+        },
+        {
+          "word": "sequins",
+          "translation": "亮片"
+        },
+        {
+          "word": "sparkling",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "accessories",
+          "translation": "配饰"
+        },
+        {
+          "word": "eye-catching",
+          "translation": "吸引眼球的"
+        },
+        {
+          "word": "dazzling",
+          "translation": "耀眼的"
+        },
+        {
+          "word": "glamorous",
+          "translation": "迷人的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "sparkle",
+          "translation": "闪耀"
+        },
+        {
+          "word": "convey",
+          "translation": "传达"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?",
+      "answer": "I don't think a child's relationship with friends can be fully replaced by family members. Friends offer a different kind of interaction compared to parents or relatives. They allow children to develop social skills, share secrets, and learn how to cooperate and resolve conflicts with peers, which is crucial for growing independence. For instance, a child might confide in a close friend about a disagreement at school, something they might feel awkward or hesitant to tell their parents. This kind of peer support is unique and helps them learn to navigate social situations. Of course, parents and other family members play an irreplaceable role in providing guidance and emotional support. They can give advice, set rules, and provide unconditional love, which friends usually cannot. But family interactions are generally more structured and less about equality or mutual problem-solving. For example, when a child faces a challenge at school, parents can comfort and guide them, but they may not share the same day-to-day experiences as the child, unlike friends who go through the same classes or activities. So overall, while family relationships are extremely important, a child's friendships cannot be fully replaced because they provide peer-level support, shared experiences, and opportunities to learn social skills that are different from what family can offer.",
+      "logicalConnectives": [
+        "for instance",
+        "of course",
+        "but",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "confide in",
+        "navigate situations",
+        "go through",
+        "provide support"
+      ],
+      "advancedVocab": [
+        {
+          "word": "interaction",
+          "translation": "互动"
+        },
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "hesitant",
+          "translation": "犹豫的"
+        },
+        {
+          "word": "irreplaceable",
+          "translation": "不可替代的"
+        },
+        {
+          "word": "unconditional",
+          "translation": "无条件的"
+        },
+        {
+          "word": "structured",
+          "translation": "结构化的"
+        },
+        {
+          "word": "mutual",
+          "translation": "相互的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What makes a successful family business?",
+      "answer": "I think one of the most important factors is good communication and trust among family members. In a family business, personal relationships can easily affect professional decisions. If family members trust each other and communicate openly, it's easier to make important decisions and avoid conflicts. Take Walmart as an example. It was started by Sam Walton and his family, and even as it grew into a global retail giant, the Walton family maintained strong trust and communication when making key business decisions. This helped the company stay on track and expand successfully over decades. Another key factor is having clear roles and responsibilities. Even though it's a family business, each member should know exactly what they are responsible for. This helps prevent misunderstandings and ensures that work is done efficiently. For example, in some successful family shops, one person handles finances, another takes care of marketing, and someone else manages customer service. This way, everyone knows their tasks and the business runs like clockwork. So overall, I'd say a successful family business depends on trust, open communication, and clearly defined roles, which together create a professional and harmonious working environment while keeping the family bond strong.",
+      "logicalConnectives": [
+        "if",
+        "take as an example",
+        "another",
+        "even though",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "affect decisions",
+        "stay on track",
+        "takes care of",
+        "runs like clockwork",
+        "keeping bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "factors",
+          "translation": "因素"
+        },
+        {
+          "word": "communication",
+          "translation": "沟通"
+        },
+        {
+          "word": "conflicts",
+          "translation": "冲突"
+        },
+        {
+          "word": "global",
+          "translation": "全球的"
+        },
+        {
+          "word": "retail",
+          "translation": "零售"
+        },
+        {
+          "word": "maintained",
+          "translation": "维持"
+        },
+        {
+          "word": "responsibilities",
+          "translation": "责任"
+        },
+        {
+          "word": "misunderstandings",
+          "translation": "误解"
+        },
+        {
+          "word": "efficiently",
+          "translation": "高效地"
+        },
+        {
+          "word": "harmonious",
+          "translation": "和谐的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people in your country like to say sorry?",
+      "answer": "Yes, I'd say people in my country generally do say 'sorry' quite often. Firstly, it's considered polite, humble, and a sign of being well-educated to apologize when you've done something wrong. Because, showing that you're aware of your mistakes and care about others is highly valued in Chinese culture. For instance, if someone bumps into you on the street or even crashes a car into you, most people will apologize sincerely and sometimes even accompany you to the hospital if necessary. This shows genuine concern and respect for others. Secondly, the government also encourages people to be apologetic and considerate in public. This is part of promoting social harmony and civility—basically, a society where people acknowledge mistakes helps everyone get along better. For example, in public service campaigns, there are messages reminding people to say sorry or express regret when they offend someone, which reinforces this habit in daily life. So overall, I'd say saying 'sorry' is both a social expectation and a personal virtue in my country. People are generally considerate and willing to acknowledge their mistakes, whether in everyday life or in more serious situations.",
+      "logicalConnectives": [
+        "firstly",
+        "because",
+        "for instance",
+        "secondly",
+        "for example",
+        "so overall",
+        "both",
+        "and",
+        "whether"
+      ],
+      "phrasalVerbs": [
+        "bumps into",
+        "crashes into",
+        "accompany to",
+        "get along",
+        "acknowledge mistakes"
+      ],
+      "advancedVocab": [
+        {
+          "word": "humble",
+          "translation": "谦逊的"
+        },
+        {
+          "word": "well-educated",
+          "translation": "受过良好教育的"
+        },
+        {
+          "word": "sincerely",
+          "translation": "真诚地"
+        },
+        {
+          "word": "genuine",
+          "translation": "真诚的"
+        },
+        {
+          "word": "apologetic",
+          "translation": "道歉的"
+        },
+        {
+          "word": "considerate",
+          "translation": "体贴的"
+        },
+        {
+          "word": "harmony",
+          "translation": "和谐"
+        },
+        {
+          "word": "civility",
+          "translation": "文明"
+        },
+        {
+          "word": "acknowledge",
+          "translation": "承认"
+        },
+        {
+          "word": "virtue",
+          "translation": "美德"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of old things do people in your country like to keep?",
+      "answer": "Well, I think people in my country usually like to keep old items that carry cultural or personal value. Firstly, many families keep jewelry that has been handed down from their ancestors. These items are not only a carrier of traditional culture, but also a symbol of Chinese heritage. Some of the most famous pieces are even displayed in museums because of their historical and artistic value. For instance, the Palace Museum in Beijing has a lot of jewelry and jade pieces that are considered extremely precious. They show how Chinese craftsmanship and culture have been preserved for generations. Another common item people like to keep is old photo albums. These albums carry memories from childhood to old age, letting people remember their life journey and loved ones. For example, some people keep the photos of their grandparents after they pass away. Looking at these pictures can make them feel as if their grandparents are still around, providing comfort and a sense of connection. So overall, people in my country tend to keep ancestral jewelry and old photo albums, as they are not only valuable culturally but also help preserve personal and family memories.",
+      "logicalConnectives": [
+        "firstly",
+        "for instance",
+        "another",
+        "for example",
+        "so overall",
+        "as"
+      ],
+      "phrasalVerbs": [
+        "handed down",
+        "carry value",
+        "pass away",
+        "preserve memories"
+      ],
+      "advancedVocab": [
+        {
+          "word": "ancestors",
+          "translation": "祖先"
+        },
+        {
+          "word": "carrier",
+          "translation": "载体"
+        },
+        {
+          "word": "heritage",
+          "translation": "遗产"
+        },
+        {
+          "word": "displayed",
+          "translation": "展示"
+        },
+        {
+          "word": "historical",
+          "translation": "历史的"
+        },
+        {
+          "word": "artistic",
+          "translation": "艺术的"
+        },
+        {
+          "word": "precious",
+          "translation": "珍贵的"
+        },
+        {
+          "word": "craftsmanship",
+          "translation": "工艺"
+        },
+        {
+          "word": "preserved",
+          "translation": "保存"
+        },
+        {
+          "word": "ancestral",
+          "translation": "祖先的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you committed to rigorously and went successfully.",
+      "answer": "I'd like to talk about a plan I made for my dog's second birthday. The situation was that we wanted to take her for a proper hike to celebrate. Since she had never done a long hike before, I knew we had to be very careful and organized. The task involved planning out the route carefully and preparing enough food and drinks for both of us. I also made a checklist of all the essentials we might need, like a first-aid kit and water bowls for my dog, to make sure nothing went wrong. On the day itself, we drove to the highest mountain in Guangzhou, right in the middle of Tianhe District, and started our hike early in the morning. I made sure to follow the route step by step, keeping an eye on my dog's energy and stopping whenever we needed a break. The result was really satisfying. After a few hours, we managed to reach the top of the mountain. Seeing my dog happy and healthy at the summit was an amazing feeling, and the whole experience gave me a sense of accomplishment. This plan not only worked perfectly but also strengthened my bond with my dog and taught me the value of preparation and perseverance.",
+      "logicalConnectives": [
+        "since",
+        "the task involved",
+        "on the day itself",
+        "the result was",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "planning out",
+        "make sure",
+        "went wrong",
+        "keeping an eye on",
+        "strengthened bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "rigorously",
+          "translation": "严格地"
+        },
+        {
+          "word": "organized",
+          "translation": "有组织的"
+        },
+        {
+          "word": "essentials",
+          "translation": "必需品"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "accomplishment",
+          "translation": "成就"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you failed to fulfill because of some mistake.",
+      "answer": "I'd like to talk about a plan I made to take my dog for a hike when she was 2 years old. The situation was that we had carefully planned to climb to the peak of a mountain in Guangzhou, but unfortunately, my phone died halfway, and we got completely lost on the trail. The task was to find the way and still reach the top, because the goal of the hike was to celebrate my dog's birthday by getting to the summit. I felt a bit stressed because we didn't know the trail well, and it seemed like the plan was going to fail. During the action stage, luckily we met a girl called Tina on the trail. She kindly offered to guide us to the top. She showed us the right path step by step, and we followed her carefully, making sure my dog stayed safe. The result was that we still managed to reach the peak, even though the original plan went off track. Looking back, I realized that mistakes happen, but sometimes unexpected help can turn failure into success, and the experience became a memorable adventure that I'll never forget.",
+      "logicalConnectives": [
+        "but unfortunately",
+        "because",
+        "during",
+        "luckily",
+        "even though",
+        "looking back"
+      ],
+      "phrasalVerbs": [
+        "got lost",
+        "going to fail",
+        "offered to",
+        "went off track",
+        "turn into"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unfortunately",
+          "translation": "不幸地"
+        },
+        {
+          "word": "completely",
+          "translation": "完全地"
+        },
+        {
+          "word": "trail",
+          "translation": "小径"
+        },
+        {
+          "word": "stressed",
+          "translation": "有压力的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "adventure",
+          "translation": "冒险"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan you made together with your friend.",
+      "answer": "I'd like to talk about a plan I made with my friend Tina to take my dog hiking. The situation was that my dog was 2 years old, and we wanted to celebrate by climbing a mountain in Guangzhou. Since I didn't know the trail well, I invited Tina, who had some hiking experience, to join me. The task was to plan the route carefully, make sure we had enough food and water for both the humans and my dog, and safely reach the peak. We also wanted to make sure my dog would enjoy the hike and stay safe. On the day of the hike, we drove to the mountain together and started early in the morning. Tina and I took turns leading the way, keeping an eye on my dog's energy, and supporting each other along the trail. Whenever we faced tricky paths, we communicated and decided together which route was safest. The result was really satisfying. Thanks to our teamwork, we successfully reached the summit, and my dog was happy and healthy throughout. The experience not only strengthened my friendship with Tina but also taught me how much smoother and more enjoyable a plan can go when it's done together.",
+      "logicalConnectives": [
+        "since",
+        "the task was",
+        "on the day",
+        "whenever",
+        "thanks to",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "invited to",
+        "join me",
+        "make sure",
+        "took turns",
+        "keeping an eye on",
+        "faced paths",
+        "done together"
+      ],
+      "advancedVocab": [
+        {
+          "word": "experience",
+          "translation": "经验"
+        },
+        {
+          "word": "teamwork",
+          "translation": "团队合作"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "throughout",
+          "translation": "整个过程中"
+        },
+        {
+          "word": "strengthened",
+          "translation": "加强"
+        },
+        {
+          "word": "smoother",
+          "translation": "更顺利的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What important decisions should be made by teenagers themselves?",
+      "answer": "Well, I think some decisions should definitely be made by teenagers themselves, while others are better left to adults. For starters, choices about hobbies, interests, friends, clothing, or food are best made by teenagers themselves. These decisions help them develop independence, build their personality, and learn responsibility for their choices. For example, if a teenager wants to join a music club or try painting, letting them decide encourages self-expression and confidence. Similarly, choosing what friends to hang out with or what clothes to wear allows them to explore their identity and personal taste. On the other hand, major life decisions, such as picking a university major, deciding where to settle down, or making choices involving a large sum of money, are usually better made with guidance. These decisions have long-term consequences and often require experience, financial knowledge, and maturity. For instance, choosing a major might affect future career opportunities, so parents or mentors can help teenagers weigh the pros and cons before committing. So overall, teenagers should be encouraged to make decisions about daily life and personal interests, while bigger, long-term decisions are better approached with guidance from adults. This way, they can learn responsibility gradually without risking serious mistakes.",
+      "logicalConnectives": [
+        "while",
+        "for starters",
+        "for example",
+        "on the other hand",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "left to",
+        "develop independence",
+        "hang out with",
+        "settle down",
+        "weigh pros and cons",
+        "approached with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "definitely",
+          "translation": "肯定地"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "personality",
+          "translation": "个性"
+        },
+        {
+          "word": "responsibility",
+          "translation": "责任"
+        },
+        {
+          "word": "self-expression",
+          "translation": "自我表达"
+        },
+        {
+          "word": "identity",
+          "translation": "身份"
+        },
+        {
+          "word": "consequences",
+          "translation": "后果"
+        },
+        {
+          "word": "maturity",
+          "translation": "成熟"
+        },
+        {
+          "word": "mentors",
+          "translation": "导师"
+        },
+        {
+          "word": "gradually",
+          "translation": "逐渐地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What qualities do people need when starting their own business?",
+      "answer": "Well, I'd say starting a business, especially a family-run one, calls for a few essential qualities. First off, people really need to be perseverant and determined. Let's face it, running a business is never a smooth ride, and there are always obstacles and setbacks along the way. Without perseverance, people might throw in the towel when things don't go according to plan, especially in the early stages when success is still up in the air. Take Jack Ma, the founder of Alibaba, for example. He faced countless rejections and failures in the beginning, but by sticking to his guns, he eventually built a hugely successful empire. Another key quality is having strong management and financial skills, particularly in a family business where resources and responsibilities are shared. People need to plan carefully, allocate resources wisely, and make smart financial choices to keep the business running smoothly. For instance, the Li & Fung Group, a well-known family-run business in China, has survived for generations because the owners know how to manage both people and money effectively. So all in all, I'd say that perseverance, determination, and solid management skills are absolutely vital. With these in place, people are far more likely to turn their business dreams into reality and grow it sustainably over the long term.",
+      "logicalConnectives": [
+        "first off",
+        "for example",
+        "another",
+        "for instance",
+        "so all in all"
+      ],
+      "phrasalVerbs": [
+        "calls for",
+        "smooth ride",
+        "throw in the towel",
+        "go according to plan",
+        "up in the air",
+        "sticking to",
+        "turn into",
+        "in place"
+      ],
+      "advancedVocab": [
+        {
+          "word": "perseverant",
+          "translation": "坚持不懈的"
+        },
+        {
+          "word": "determined",
+          "translation": "坚定的"
+        },
+        {
+          "word": "obstacles",
+          "translation": "障碍"
+        },
+        {
+          "word": "setbacks",
+          "translation": "挫折"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        },
+        {
+          "word": "countless",
+          "translation": "无数的"
+        },
+        {
+          "word": "rejections",
+          "translation": "拒绝"
+        },
+        {
+          "word": "eventually",
+          "translation": "最终"
+        },
+        {
+          "word": "empire",
+          "translation": "帝国"
+        },
+        {
+          "word": "management",
+          "translation": "管理"
+        },
+        {
+          "word": "allocate",
+          "translation": "分配"
+        },
+        {
+          "word": "sustainably",
+          "translation": "可持续地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a person who you know that enjoys dressing up.",
+      "answer": "I'd like to talk about Taylor Swift, who is not only a world-famous singer but also someone who clearly loves dressing up. When she performs at her concerts, she usually wears glittering outfits covered in sequins and sometimes sparkling diamonds, paired with high heels and carefully chosen accessories. She often changes several outfits during one show, each one more eye-catching than the last. I think the reason she dresses this way is that it matches her performance and her public image. On stage, she wants to stand out and show confidence, and these dazzling clothes really help her do that. Also, it's a way for her to express her personality and creativity. Watching her, I feel really inspired and excited. Her style is bold, glamorous, and full of energy, which makes her performances even more memorable. It's amazing how someone's fashion can literally sparkle and convey their personality at the same time.",
+      "logicalConnectives": [
+        "not only",
+        "but also",
+        "when",
+        "also",
+        "it's amazing how"
+      ],
+      "phrasalVerbs": [
+        "dressing up",
+        "covered in",
+        "paired with",
+        "stand out",
+        "express personality",
+        "convey personality"
+      ],
+      "advancedVocab": [
+        {
+          "word": "glittering",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "outfits",
+          "translation": "服装"
+        },
+        {
+          "word": "sequins",
+          "translation": "亮片"
+        },
+        {
+          "word": "sparkling",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "accessories",
+          "translation": "配饰"
+        },
+        {
+          "word": "eye-catching",
+          "translation": "吸引眼球的"
+        },
+        {
+          "word": "dazzling",
+          "translation": "耀眼的"
+        },
+        {
+          "word": "glamorous",
+          "translation": "迷人的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "sparkle",
+          "translation": "闪耀"
+        },
+        {
+          "word": "convey",
+          "translation": "传达"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe your regular dressing style.",
+      "answer": "I'd like to talk about my usual dressing style, which is very casual and simple. Most of the time, I wear t-shirts and jeans, sometimes paired with sneakers or comfortable flats. The main reason I choose this style is that it's extremely practical and flexible. Wearing t-shirts and jeans allows me to move around freely whether I'm walking, running errands, or spending time outdoors with my dog. I don't have to worry about feeling restricted, which makes daily life much easier. Also, I find this style very low-maintenance and comfortable. I don't have to spend much time thinking about what to wear, and it still looks neat and presentable for most occasions. Overall, my regular dressing style makes me feel relaxed and confident, and it perfectly fits my lifestyle, where comfort and mobility are more important than fashion trends.",
+      "logicalConnectives": [
+        "the main reason",
+        "whether",
+        "also",
+        "overall"
+      ],
+      "phrasalVerbs": [
+        "paired with",
+        "move around",
+        "running errands",
+        "spending time",
+        "fits lifestyle"
+      ],
+      "advancedVocab": [
+        {
+          "word": "casual",
+          "translation": "休闲的"
+        },
+        {
+          "word": "practical",
+          "translation": "实用的"
+        },
+        {
+          "word": "flexible",
+          "translation": "灵活的"
+        },
+        {
+          "word": "restricted",
+          "translation": "受限制的"
+        },
+        {
+          "word": "low-maintenance",
+          "translation": "低维护的"
+        },
+        {
+          "word": "presentable",
+          "translation": "得体的"
+        },
+        {
+          "word": "mobility",
+          "translation": "移动性"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think clothes produced in the factory are of better quality than those made by hand?",
+      "answer": "Well, I think both factory-produced clothes and handmade clothes have their own advantages, depending on what people value. Firstly, clothes made in factories, like those from Uniqlo, are usually of good quality and standardized. Since these clothes are mass-produced, every piece follows strict quality control and sizing standards, which makes them reliable and consistent. For instance, if people buy a T-shirt from Uniqlo, they can expect the same fit, material, and durability as anyone else who buys it, which is convenient and practical. On the other hand, handmade clothes are often delicate and exquisite, featuring details like embroidery, knitting, or custom sewing. Because each piece is crafted with care, the quality of craftsmanship can be very high, even if the materials are sometimes not as standardized as factory-made clothes. For example, some traditional Chinese embroidered dresses or hand-knitted sweaters are incredibly detailed, and people often treasure them because of the time and skill invested in making them. So overall, factory-produced clothes are great for standardization and convenience, while handmade clothes stand out for uniqueness and craftsmanship.",
+      "logicalConnectives": [
+        "firstly",
+        "since",
+        "for instance",
+        "on the other hand",
+        "because",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "mass-produced",
+        "stand out",
+        "invested in"
+      ],
+      "advancedVocab": [
+        {
+          "word": "standardized",
+          "translation": "标准化的"
+        },
+        {
+          "word": "mass-produced",
+          "translation": "大量生产的"
+        },
+        {
+          "word": "reliable",
+          "translation": "可靠的"
+        },
+        {
+          "word": "consistent",
+          "translation": "一致的"
+        },
+        {
+          "word": "durability",
+          "translation": "耐用性"
+        },
+        {
+          "word": "delicate",
+          "translation": "精致的"
+        },
+        {
+          "word": "exquisite",
+          "translation": "精美的"
+        },
+        {
+          "word": "embroidery",
+          "translation": "刺绣"
+        },
+        {
+          "word": "crafted",
+          "translation": "精心制作的"
+        },
+        {
+          "word": "craftsmanship",
+          "translation": "工艺"
+        },
+        {
+          "word": "treasure",
+          "translation": "珍惜"
+        },
+        {
+          "word": "uniqueness",
+          "translation": "独特性"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Would you lend money to your friends?",
+      "answer": "Yes, I would. But I think it depends on the situation my friends are in. I think I would be willing to lend money to help out or give a hand to friends in urgent or desperate situations. For example, if my friend is in hospital and she needs money to pay for the treatment, then I would lend money to my friend. In such cases, helping a friend in need is more important than worrying about when the money will be returned. However, I would be more cautious about lending money for less urgent reasons, like buying luxury items or going on expensive trips. So overall, I believe in helping friends when they really need it, especially in emergency situations, but I also think it's important to be careful and considerate about when and how much to lend.",
+      "logicalConnectives": [
+        "but",
+        "for example",
+        "however",
+        "so overall",
+        "especially"
+      ],
+      "phrasalVerbs": [
+        "help out",
+        "give a hand",
+        "pay for",
+        "worrying about",
+        "returned"
+      ],
+      "advancedVocab": [
+        {
+          "word": "desperate",
+          "translation": "绝望的"
+        },
+        {
+          "word": "urgent",
+          "translation": "紧急的"
+        },
+        {
+          "word": "treatment",
+          "translation": "治疗"
+        },
+        {
+          "word": "cautious",
+          "translation": "谨慎的"
+        },
+        {
+          "word": "luxury",
+          "translation": "奢侈的"
+        },
+        {
+          "word": "emergency",
+          "translation": "紧急情况"
+        },
+        {
+          "word": "considerate",
+          "translation": "体贴的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How often do you buy clothes or shoes?",
+      "answer": "I don't often buy clothes. My wardrobe mainly focuses on simple and practical styles, so the clothes I have are durable and long-lasting. For instance, I usually stick to t-shirts, jeans, and comfortable shoes. Even after wearing them for months, they're still in good condition, which saves both money and effort. So, I buy them once a month, which is suitable for me. I think this frequency suits me the best. This pace is suitable for updating my wardrobe without spending too much money. I think it's important to find a balance between having enough clothes and not wasting money. Some people buy clothes every week, but I prefer to buy less often and choose items that I really like and will wear for a long time.",
+      "logicalConnectives": [
+        "so",
+        "for instance",
+        "so",
+        "but"
+      ],
+      "phrasalVerbs": [
+        "stick to",
+        "in good condition",
+        "saves money",
+        "suits me",
+        "updating wardrobe",
+        "find a balance"
+      ],
+      "advancedVocab": [
+        {
+          "word": "wardrobe",
+          "translation": "衣柜"
+        },
+        {
+          "word": "practical",
+          "translation": "实用的"
+        },
+        {
+          "word": "durable",
+          "translation": "耐用的"
+        },
+        {
+          "word": "long-lasting",
+          "translation": "持久的"
+        },
+        {
+          "word": "frequency",
+          "translation": "频率"
+        },
+        {
+          "word": "suitable",
+          "translation": "合适的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you like to buy shoes online or offline?",
+      "answer": "I like to buy shoes offline. Because the shoes online sometimes trick my eyes, after I receive the shoes which I bought online, they are not suitable for my toes. If I buy from physical stores, I can try the shoes in person, so I prefer to buy shoes offline. This way, I can make sure the shoes fit properly and are comfortable before I buy them. Also, I can see the actual quality and color of the shoes, which might look different in photos online. So overall, even though online shopping is convenient, I prefer buying shoes offline because I can try them on and make sure they're right for me before making a purchase.",
+      "logicalConnectives": [
+        "because",
+        "if",
+        "also",
+        "so overall",
+        "even though"
+      ],
+      "phrasalVerbs": [
+        "trick my eyes",
+        "try in person",
+        "make sure",
+        "try them on",
+        "making a purchase"
+      ],
+      "advancedVocab": [
+        {
+          "word": "suitable",
+          "translation": "合适的"
+        },
+        {
+          "word": "physical",
+          "translation": "实体的"
+        },
+        {
+          "word": "properly",
+          "translation": "正确地"
+        },
+        {
+          "word": "convenient",
+          "translation": "方便的"
+        },
+        {
+          "word": "purchase",
+          "translation": "购买"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people buy a new one when something is broken?",
+      "answer": "Whether people buy a new item when something is broken mostly depends on how valuable it is. For things that are cheap or easy to replace, people usually just buy a new one. These include daily necessities, food, or small household items. For instance, if a spoon, a cup, or a bottle of juice breaks, it's much easier to just buy a replacement than to try and repair it. But for expensive or high-value items, people usually prefer to repair them rather than replace them. For example, when a smartphone, laptop, or a large home appliance breaks, most people will take it to a repair shop because replacing it entirely would cost too much. So overall, whether something is replaced or repaired depends on its value: low-value items are often replaced, while high-value items are usually repaired to save cost.",
+      "logicalConnectives": [
+        "for things that",
+        "for instance",
+        "but",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "depends on",
+        "easy to replace",
+        "try and repair",
+        "take it to",
+        "save cost"
+      ],
+      "advancedVocab": [
+        {
+          "word": "valuable",
+          "translation": "有价值的"
+        },
+        {
+          "word": "necessities",
+          "translation": "必需品"
+        },
+        {
+          "word": "household",
+          "translation": "家庭的"
+        },
+        {
+          "word": "replacement",
+          "translation": "替代品"
+        },
+        {
+          "word": "appliance",
+          "translation": "电器"
+        },
+        {
+          "word": "entirely",
+          "translation": "完全地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Are extreme sports good or bad?",
+      "answer": "I don't think extreme sports are simply 'good' or 'bad.' But generally speaking, many people see them as positive because they bring several unique benefits. Extreme sports can really spice up people's lives. Activities like skydiving, bungee jumping or rock climbing are thrilling and allow people to go for the adrenaline rush, which helps them break away from their usual routines and experience something unforgettable. For example, some young adults try scuba diving when travelling abroad. They often describe it as a once-in-a-lifetime experience that opens their eyes to a completely different world underwater. Extreme sports can also be a healthy way for people to blow off some steam. Nowadays, many people have stressful lifestyles, and engaging in something exciting can help them temporarily forget anger or frustration and regain a sense of balance. For instance, people who work long hours sometimes go rock climbing on weekends. The intense physical activity helps them let out stress and improve their mental well-being. So overall, while extreme sports do involve some risks, they offer valuable benefits—from enriching life experiences to helping people manage stress. That's why many people still find them worth trying.",
+      "logicalConnectives": [
+        "but",
+        "for example",
+        "nowadays",
+        "for instance",
+        "so overall",
+        "while",
+        "that's why"
+      ],
+      "phrasalVerbs": [
+        "spice up",
+        "go for",
+        "break away from",
+        "opens their eyes",
+        "blow off steam",
+        "let out stress",
+        "worth trying"
+      ],
+      "advancedVocab": [
+        {
+          "word": "thrilling",
+          "translation": "刺激的"
+        },
+        {
+          "word": "adrenaline",
+          "translation": "肾上腺素"
+        },
+        {
+          "word": "unforgettable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "once-in-a-lifetime",
+          "translation": "一生一次的"
+        },
+        {
+          "word": "frustration",
+          "translation": "挫折"
+        },
+        {
+          "word": "regain",
+          "translation": "重新获得"
+        },
+        {
+          "word": "intense",
+          "translation": "强烈的"
+        },
+        {
+          "word": "well-being",
+          "translation": "健康"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Should students have physical education and do sports at school?",
+      "answer": "Yes, absolutely. I genuinely believe students should have physical education at school, and there are a couple of strong reasons for this. Doing sports helps students stay healthy, especially nowadays when many of them live a pretty sedentary lifestyle because of heavy schoolwork. Physical activities give them a chance to blow off some steam and keep a balanced lifestyle. For example, many schools in China have jogging or basketball classes, and these classes give students regular opportunities to move around, stretch their muscles, and simply clear their mind after hours of studying. Sports also help students develop teamwork, discipline, and perseverance—qualities that are essential throughout their lives. Participating in PE classes teaches them to follow rules, respect others, and stay committed. Take team-based sports such as basketball or relay running—students have to cooperate with their teammates and learn that success only comes when everyone puts in effort. These mindsets can be carried into their academic life and even future careers. So overall, I think having physical education at school is absolutely necessary. Not only does it strengthen students physically, but it also shapes their character and prepares them for challenges in the real world.",
+      "logicalConnectives": [
+        "especially",
+        "nowadays",
+        "for example",
+        "also",
+        "take",
+        "so overall",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "blow off steam",
+        "clear their mind",
+        "follow rules",
+        "stay committed",
+        "cooperate with",
+        "puts in effort",
+        "carried into",
+        "shapes character",
+        "prepares for"
+      ],
+      "advancedVocab": [
+        {
+          "word": "genuinely",
+          "translation": "真正地"
+        },
+        {
+          "word": "sedentary",
+          "translation": "久坐的"
+        },
+        {
+          "word": "schoolwork",
+          "translation": "学业"
+        },
+        {
+          "word": "balanced",
+          "translation": "平衡的"
+        },
+        {
+          "word": "discipline",
+          "translation": "纪律"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        },
+        {
+          "word": "essential",
+          "translation": "必要的"
+        },
+        {
+          "word": "committed",
+          "translation": "投入的"
+        },
+        {
+          "word": "mindsets",
+          "translation": "心态"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Why do some schools not set sports courses?",
+      "answer": "Well, there are several reasons why some schools don't offer sports courses nowadays. The first major reason is that many schools focus heavily on academic subjects. They want students to spend more time on exams, so PE is often seen as 'less important' and gets removed from the curriculum. For example, some schools in big cities allocate more class hours to maths or English to boost exam results, which means sports lessons naturally get cut. Another reason is the lack of resources. Some schools simply don't have enough space, equipment, or qualified PE teachers to run proper sports programmes. For instance, small urban schools may only have a tiny playground, making it difficult to organise regular PE classes or sports training. So overall, due to academic pressure and limited resources, some schools choose not to set up sports courses, even though sports are actually important for students' well-being.",
+      "logicalConnectives": [
+        "the first",
+        "for example",
+        "another",
+        "for instance",
+        "so overall",
+        "due to",
+        "even though"
+      ],
+      "phrasalVerbs": [
+        "focus on",
+        "spend time on",
+        "removed from",
+        "allocate to",
+        "boost results",
+        "get cut",
+        "set up"
+      ],
+      "advancedVocab": [
+        {
+          "word": "academic",
+          "translation": "学术的"
+        },
+        {
+          "word": "curriculum",
+          "translation": "课程"
+        },
+        {
+          "word": "allocate",
+          "translation": "分配"
+        },
+        {
+          "word": "boost",
+          "translation": "提升"
+        },
+        {
+          "word": "resources",
+          "translation": "资源"
+        },
+        {
+          "word": "qualified",
+          "translation": "合格的"
+        },
+        {
+          "word": "programmes",
+          "translation": "项目"
+        },
+        {
+          "word": "urban",
+          "translation": "城市的"
+        },
+        {
+          "word": "well-being",
+          "translation": "健康"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of sports are unsuitable for children? Why?",
+      "answer": "Well, some sports are definitely not suitable for children for safety and health reasons. To begin with, extreme sports are not appropriate for children. These activities, such as skydiving, bungee jumping or rock climbing, involve a high level of risk and require strong physical coordination and mature decision-making skills that kids simply haven't developed yet. For example, bungee jumping can be extremely shocking to a child's body, and a slight mistake in equipment or judgement could lead to serious injuries. Another type of sport that children should avoid is heavy weight training. Doing intense weightlifting at a young age may put too much pressure on their bones and joints, which can potentially affect their growth and overall development. For instance, lifting very heavy weights before puberty can harm the growth plates, which are crucial for children to grow taller and build healthy bones. So overall, extreme sports and intense weightlifting are unsuitable for children because they may cause injuries and interfere with healthy development.",
+      "logicalConnectives": [
+        "to begin with",
+        "for example",
+        "another",
+        "for instance",
+        "so overall",
+        "because"
+      ],
+      "phrasalVerbs": [
+        "involve risk",
+        "developed yet",
+        "lead to",
+        "put pressure on",
+        "affect growth",
+        "interfere with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unsuitable",
+          "translation": "不适合的"
+        },
+        {
+          "word": "appropriate",
+          "translation": "合适的"
+        },
+        {
+          "word": "coordination",
+          "translation": "协调"
+        },
+        {
+          "word": "mature",
+          "translation": "成熟的"
+        },
+        {
+          "word": "shocking",
+          "translation": "令人震惊的"
+        },
+        {
+          "word": "injuries",
+          "translation": "伤害"
+        },
+        {
+          "word": "weightlifting",
+          "translation": "举重"
+        },
+        {
+          "word": "intense",
+          "translation": "强烈的"
+        },
+        {
+          "word": "joints",
+          "translation": "关节"
+        },
+        {
+          "word": "potentially",
+          "translation": "可能地"
+        },
+        {
+          "word": "puberty",
+          "translation": "青春期"
+        },
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?",
+      "answer": "I don't think a child's relationship with friends can be fully replaced by family members. Friends offer a different kind of interaction compared to parents or relatives. They allow children to develop social skills, share secrets, and learn how to cooperate and resolve conflicts with peers, which is crucial for growing independence. For instance, a child might confide in a close friend about a disagreement at school, something they might feel awkward or hesitant to tell their parents. This kind of peer support is unique and helps them learn to navigate social situations. Of course, parents and other family members play an irreplaceable role in providing guidance and emotional support. They can give advice, set rules, and provide unconditional love, which friends usually cannot. But family interactions are generally more structured and less about equality or mutual problem-solving. For example, when a child faces a challenge at school, parents can comfort and guide them, but they may not share the same day-to-day experiences as the child, unlike friends who go through the same classes or activities. So overall, while family relationships are extremely important, a child's friendships cannot be fully replaced because they provide peer-level support, shared experiences, and opportunities to learn social skills that are different from what family can offer.",
+      "logicalConnectives": [
+        "for instance",
+        "of course",
+        "but",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "confide in",
+        "navigate situations",
+        "go through",
+        "provide support"
+      ],
+      "advancedVocab": [
+        {
+          "word": "interaction",
+          "translation": "互动"
+        },
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "hesitant",
+          "translation": "犹豫的"
+        },
+        {
+          "word": "irreplaceable",
+          "translation": "不可替代的"
+        },
+        {
+          "word": "unconditional",
+          "translation": "无条件的"
+        },
+        {
+          "word": "structured",
+          "translation": "结构化的"
+        },
+        {
+          "word": "mutual",
+          "translation": "相互的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What makes a successful family business?",
+      "answer": "I think one of the most important factors is good communication and trust among family members. In a family business, personal relationships can easily affect professional decisions. If family members trust each other and communicate openly, it's easier to make important decisions and avoid conflicts. Take Walmart as an example. It was started by Sam Walton and his family, and even as it grew into a global retail giant, the Walton family maintained strong trust and communication when making key business decisions. This helped the company stay on track and expand successfully over decades. Another key factor is having clear roles and responsibilities. Even though it's a family business, each member should know exactly what they are responsible for. This helps prevent misunderstandings and ensures that work is done efficiently. For example, in some successful family shops, one person handles finances, another takes care of marketing, and someone else manages customer service. This way, everyone knows their tasks and the business runs like clockwork. So overall, I'd say a successful family business depends on trust, open communication, and clearly defined roles, which together create a professional and harmonious working environment while keeping the family bond strong.",
+      "logicalConnectives": [
+        "if",
+        "take as an example",
+        "another",
+        "even though",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "affect decisions",
+        "stay on track",
+        "takes care of",
+        "runs like clockwork",
+        "keeping bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "factors",
+          "translation": "因素"
+        },
+        {
+          "word": "communication",
+          "translation": "沟通"
+        },
+        {
+          "word": "conflicts",
+          "translation": "冲突"
+        },
+        {
+          "word": "global",
+          "translation": "全球的"
+        },
+        {
+          "word": "retail",
+          "translation": "零售"
+        },
+        {
+          "word": "maintained",
+          "translation": "维持"
+        },
+        {
+          "word": "responsibilities",
+          "translation": "责任"
+        },
+        {
+          "word": "misunderstandings",
+          "translation": "误解"
+        },
+        {
+          "word": "efficiently",
+          "translation": "高效地"
+        },
+        {
+          "word": "harmonious",
+          "translation": "和谐的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people in your country like to say sorry?",
+      "answer": "Yes, I'd say people in my country generally do say 'sorry' quite often. Firstly, it's considered polite, humble, and a sign of being well-educated to apologize when you've done something wrong. Because, showing that you're aware of your mistakes and care about others is highly valued in Chinese culture. For instance, if someone bumps into you on the street or even crashes a car into you, most people will apologize sincerely and sometimes even accompany you to the hospital if necessary. This shows genuine concern and respect for others. Secondly, the government also encourages people to be apologetic and considerate in public. This is part of promoting social harmony and civility—basically, a society where people acknowledge mistakes helps everyone get along better. For example, in public service campaigns, there are messages reminding people to say sorry or express regret when they offend someone, which reinforces this habit in daily life. So overall, I'd say saying 'sorry' is both a social expectation and a personal virtue in my country. People are generally considerate and willing to acknowledge their mistakes, whether in everyday life or in more serious situations.",
+      "logicalConnectives": [
+        "firstly",
+        "because",
+        "for instance",
+        "secondly",
+        "for example",
+        "so overall",
+        "both",
+        "and",
+        "whether"
+      ],
+      "phrasalVerbs": [
+        "bumps into",
+        "crashes into",
+        "accompany to",
+        "get along",
+        "acknowledge mistakes"
+      ],
+      "advancedVocab": [
+        {
+          "word": "humble",
+          "translation": "谦逊的"
+        },
+        {
+          "word": "well-educated",
+          "translation": "受过良好教育的"
+        },
+        {
+          "word": "sincerely",
+          "translation": "真诚地"
+        },
+        {
+          "word": "genuine",
+          "translation": "真诚的"
+        },
+        {
+          "word": "apologetic",
+          "translation": "道歉的"
+        },
+        {
+          "word": "considerate",
+          "translation": "体贴的"
+        },
+        {
+          "word": "harmony",
+          "translation": "和谐"
+        },
+        {
+          "word": "civility",
+          "translation": "文明"
+        },
+        {
+          "word": "acknowledge",
+          "translation": "承认"
+        },
+        {
+          "word": "virtue",
+          "translation": "美德"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of old things do people in your country like to keep?",
+      "answer": "Well, I think people in my country usually like to keep old items that carry cultural or personal value. Firstly, many families keep jewelry that has been handed down from their ancestors. These items are not only a carrier of traditional culture, but also a symbol of Chinese heritage. Some of the most famous pieces are even displayed in museums because of their historical and artistic value. For instance, the Palace Museum in Beijing has a lot of jewelry and jade pieces that are considered extremely precious. They show how Chinese craftsmanship and culture have been preserved for generations. Another common item people like to keep is old photo albums. These albums carry memories from childhood to old age, letting people remember their life journey and loved ones. For example, some people keep the photos of their grandparents after they pass away. Looking at these pictures can make them feel as if their grandparents are still around, providing comfort and a sense of connection. So overall, people in my country tend to keep ancestral jewelry and old photo albums, as they are not only valuable culturally but also help preserve personal and family memories.",
+      "logicalConnectives": [
+        "firstly",
+        "for instance",
+        "another",
+        "for example",
+        "so overall",
+        "as"
+      ],
+      "phrasalVerbs": [
+        "handed down",
+        "carry value",
+        "pass away",
+        "preserve memories"
+      ],
+      "advancedVocab": [
+        {
+          "word": "ancestors",
+          "translation": "祖先"
+        },
+        {
+          "word": "carrier",
+          "translation": "载体"
+        },
+        {
+          "word": "heritage",
+          "translation": "遗产"
+        },
+        {
+          "word": "displayed",
+          "translation": "展示"
+        },
+        {
+          "word": "historical",
+          "translation": "历史的"
+        },
+        {
+          "word": "artistic",
+          "translation": "艺术的"
+        },
+        {
+          "word": "precious",
+          "translation": "珍贵的"
+        },
+        {
+          "word": "craftsmanship",
+          "translation": "工艺"
+        },
+        {
+          "word": "preserved",
+          "translation": "保存"
+        },
+        {
+          "word": "ancestral",
+          "translation": "祖先的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you committed to rigorously and went successfully.",
+      "answer": "I'd like to talk about a plan I made for my dog's second birthday. The situation was that we wanted to take her for a proper hike to celebrate. Since she had never done a long hike before, I knew we had to be very careful and organized. The task involved planning out the route carefully and preparing enough food and drinks for both of us. I also made a checklist of all the essentials we might need, like a first-aid kit and water bowls for my dog, to make sure nothing went wrong. On the day itself, we drove to the highest mountain in Guangzhou, right in the middle of Tianhe District, and started our hike early in the morning. I made sure to follow the route step by step, keeping an eye on my dog's energy and stopping whenever we needed a break. The result was really satisfying. After a few hours, we managed to reach the top of the mountain. Seeing my dog happy and healthy at the summit was an amazing feeling, and the whole experience gave me a sense of accomplishment. This plan not only worked perfectly but also strengthened my bond with my dog and taught me the value of preparation and perseverance.",
+      "logicalConnectives": [
+        "since",
+        "the task involved",
+        "on the day itself",
+        "the result was",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "planning out",
+        "make sure",
+        "went wrong",
+        "keeping an eye on",
+        "strengthened bond"
+      ],
+      "advancedVocab": [
+        {
+          "word": "rigorously",
+          "translation": "严格地"
+        },
+        {
+          "word": "organized",
+          "translation": "有组织的"
+        },
+        {
+          "word": "essentials",
+          "translation": "必需品"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "accomplishment",
+          "translation": "成就"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan that you failed to fulfill because of some mistake.",
+      "answer": "I'd like to talk about a plan I made to take my dog for a hike when she was 2 years old. The situation was that we had carefully planned to climb to the peak of a mountain in Guangzhou, but unfortunately, my phone died halfway, and we got completely lost on the trail. The task was to find the way and still reach the top, because the goal of the hike was to celebrate my dog's birthday by getting to the summit. I felt a bit stressed because we didn't know the trail well, and it seemed like the plan was going to fail. During the action stage, luckily we met a girl called Tina on the trail. She kindly offered to guide us to the top. She showed us the right path step by step, and we followed her carefully, making sure my dog stayed safe. The result was that we still managed to reach the peak, even though the original plan went off track. Looking back, I realized that mistakes happen, but sometimes unexpected help can turn failure into success, and the experience became a memorable adventure that I'll never forget.",
+      "logicalConnectives": [
+        "but unfortunately",
+        "because",
+        "during",
+        "luckily",
+        "even though",
+        "looking back"
+      ],
+      "phrasalVerbs": [
+        "got lost",
+        "going to fail",
+        "offered to",
+        "went off track",
+        "turn into"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unfortunately",
+          "translation": "不幸地"
+        },
+        {
+          "word": "completely",
+          "translation": "完全地"
+        },
+        {
+          "word": "trail",
+          "translation": "小径"
+        },
+        {
+          "word": "stressed",
+          "translation": "有压力的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "adventure",
+          "translation": "冒险"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a plan you made together with your friend.",
+      "answer": "I'd like to talk about a plan I made with my friend Tina to take my dog hiking. The situation was that my dog was 2 years old, and we wanted to celebrate by climbing a mountain in Guangzhou. Since I didn't know the trail well, I invited Tina, who had some hiking experience, to join me. The task was to plan the route carefully, make sure we had enough food and water for both the humans and my dog, and safely reach the peak. We also wanted to make sure my dog would enjoy the hike and stay safe. On the day of the hike, we drove to the mountain together and started early in the morning. Tina and I took turns leading the way, keeping an eye on my dog's energy, and supporting each other along the trail. Whenever we faced tricky paths, we communicated and decided together which route was safest. The result was really satisfying. Thanks to our teamwork, we successfully reached the summit, and my dog was happy and healthy throughout. The experience not only strengthened my friendship with Tina but also taught me how much smoother and more enjoyable a plan can go when it's done together.",
+      "logicalConnectives": [
+        "since",
+        "the task was",
+        "on the day",
+        "whenever",
+        "thanks to",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "invited to",
+        "join me",
+        "make sure",
+        "took turns",
+        "keeping an eye on",
+        "faced paths",
+        "done together"
+      ],
+      "advancedVocab": [
+        {
+          "word": "experience",
+          "translation": "经验"
+        },
+        {
+          "word": "teamwork",
+          "translation": "团队合作"
+        },
+        {
+          "word": "summit",
+          "translation": "山顶"
+        },
+        {
+          "word": "throughout",
+          "translation": "整个过程中"
+        },
+        {
+          "word": "strengthened",
+          "translation": "加强"
+        },
+        {
+          "word": "smoother",
+          "translation": "更顺利的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What important decisions should be made by teenagers themselves?",
+      "answer": "Well, I think some decisions should definitely be made by teenagers themselves, while others are better left to adults. For starters, choices about hobbies, interests, friends, clothing, or food are best made by teenagers themselves. These decisions help them develop independence, build their personality, and learn responsibility for their choices. For example, if a teenager wants to join a music club or try painting, letting them decide encourages self-expression and confidence. Similarly, choosing what friends to hang out with or what clothes to wear allows them to explore their identity and personal taste. On the other hand, major life decisions, such as picking a university major, deciding where to settle down, or making choices involving a large sum of money, are usually better made with guidance. These decisions have long-term consequences and often require experience, financial knowledge, and maturity. For instance, choosing a major might affect future career opportunities, so parents or mentors can help teenagers weigh the pros and cons before committing. So overall, teenagers should be encouraged to make decisions about daily life and personal interests, while bigger, long-term decisions are better approached with guidance from adults. This way, they can learn responsibility gradually without risking serious mistakes.",
+      "logicalConnectives": [
+        "while",
+        "for starters",
+        "for example",
+        "on the other hand",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "left to",
+        "develop independence",
+        "hang out with",
+        "settle down",
+        "weigh pros and cons",
+        "approached with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "definitely",
+          "translation": "肯定地"
+        },
+        {
+          "word": "independence",
+          "translation": "独立性"
+        },
+        {
+          "word": "personality",
+          "translation": "个性"
+        },
+        {
+          "word": "responsibility",
+          "translation": "责任"
+        },
+        {
+          "word": "self-expression",
+          "translation": "自我表达"
+        },
+        {
+          "word": "identity",
+          "translation": "身份"
+        },
+        {
+          "word": "consequences",
+          "translation": "后果"
+        },
+        {
+          "word": "maturity",
+          "translation": "成熟"
+        },
+        {
+          "word": "mentors",
+          "translation": "导师"
+        },
+        {
+          "word": "gradually",
+          "translation": "逐渐地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What qualities do people need when starting their own business?",
+      "answer": "Well, I'd say starting a business, especially a family-run one, calls for a few essential qualities. First off, people really need to be perseverant and determined. Let's face it, running a business is never a smooth ride, and there are always obstacles and setbacks along the way. Without perseverance, people might throw in the towel when things don't go according to plan, especially in the early stages when success is still up in the air. Take Jack Ma, the founder of Alibaba, for example. He faced countless rejections and failures in the beginning, but by sticking to his guns, he eventually built a hugely successful empire. Another key quality is having strong management and financial skills, particularly in a family business where resources and responsibilities are shared. People need to plan carefully, allocate resources wisely, and make smart financial choices to keep the business running smoothly. For instance, the Li & Fung Group, a well-known family-run business in China, has survived for generations because the owners know how to manage both people and money effectively. So all in all, I'd say that perseverance, determination, and solid management skills are absolutely vital. With these in place, people are far more likely to turn their business dreams into reality and grow it sustainably over the long term.",
+      "logicalConnectives": [
+        "first off",
+        "for example",
+        "another",
+        "for instance",
+        "so all in all"
+      ],
+      "phrasalVerbs": [
+        "calls for",
+        "smooth ride",
+        "throw in the towel",
+        "go according to plan",
+        "up in the air",
+        "sticking to",
+        "turn into",
+        "in place"
+      ],
+      "advancedVocab": [
+        {
+          "word": "perseverant",
+          "translation": "坚持不懈的"
+        },
+        {
+          "word": "determined",
+          "translation": "坚定的"
+        },
+        {
+          "word": "obstacles",
+          "translation": "障碍"
+        },
+        {
+          "word": "setbacks",
+          "translation": "挫折"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        },
+        {
+          "word": "countless",
+          "translation": "无数的"
+        },
+        {
+          "word": "rejections",
+          "translation": "拒绝"
+        },
+        {
+          "word": "eventually",
+          "translation": "最终"
+        },
+        {
+          "word": "empire",
+          "translation": "帝国"
+        },
+        {
+          "word": "management",
+          "translation": "管理"
+        },
+        {
+          "word": "allocate",
+          "translation": "分配"
+        },
+        {
+          "word": "sustainably",
+          "translation": "可持续地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe a person who you know that enjoys dressing up.",
+      "answer": "I'd like to talk about Taylor Swift, who is not only a world-famous singer but also someone who clearly loves dressing up. When she performs at her concerts, she usually wears glittering outfits covered in sequins and sometimes sparkling diamonds, paired with high heels and carefully chosen accessories. She often changes several outfits during one show, each one more eye-catching than the last. I think the reason she dresses this way is that it matches her performance and her public image. On stage, she wants to stand out and show confidence, and these dazzling clothes really help her do that. Also, it's a way for her to express her personality and creativity. Watching her, I feel really inspired and excited. Her style is bold, glamorous, and full of energy, which makes her performances even more memorable. It's amazing how someone's fashion can literally sparkle and convey their personality at the same time.",
+      "logicalConnectives": [
+        "not only",
+        "but also",
+        "when",
+        "also",
+        "it's amazing how"
+      ],
+      "phrasalVerbs": [
+        "dressing up",
+        "covered in",
+        "paired with",
+        "stand out",
+        "express personality",
+        "convey personality"
+      ],
+      "advancedVocab": [
+        {
+          "word": "glittering",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "outfits",
+          "translation": "服装"
+        },
+        {
+          "word": "sequins",
+          "translation": "亮片"
+        },
+        {
+          "word": "sparkling",
+          "translation": "闪闪发光的"
+        },
+        {
+          "word": "accessories",
+          "translation": "配饰"
+        },
+        {
+          "word": "eye-catching",
+          "translation": "吸引眼球的"
+        },
+        {
+          "word": "dazzling",
+          "translation": "耀眼的"
+        },
+        {
+          "word": "glamorous",
+          "translation": "迷人的"
+        },
+        {
+          "word": "memorable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "sparkle",
+          "translation": "闪耀"
+        },
+        {
+          "word": "convey",
+          "translation": "传达"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Describe your regular dressing style.",
+      "answer": "I'd like to talk about my usual dressing style, which is very casual and simple. Most of the time, I wear t-shirts and jeans, sometimes paired with sneakers or comfortable flats. The main reason I choose this style is that it's extremely practical and flexible. Wearing t-shirts and jeans allows me to move around freely whether I'm walking, running errands, or spending time outdoors with my dog. I don't have to worry about feeling restricted, which makes daily life much easier. Also, I find this style very low-maintenance and comfortable. I don't have to spend much time thinking about what to wear, and it still looks neat and presentable for most occasions. Overall, my regular dressing style makes me feel relaxed and confident, and it perfectly fits my lifestyle, where comfort and mobility are more important than fashion trends.",
+      "logicalConnectives": [
+        "the main reason",
+        "whether",
+        "also",
+        "overall"
+      ],
+      "phrasalVerbs": [
+        "paired with",
+        "move around",
+        "running errands",
+        "spending time",
+        "fits lifestyle"
+      ],
+      "advancedVocab": [
+        {
+          "word": "casual",
+          "translation": "休闲的"
+        },
+        {
+          "word": "practical",
+          "translation": "实用的"
+        },
+        {
+          "word": "flexible",
+          "translation": "灵活的"
+        },
+        {
+          "word": "restricted",
+          "translation": "受限制的"
+        },
+        {
+          "word": "low-maintenance",
+          "translation": "低维护的"
+        },
+        {
+          "word": "presentable",
+          "translation": "得体的"
+        },
+        {
+          "word": "mobility",
+          "translation": "移动性"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think clothes produced in the factory are of better quality than those made by hand?",
+      "answer": "Well, I think both factory-produced clothes and handmade clothes have their own advantages, depending on what people value. Firstly, clothes made in factories, like those from Uniqlo, are usually of good quality and standardized. Since these clothes are mass-produced, every piece follows strict quality control and sizing standards, which makes them reliable and consistent. For instance, if people buy a T-shirt from Uniqlo, they can expect the same fit, material, and durability as anyone else who buys it, which is convenient and practical. On the other hand, handmade clothes are often delicate and exquisite, featuring details like embroidery, knitting, or custom sewing. Because each piece is crafted with care, the quality of craftsmanship can be very high, even if the materials are sometimes not as standardized as factory-made clothes. For example, some traditional Chinese embroidered dresses or hand-knitted sweaters are incredibly detailed, and people often treasure them because of the time and skill invested in making them. So overall, factory-produced clothes are great for standardization and convenience, while handmade clothes stand out for uniqueness and craftsmanship.",
+      "logicalConnectives": [
+        "firstly",
+        "since",
+        "for instance",
+        "on the other hand",
+        "because",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "mass-produced",
+        "stand out",
+        "invested in"
+      ],
+      "advancedVocab": [
+        {
+          "word": "standardized",
+          "translation": "标准化的"
+        },
+        {
+          "word": "mass-produced",
+          "translation": "大量生产的"
+        },
+        {
+          "word": "reliable",
+          "translation": "可靠的"
+        },
+        {
+          "word": "consistent",
+          "translation": "一致的"
+        },
+        {
+          "word": "durability",
+          "translation": "耐用性"
+        },
+        {
+          "word": "delicate",
+          "translation": "精致的"
+        },
+        {
+          "word": "exquisite",
+          "translation": "精美的"
+        },
+        {
+          "word": "embroidery",
+          "translation": "刺绣"
+        },
+        {
+          "word": "crafted",
+          "translation": "精心制作的"
+        },
+        {
+          "word": "craftsmanship",
+          "translation": "工艺"
+        },
+        {
+          "word": "treasure",
+          "translation": "珍惜"
+        },
+        {
+          "word": "uniqueness",
+          "translation": "独特性"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Would you lend money to your friends?",
+      "answer": "Yes, I would. But I think it depends on the situation my friends are in. I think I would be willing to lend money to help out or give a hand to friends in urgent or desperate situations. For example, if my friend is in hospital and she needs money to pay for the treatment, then I would lend money to my friend. In such cases, helping a friend in need is more important than worrying about when the money will be returned. However, I would be more cautious about lending money for less urgent reasons, like buying luxury items or going on expensive trips. So overall, I believe in helping friends when they really need it, especially in emergency situations, but I also think it's important to be careful and considerate about when and how much to lend.",
+      "logicalConnectives": [
+        "but",
+        "for example",
+        "however",
+        "so overall",
+        "especially"
+      ],
+      "phrasalVerbs": [
+        "help out",
+        "give a hand",
+        "pay for",
+        "worrying about",
+        "returned"
+      ],
+      "advancedVocab": [
+        {
+          "word": "desperate",
+          "translation": "绝望的"
+        },
+        {
+          "word": "urgent",
+          "translation": "紧急的"
+        },
+        {
+          "word": "treatment",
+          "translation": "治疗"
+        },
+        {
+          "word": "cautious",
+          "translation": "谨慎的"
+        },
+        {
+          "word": "luxury",
+          "translation": "奢侈的"
+        },
+        {
+          "word": "emergency",
+          "translation": "紧急情况"
+        },
+        {
+          "word": "considerate",
+          "translation": "体贴的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How often do you buy clothes or shoes?",
+      "answer": "I don't often buy clothes. My wardrobe mainly focuses on simple and practical styles, so the clothes I have are durable and long-lasting. For instance, I usually stick to t-shirts, jeans, and comfortable shoes. Even after wearing them for months, they're still in good condition, which saves both money and effort. So, I buy them once a month, which is suitable for me. I think this frequency suits me the best. This pace is suitable for updating my wardrobe without spending too much money. I think it's important to find a balance between having enough clothes and not wasting money. Some people buy clothes every week, but I prefer to buy less often and choose items that I really like and will wear for a long time.",
+      "logicalConnectives": [
+        "so",
+        "for instance",
+        "so",
+        "but"
+      ],
+      "phrasalVerbs": [
+        "stick to",
+        "in good condition",
+        "saves money",
+        "suits me",
+        "updating wardrobe",
+        "find a balance"
+      ],
+      "advancedVocab": [
+        {
+          "word": "wardrobe",
+          "translation": "衣柜"
+        },
+        {
+          "word": "practical",
+          "translation": "实用的"
+        },
+        {
+          "word": "durable",
+          "translation": "耐用的"
+        },
+        {
+          "word": "long-lasting",
+          "translation": "持久的"
+        },
+        {
+          "word": "frequency",
+          "translation": "频率"
+        },
+        {
+          "word": "suitable",
+          "translation": "合适的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you like to buy shoes online or offline?",
+      "answer": "I like to buy shoes offline. Because the shoes online sometimes trick my eyes, after I receive the shoes which I bought online, they are not suitable for my toes. If I buy from physical stores, I can try the shoes in person, so I prefer to buy shoes offline. This way, I can make sure the shoes fit properly and are comfortable before I buy them. Also, I can see the actual quality and color of the shoes, which might look different in photos online. So overall, even though online shopping is convenient, I prefer buying shoes offline because I can try them on and make sure they're right for me before making a purchase.",
+      "logicalConnectives": [
+        "because",
+        "if",
+        "also",
+        "so overall",
+        "even though"
+      ],
+      "phrasalVerbs": [
+        "trick my eyes",
+        "try in person",
+        "make sure",
+        "try them on",
+        "making a purchase"
+      ],
+      "advancedVocab": [
+        {
+          "word": "suitable",
+          "translation": "合适的"
+        },
+        {
+          "word": "physical",
+          "translation": "实体的"
+        },
+        {
+          "word": "properly",
+          "translation": "正确地"
+        },
+        {
+          "word": "convenient",
+          "translation": "方便的"
+        },
+        {
+          "word": "purchase",
+          "translation": "购买"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people buy a new one when something is broken?",
+      "answer": "Whether people buy a new item when something is broken mostly depends on how valuable it is. For things that are cheap or easy to replace, people usually just buy a new one. These include daily necessities, food, or small household items. For instance, if a spoon, a cup, or a bottle of juice breaks, it's much easier to just buy a replacement than to try and repair it. But for expensive or high-value items, people usually prefer to repair them rather than replace them. For example, when a smartphone, laptop, or a large home appliance breaks, most people will take it to a repair shop because replacing it entirely would cost too much. So overall, whether something is replaced or repaired depends on its value: low-value items are often replaced, while high-value items are usually repaired to save cost.",
+      "logicalConnectives": [
+        "for things that",
+        "for instance",
+        "but",
+        "for example",
+        "so overall",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "depends on",
+        "easy to replace",
+        "try and repair",
+        "take it to",
+        "save cost"
+      ],
+      "advancedVocab": [
+        {
+          "word": "valuable",
+          "translation": "有价值的"
+        },
+        {
+          "word": "necessities",
+          "translation": "必需品"
+        },
+        {
+          "word": "household",
+          "translation": "家庭的"
+        },
+        {
+          "word": "replacement",
+          "translation": "替代品"
+        },
+        {
+          "word": "appliance",
+          "translation": "电器"
+        },
+        {
+          "word": "entirely",
+          "translation": "完全地"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Are extreme sports good or bad?",
+      "answer": "I don't think extreme sports are simply 'good' or 'bad.' But generally speaking, many people see them as positive because they bring several unique benefits. Extreme sports can really spice up people's lives. Activities like skydiving, bungee jumping or rock climbing are thrilling and allow people to go for the adrenaline rush, which helps them break away from their usual routines and experience something unforgettable. For example, some young adults try scuba diving when travelling abroad. They often describe it as a once-in-a-lifetime experience that opens their eyes to a completely different world underwater. Extreme sports can also be a healthy way for people to blow off some steam. Nowadays, many people have stressful lifestyles, and engaging in something exciting can help them temporarily forget anger or frustration and regain a sense of balance. For instance, people who work long hours sometimes go rock climbing on weekends. The intense physical activity helps them let out stress and improve their mental well-being. So overall, while extreme sports do involve some risks, they offer valuable benefits—from enriching life experiences to helping people manage stress. That's why many people still find them worth trying.",
+      "logicalConnectives": [
+        "but",
+        "for example",
+        "nowadays",
+        "for instance",
+        "so overall",
+        "while",
+        "that's why"
+      ],
+      "phrasalVerbs": [
+        "spice up",
+        "go for",
+        "break away from",
+        "opens their eyes",
+        "blow off steam",
+        "let out stress",
+        "worth trying"
+      ],
+      "advancedVocab": [
+        {
+          "word": "thrilling",
+          "translation": "刺激的"
+        },
+        {
+          "word": "adrenaline",
+          "translation": "肾上腺素"
+        },
+        {
+          "word": "unforgettable",
+          "translation": "难忘的"
+        },
+        {
+          "word": "once-in-a-lifetime",
+          "translation": "一生一次的"
+        },
+        {
+          "word": "frustration",
+          "translation": "挫折"
+        },
+        {
+          "word": "regain",
+          "translation": "重新获得"
+        },
+        {
+          "word": "intense",
+          "translation": "强烈的"
+        },
+        {
+          "word": "well-being",
+          "translation": "健康"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Should students have physical education and do sports at school?",
+      "answer": "Yes, absolutely. I genuinely believe students should have physical education at school, and there are a couple of strong reasons for this. Doing sports helps students stay healthy, especially nowadays when many of them live a pretty sedentary lifestyle because of heavy schoolwork. Physical activities give them a chance to blow off some steam and keep a balanced lifestyle. For example, many schools in China have jogging or basketball classes, and these classes give students regular opportunities to move around, stretch their muscles, and simply clear their mind after hours of studying. Sports also help students develop teamwork, discipline, and perseverance—qualities that are essential throughout their lives. Participating in PE classes teaches them to follow rules, respect others, and stay committed. Take team-based sports such as basketball or relay running—students have to cooperate with their teammates and learn that success only comes when everyone puts in effort. These mindsets can be carried into their academic life and even future careers. So overall, I think having physical education at school is absolutely necessary. Not only does it strengthen students physically, but it also shapes their character and prepares them for challenges in the real world.",
+      "logicalConnectives": [
+        "especially",
+        "nowadays",
+        "for example",
+        "also",
+        "take",
+        "so overall",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "blow off steam",
+        "clear their mind",
+        "follow rules",
+        "stay committed",
+        "cooperate with",
+        "puts in effort",
+        "carried into",
+        "shapes character",
+        "prepares for"
+      ],
+      "advancedVocab": [
+        {
+          "word": "genuinely",
+          "translation": "真正地"
+        },
+        {
+          "word": "sedentary",
+          "translation": "久坐的"
+        },
+        {
+          "word": "schoolwork",
+          "translation": "学业"
+        },
+        {
+          "word": "balanced",
+          "translation": "平衡的"
+        },
+        {
+          "word": "discipline",
+          "translation": "纪律"
+        },
+        {
+          "word": "perseverance",
+          "translation": "毅力"
+        },
+        {
+          "word": "essential",
+          "translation": "必要的"
+        },
+        {
+          "word": "committed",
+          "translation": "投入的"
+        },
+        {
+          "word": "mindsets",
+          "translation": "心态"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Why do some schools not set sports courses?",
+      "answer": "Well, there are several reasons why some schools don't offer sports courses nowadays. The first major reason is that many schools focus heavily on academic subjects. They want students to spend more time on exams, so PE is often seen as 'less important' and gets removed from the curriculum. For example, some schools in big cities allocate more class hours to maths or English to boost exam results, which means sports lessons naturally get cut. Another reason is the lack of resources. Some schools simply don't have enough space, equipment, or qualified PE teachers to run proper sports programmes. For instance, small urban schools may only have a tiny playground, making it difficult to organise regular PE classes or sports training. So overall, due to academic pressure and limited resources, some schools choose not to set up sports courses, even though sports are actually important for students' well-being.",
+      "logicalConnectives": [
+        "the first",
+        "for example",
+        "another",
+        "for instance",
+        "so overall",
+        "due to",
+        "even though"
+      ],
+      "phrasalVerbs": [
+        "focus on",
+        "spend time on",
+        "removed from",
+        "allocate to",
+        "boost results",
+        "get cut",
+        "set up"
+      ],
+      "advancedVocab": [
+        {
+          "word": "academic",
+          "translation": "学术的"
+        },
+        {
+          "word": "curriculum",
+          "translation": "课程"
+        },
+        {
+          "word": "allocate",
+          "translation": "分配"
+        },
+        {
+          "word": "boost",
+          "translation": "提升"
+        },
+        {
+          "word": "resources",
+          "translation": "资源"
+        },
+        {
+          "word": "qualified",
+          "translation": "合格的"
+        },
+        {
+          "word": "programmes",
+          "translation": "项目"
+        },
+        {
+          "word": "urban",
+          "translation": "城市的"
+        },
+        {
+          "word": "well-being",
+          "translation": "健康"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of sports are unsuitable for children? Why?",
+      "answer": "Well, some sports are definitely not suitable for children for safety and health reasons. To begin with, extreme sports are not appropriate for children. These activities, such as skydiving, bungee jumping or rock climbing, involve a high level of risk and require strong physical coordination and mature decision-making skills that kids simply haven't developed yet. For example, bungee jumping can be extremely shocking to a child's body, and a slight mistake in equipment or judgement could lead to serious injuries. Another type of sport that children should avoid is heavy weight training. Doing intense weightlifting at a young age may put too much pressure on their bones and joints, which can potentially affect their growth and overall development. For instance, lifting very heavy weights before puberty can harm the growth plates, which are crucial for children to grow taller and build healthy bones. So overall, extreme sports and intense weightlifting are unsuitable for children because they may cause injuries and interfere with healthy development.",
+      "logicalConnectives": [
+        "to begin with",
+        "for example",
+        "another",
+        "for instance",
+        "so overall",
+        "because"
+      ],
+      "phrasalVerbs": [
+        "involve risk",
+        "developed yet",
+        "lead to",
+        "put pressure on",
+        "affect growth",
+        "interfere with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unsuitable",
+          "translation": "不适合的"
+        },
+        {
+          "word": "appropriate",
+          "translation": "合适的"
+        },
+        {
+          "word": "coordination",
+          "translation": "协调"
+        },
+        {
+          "word": "mature",
+          "translation": "成熟的"
+        },
+        {
+          "word": "shocking",
+          "translation": "令人震惊的"
+        },
+        {
+          "word": "injuries",
+          "translation": "伤害"
+        },
+        {
+          "word": "weightlifting",
+          "translation": "举重"
+        },
+        {
+          "word": "intense",
+          "translation": "强烈的"
+        },
+        {
+          "word": "joints",
+          "translation": "关节"
+        },
+        {
+          "word": "potentially",
+          "translation": "可能地"
+        },
+        {
+          "word": "puberty",
+          "translation": "青春期"
+        },
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Should children learn painting or drawing?",
+      "answer": "Well, learning art skills, such as painting, singing or playing musical instruments, brings multiple benefits for children. First of all, art education helps children develop their critical thinking and imagination. It engages both sides of the brain, allowing children to think creatively and solve problems in new ways. For instance, when children learn to mix colors in painting or compose a melody in music class, they are constantly experimenting and evaluating their own ideas, which improves their cognitive flexibility. Another major advantage is that learning art skills cultivates hobbies and enriches children's lives. It gives them a fulfilling way to spend time and express themselves. For example, joining a choir or an art club at school allows children to meet like-minded peers, share their passions, and enjoy a sense of achievement when completing their work. Finally, art can also be very practical in helping children release stress. It provides a break from academic pressure and a healthy outlet for emotions. For instance, after a long day of studying, children who paint or sing can relax, focus on the creative process, and let out any built-up tension. So overall, learning painting, singing or other art skills benefits children in multiple ways—it develops their brains, nurtures hobbies, and provides a healthy way to manage stress, making their childhood more enjoyable and well-rounded.",
+      "logicalConnectives": [
+        "first of all",
+        "for instance",
+        "another",
+        "for example",
+        "finally",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "develop thinking",
+        "engages brain",
+        "solve problems",
+        "cultivates hobbies",
+        "express themselves",
+        "release stress",
+        "let out tension",
+        "manage stress"
+      ],
+      "advancedVocab": [
+        {
+          "word": "multiple",
+          "translation": "多个"
+        },
+        {
+          "word": "critical",
+          "translation": "批判的"
+        },
+        {
+          "word": "imagination",
+          "translation": "想象力"
+        },
+        {
+          "word": "engages",
+          "translation": "激活"
+        },
+        {
+          "word": "creatively",
+          "translation": "创造性地"
+        },
+        {
+          "word": "compose",
+          "translation": "创作"
+        },
+        {
+          "word": "experimenting",
+          "translation": "实验"
+        },
+        {
+          "word": "evaluating",
+          "translation": "评估"
+        },
+        {
+          "word": "cognitive",
+          "translation": "认知的"
+        },
+        {
+          "word": "flexibility",
+          "translation": "灵活性"
+        },
+        {
+          "word": "cultivates",
+          "translation": "培养"
+        },
+        {
+          "word": "fulfilling",
+          "translation": "充实的"
+        },
+        {
+          "word": "like-minded",
+          "translation": "志同道合的"
+        },
+        {
+          "word": "achievement",
+          "translation": "成就"
+        },
+        {
+          "word": "outlet",
+          "translation": "出口"
+        },
+        {
+          "word": "nurtures",
+          "translation": "培养"
+        },
+        {
+          "word": "well-rounded",
+          "translation": "全面的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kind of stories do children like?",
+      "answer": "I think children are naturally drawn to stories that spark their imagination and take them into magical or extraordinary worlds. There are a couple of main types that seem particularly popular. Fairytales and fantasy stories are full of magic, talking animals, and heroic adventures, which capture children's imagination and allow them to explore worlds beyond their everyday life. For instance, many children love reading stories like Cinderella or Harry Potter. These tales transport them into enchanted worlds and let them get lost in the story, imagining themselves as brave heroes or clever heroines. Some children are fascinated by fictional or scientific stories that go beyond what adults usually think is possible. These stories stimulate curiosity and encourage them to ask questions about the world around them. For example, books like The Magic School Bus series or Alice in Wonderland combine science and imagination in ways that are exciting and educational. Children can explore bizarre phenomena while having fun, which makes learning enjoyable. So overall, children love stories that transport them to magical worlds or introduce concepts beyond ordinary life. Whether it's fairytales, fantasy, or imaginative scientific tales, these stories play a big role in developing creativity and curiosity.",
+      "logicalConnectives": [
+        "for instance",
+        "some",
+        "for example",
+        "so overall",
+        "whether"
+      ],
+      "phrasalVerbs": [
+        "drawn to",
+        "spark imagination",
+        "take them into",
+        "capture imagination",
+        "get lost in",
+        "go beyond",
+        "stimulate curiosity",
+        "transport to"
+      ],
+      "advancedVocab": [
+        {
+          "word": "naturally",
+          "translation": "自然地"
+        },
+        {
+          "word": "extraordinary",
+          "translation": "非凡的"
+        },
+        {
+          "word": "fairytales",
+          "translation": "童话"
+        },
+        {
+          "word": "fantasy",
+          "translation": "幻想"
+        },
+        {
+          "word": "heroic",
+          "translation": "英勇的"
+        },
+        {
+          "word": "adventures",
+          "translation": "冒险"
+        },
+        {
+          "word": "enchanted",
+          "translation": "迷人的"
+        },
+        {
+          "word": "heroines",
+          "translation": "女英雄"
+        },
+        {
+          "word": "fascinated",
+          "translation": "着迷的"
+        },
+        {
+          "word": "fictional",
+          "translation": "虚构的"
+        },
+        {
+          "word": "stimulate",
+          "translation": "刺激"
+        },
+        {
+          "word": "curiosity",
+          "translation": "好奇心"
+        },
+        {
+          "word": "bizarre",
+          "translation": "奇怪的"
+        },
+        {
+          "word": "phenomena",
+          "translation": "现象"
+        },
+        {
+          "word": "creativity",
+          "translation": "创造力"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What can we do to help children stay creative?",
+      "answer": "I believe there are a couple of effective ways to help children maintain and develop their creativity. Reading widely helps children broaden their horizons and explore different domains of knowledge. It keeps their curiosity alive and allows them to encounter new ideas and ways of thinking. For instance, a child who reads both science books and fairy tales might learn about real-world phenomena while also imagining fantastical worlds. This mixture of knowledge and imagination sparks innovative thinking. Children should be encouraged to voice their opinions and share their ideas. This not only helps them develop their creativity but also maintains their critical thinking skills, because they learn to justify their ideas and think independently. For example, in classroom discussions or at home, asking children 'What do you think about this story?' or 'How would you solve this problem?' encourages them to think outside the box and express themselves freely. So overall, helping children read widely and express their thoughts freely keeps their creativity alive. By combining knowledge exploration with active self-expression, children can grow into innovative and thoughtful individuals.",
+      "logicalConnectives": [
+        "for instance",
+        "not only",
+        "but also",
+        "because",
+        "for example",
+        "so overall",
+        "by"
+      ],
+      "phrasalVerbs": [
+        "broaden horizons",
+        "encounter ideas",
+        "sparks thinking",
+        "voice opinions",
+        "justify ideas",
+        "think outside the box",
+        "express themselves",
+        "grow into"
+      ],
+      "advancedVocab": [
+        {
+          "word": "maintain",
+          "translation": "维持"
+        },
+        {
+          "word": "domains",
+          "translation": "领域"
+        },
+        {
+          "word": "encounter",
+          "translation": "遇到"
+        },
+        {
+          "word": "phenomena",
+          "translation": "现象"
+        },
+        {
+          "word": "fantastical",
+          "translation": "幻想的"
+        },
+        {
+          "word": "innovative",
+          "translation": "创新的"
+        },
+        {
+          "word": "justify",
+          "translation": "证明"
+        },
+        {
+          "word": "independently",
+          "translation": "独立地"
+        },
+        {
+          "word": "exploration",
+          "translation": "探索"
+        },
+        {
+          "word": "thoughtful",
+          "translation": "深思的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How does drawing help to enhance children's creativity?",
+      "answer": "I think drawing is an excellent way for children to develop and enhance their creativity, and there are a couple of reasons for this. When children draw, they have the freedom to express their ideas and feelings visually. This helps them think outside the box and create something unique, which is essential for nurturing creativity. For instance, a child might draw a fantastical animal that doesn't exist in real life, combining features from different creatures. This process of imagination at work encourages them to explore new ideas and solutions. Drawing also teaches children to observe details carefully and make decisions about colors, shapes, and composition. This helps them develop analytical and problem-solving skills, which are closely linked to creative thinking. For example, when a child tries to draw a landscape, they need to think about perspective, proportion, and how to represent depth on paper. This kind of hands-on experimentation trains them to approach challenges creatively. So overall, drawing not only allows children to express their imagination freely but also strengthens their observation and problem-solving skills. It is a simple yet powerful tool to nurture innovative and creative minds from an early age.",
+      "logicalConnectives": [
+        "when",
+        "for instance",
+        "also",
+        "for example",
+        "so overall",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "express ideas",
+        "think outside the box",
+        "at work",
+        "observe details",
+        "make decisions",
+        "closely linked to",
+        "think about",
+        "approach challenges"
+      ],
+      "advancedVocab": [
+        {
+          "word": "excellent",
+          "translation": "优秀的"
+        },
+        {
+          "word": "enhance",
+          "translation": "增强"
+        },
+        {
+          "word": "visually",
+          "translation": "视觉上"
+        },
+        {
+          "word": "unique",
+          "translation": "独特的"
+        },
+        {
+          "word": "essential",
+          "translation": "必要的"
+        },
+        {
+          "word": "nurturing",
+          "translation": "培养"
+        },
+        {
+          "word": "fantastical",
+          "translation": "幻想的"
+        },
+        {
+          "word": "creatures",
+          "translation": "生物"
+        },
+        {
+          "word": "analytical",
+          "translation": "分析的"
+        },
+        {
+          "word": "landscape",
+          "translation": "风景"
+        },
+        {
+          "word": "perspective",
+          "translation": "透视"
+        },
+        {
+          "word": "proportion",
+          "translation": "比例"
+        },
+        {
+          "word": "represent",
+          "translation": "代表"
+        },
+        {
+          "word": "experimentation",
+          "translation": "实验"
+        },
+        {
+          "word": "innovative",
+          "translation": "创新的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Why do people like visiting places with trees or forests?",
+      "answer": "I think there are a couple of main reasons why people enjoy visiting places with trees or forests. Many people nowadays have hectic lifestyles and spend most of their day sitting in front of computers. Being surrounded by trees and fresh air allows them to wind down and recharge both physically and mentally. For instance, going for a walk in a forest or heading out to a park lets people blow off some steam. They can take in the fresh air, listen to the birds, and just forget about their daily worries for a while. Places with trees and forests usually offer beautiful scenery, which is not only relaxing but also enjoyable for taking photos and making memories with friends or family. For example, people often go on weekend trips to forest parks or botanical gardens, snapping photos and capturing special moments. These experiences leave lasting memories and often make people feel closer to nature. So overall, visiting places with trees or forests helps people unwind from stressful routines and enjoy beautiful surroundings. It's a perfect way to get back to nature and create unforgettable memories.",
+      "logicalConnectives": [
+        "nowadays",
+        "for instance",
+        "for example",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "wind down",
+        "recharge",
+        "blow off steam",
+        "take in",
+        "forget about",
+        "snapping photos",
+        "capturing moments",
+        "get back to"
+      ],
+      "advancedVocab": [
+        {
+          "word": "hectic",
+          "translation": "忙碌的"
+        },
+        {
+          "word": "surrounded",
+          "translation": "被包围"
+        },
+        {
+          "word": "physically",
+          "translation": "身体上"
+        },
+        {
+          "word": "mentally",
+          "translation": "精神上"
+        },
+        {
+          "word": "scenery",
+          "translation": "风景"
+        },
+        {
+          "word": "botanical",
+          "translation": "植物的"
+        },
+        {
+          "word": "capturing",
+          "translation": "捕捉"
+        },
+        {
+          "word": "lasting",
+          "translation": "持久的"
+        },
+        {
+          "word": "unwind",
+          "translation": "放松"
+        },
+        {
+          "word": "surroundings",
+          "translation": "环境"
+        },
+        {
+          "word": "unforgettable",
+          "translation": "难忘的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Why do people like to live near water?",
+      "answer": "I think there are a couple of major reasons why many people prefer to live near water. In many Asian cultures, especially in China, water is believed to bring prosperity. According to Feng Shui, living near water is considered highly auspicious because water symbolizes wealth and good fortune. For example, many people choose apartments near rivers, lakes, or even artificial ponds because they believe it will bring in good luck and attract financial success into their lives. Another key reason is that water environments can significantly improve both physical and mental well-being. Being close to water helps people wind down, take in the view, and escape the pressure of daily life. It also encourages outdoor activities like jogging, walking, or cycling along the waterfront, which helps people stay active and healthier. For instance, many coastal cities build waterfront parks where residents can exercise, enjoy the fresh air, and simply relax. This kind of natural environment allows people to get away from the city noise and feel more at peace. So overall, people enjoy living near water not only because of cultural beliefs about wealth and good fortune, but also because water environments contribute greatly to both physical fitness and mental relaxation.",
+      "logicalConnectives": [
+        "especially",
+        "according to",
+        "because",
+        "for example",
+        "another",
+        "for instance",
+        "so overall",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "bring prosperity",
+        "bring in",
+        "attract success",
+        "wind down",
+        "take in",
+        "escape pressure",
+        "get away from",
+        "feel at peace",
+        "contribute to"
+      ],
+      "advancedVocab": [
+        {
+          "word": "prosperity",
+          "translation": "繁荣"
+        },
+        {
+          "word": "auspicious",
+          "translation": "吉祥的"
+        },
+        {
+          "word": "symbolizes",
+          "translation": "象征"
+        },
+        {
+          "word": "fortune",
+          "translation": "财富"
+        },
+        {
+          "word": "artificial",
+          "translation": "人工的"
+        },
+        {
+          "word": "financial",
+          "translation": "金融的"
+        },
+        {
+          "word": "significantly",
+          "translation": "显著地"
+        },
+        {
+          "word": "well-being",
+          "translation": "健康"
+        },
+        {
+          "word": "waterfront",
+          "translation": "滨水区"
+        },
+        {
+          "word": "coastal",
+          "translation": "沿海的"
+        },
+        {
+          "word": "residents",
+          "translation": "居民"
+        },
+        {
+          "word": "fitness",
+          "translation": "健康"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Is the older generation better at fixing things?",
+      "answer": "I would say yes, in many cases the older generation is better at fixing things, and there are a couple of reasons for this. Older people were raised in a time when replacing items wasn't as easy or affordable as it is today. So they naturally developed hands-on skills and learned how to fix things instead of throwing them away. For example, my grandparents can fix up broken furniture or simple electronics at home because they grew up making do with what they had rather than buying new things all the time. Repairing things often requires patience, careful observation, and a methodical approach. Older generations usually have the patience to take things apart and figure out the root of the problem, while many young people prefer quicker solutions. For instance, my father can spend an entire afternoon tinkering with a broken fan until it works again, whereas younger people might just buy a new one because it's more convenient. So overall, the older generation is often better at fixing things because they grew up in a repair-focused culture and they generally have more patience and practical experience than younger people.",
+      "logicalConnectives": [
+        "so",
+        "for example",
+        "for instance",
+        "whereas",
+        "so overall",
+        "because"
+      ],
+      "phrasalVerbs": [
+        "raised in",
+        "developed skills",
+        "fix up",
+        "making do with",
+        "take things apart",
+        "figure out",
+        "tinkering with",
+        "grew up in"
+      ],
+      "advancedVocab": [
+        {
+          "word": "affordable",
+          "translation": "负担得起的"
+        },
+        {
+          "word": "hands-on",
+          "translation": "动手的"
+        },
+        {
+          "word": "electronics",
+          "translation": "电子产品"
+        },
+        {
+          "word": "patience",
+          "translation": "耐心"
+        },
+        {
+          "word": "observation",
+          "translation": "观察"
+        },
+        {
+          "word": "methodical",
+          "translation": "有条理的"
+        },
+        {
+          "word": "approach",
+          "translation": "方法"
+        },
+        {
+          "word": "tinkering",
+          "translation": "修理"
+        },
+        {
+          "word": "convenient",
+          "translation": "方便的"
+        },
+        {
+          "word": "practical",
+          "translation": "实用的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think elderly people should teach young people how to fix things?",
+      "answer": "I think yes, elderly people should teach young people how to fix things, and there are a couple of reasons for this. Many elderly people have valuable hands-on skills because they grew up in a time when repairing things was part of daily life. Passing these skills on can help young people become more independent and resourceful. For instance, an elderly person might teach younger ones how to fix up a broken lamp or troubleshoot simple home appliances. These are life skills that can really come in handy. Teaching and learning create opportunities for meaningful interaction. When young people learn from the elderly, it helps bridge the generation gap and allows them to appreciate each other more. For example, when a grandfather teaches his grandchild how to take apart and repair a bicycle, they spend quality time together, which naturally strengthens their relationship. So overall, elderly people teaching young people how to fix things is beneficial not just for passing on practical skills, but also for building closer emotional connections between generations.",
+      "logicalConnectives": [
+        "for instance",
+        "for example",
+        "so overall",
+        "not just",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "grew up in",
+        "passing on",
+        "come in handy",
+        "bridge the gap",
+        "take apart",
+        "strengthens relationship",
+        "passing on"
+      ],
+      "advancedVocab": [
+        {
+          "word": "valuable",
+          "translation": "有价值的"
+        },
+        {
+          "word": "hands-on",
+          "translation": "动手的"
+        },
+        {
+          "word": "resourceful",
+          "translation": "足智多谋的"
+        },
+        {
+          "word": "troubleshoot",
+          "translation": "故障排除"
+        },
+        {
+          "word": "appliances",
+          "translation": "电器"
+        },
+        {
+          "word": "meaningful",
+          "translation": "有意义的"
+        },
+        {
+          "word": "interaction",
+          "translation": "互动"
+        },
+        {
+          "word": "bridge",
+          "translation": "架起桥梁"
+        },
+        {
+          "word": "generation gap",
+          "translation": "代沟"
+        },
+        {
+          "word": "appreciate",
+          "translation": "欣赏"
+        },
+        {
+          "word": "beneficial",
+          "translation": "有益的"
+        },
+        {
+          "word": "emotional",
+          "translation": "情感的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How did people manage to live without electricity in the ancient world?",
+      "answer": "Well, people in the ancient world managed to live without electricity surprisingly well, and there are a couple of reasons for this. Ancient people didn't rely on modern appliances or digital tools, so their daily routines were naturally designed around daylight and manual work. For example, people usually rose with the sun and wrapped up their work before sunset, because they mainly used candles or oil lamps for lighting. Their whole lifestyle revolved around nature's rhythm, which made electricity unnecessary. Even without electricity, they developed clever ways to solve problems—using traditional tools, handicrafts, and natural methods. For instance, they used hand-powered mills to grind grains, natural ventilation to keep houses cool, and firewood for cooking and heating. These traditional techniques were effective enough to meet their basic needs. So overall, people in ancient times managed to live comfortably because their lifestyles were simpler and they relied on well-developed traditional methods, rather than electrical technology.",
+      "logicalConnectives": [
+        "so",
+        "for example",
+        "because",
+        "for instance",
+        "so overall",
+        "because",
+        "rather than"
+      ],
+      "phrasalVerbs": [
+        "rely on",
+        "designed around",
+        "rose with",
+        "wrapped up",
+        "revolved around",
+        "solve problems",
+        "meet needs",
+        "relied on"
+      ],
+      "advancedVocab": [
+        {
+          "word": "ancient",
+          "translation": "古代的"
+        },
+        {
+          "word": "surprisingly",
+          "translation": "令人惊讶地"
+        },
+        {
+          "word": "appliances",
+          "translation": "电器"
+        },
+        {
+          "word": "digital",
+          "translation": "数字的"
+        },
+        {
+          "word": "routines",
+          "translation": "日常"
+        },
+        {
+          "word": "manual",
+          "translation": "手动的"
+        },
+        {
+          "word": "wrapped up",
+          "translation": "完成"
+        },
+        {
+          "word": "revolved",
+          "translation": "围绕"
+        },
+        {
+          "word": "rhythm",
+          "translation": "节奏"
+        },
+        {
+          "word": "handicrafts",
+          "translation": "手工艺品"
+        },
+        {
+          "word": "ventilation",
+          "translation": "通风"
+        },
+        {
+          "word": "firewood",
+          "translation": "柴火"
+        },
+        {
+          "word": "techniques",
+          "translation": "技术"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Should the government encourage people to recycle items? How?",
+      "answer": "I don't think there's a simple one-size-fits-all answer, but there are effective ways governments can promote recycling and sustainable habits. Educating citizens about recycling helps them develop environmentally responsible habits and reduces the negative impact of waste on the planet. For instance, governments can phase in campaigns that teach people how to sort plastics, paper, and glass. Posters, social media posts, and school programmes can make recycling easier to understand and more appealing. Scaling up recycling infrastructure makes it easier for people to recycle regularly, turning it into a habit rather than a chore. For example, local authorities can roll out neighbourhood recycling stations and provide separate bins in public areas and schools. This convenience encourages citizens to participate actively. So overall, governments should definitely encourage recycling by raising awareness and providing convenient facilities. These measures help citizens adopt sustainable habits and protect the environment.",
+      "logicalConnectives": [
+        "but",
+        "for instance",
+        "for example",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "phase in",
+        "sort out",
+        "scaling up",
+        "roll out",
+        "turning into",
+        "adopt habits"
+      ],
+      "advancedVocab": [
+        {
+          "word": "one-size-fits-all",
+          "translation": "一刀切的"
+        },
+        {
+          "word": "sustainable",
+          "translation": "可持续的"
+        },
+        {
+          "word": "environmentally",
+          "translation": "环境上"
+        },
+        {
+          "word": "responsible",
+          "translation": "负责任的"
+        },
+        {
+          "word": "impact",
+          "translation": "影响"
+        },
+        {
+          "word": "infrastructure",
+          "translation": "基础设施"
+        },
+        {
+          "word": "chore",
+          "translation": "杂务"
+        },
+        {
+          "word": "authorities",
+          "translation": "当局"
+        },
+        {
+          "word": "neighbourhood",
+          "translation": "社区"
+        },
+        {
+          "word": "convenience",
+          "translation": "便利"
+        },
+        {
+          "word": "participate",
+          "translation": "参与"
+        },
+        {
+          "word": "measures",
+          "translation": "措施"
+        }
+      ]
     }
   ]
 }
