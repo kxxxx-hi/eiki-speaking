@@ -506,29 +506,42 @@ html_content = f"""<!DOCTYPE html>
       // Format with line breaks first
       highlighted = formatIELTSAnswer(highlighted);
       
+      // Helper function to avoid matching inside HTML tags
+      function replaceNotInTags(text, pattern, replacement) {{
+        // Split by HTML tags, process text parts only
+        const parts = text.split(/(<[^>]+>)/);
+        for (let i = 0; i < parts.length; i += 2) {{
+          // Only process text parts (even indices)
+          if (parts[i]) {{
+            parts[i] = parts[i].replace(pattern, replacement);
+          }}
+        }}
+        return parts.join('');
+      }}
+      
       // Highlight logical connectives
       if (logicalConnectives && logicalConnectives.length > 0) {{
         logicalConnectives.forEach(conn => {{
           const escaped = conn.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
           const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
-          highlighted = highlighted.replace(regex, (match) => {{
+          highlighted = replaceNotInTags(highlighted, regex, (match) => {{
             return `<span class="logical-connective">${{match}}</span>`;
           }});
         }});
       }}
       
-      // Highlight phrasal verbs with Chinese translation
+      // Highlight phrasal verbs with Chinese translation (sort by length, longest first)
       if (phrasalVerbs && phrasalVerbs.length > 0) {{
-        phrasalVerbs.forEach(pv => {{
+        const sortedPhrasalVerbs = [...phrasalVerbs].sort((a, b) => b.length - a.length);
+        sortedPhrasalVerbs.forEach(pv => {{
           const translation = phrasalVerbTranslations[pv.toLowerCase()] || '';
           const parts = pv.trim().split(/\\s+/);
           if (parts.length >= 2) {{
             const baseVerb = parts[0].toLowerCase();
             const particle = parts.slice(1).join(' ');
             const escapedParticle = particle.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
-            const pattern = `\\\\b${{baseVerb}}[a-z]*\\\\s+${{escapedParticle}}\\\\b`;
-            const regex = new RegExp(pattern, 'gi');
-            highlighted = highlighted.replace(regex, (match) => {{
+            const pattern = new RegExp(`\\\\b${{baseVerb}}[a-z]*\\\\s+${{escapedParticle}}\\\\b`, 'gi');
+            highlighted = replaceNotInTags(highlighted, pattern, (match) => {{
               if (translation) {{
                 return `<span class="phrasal-verb-en">${{match}}</span><span class="phrasal-verb-translation"> ${{translation}}</span>`;
               }}
@@ -538,7 +551,7 @@ html_content = f"""<!DOCTYPE html>
             // Single word phrasal verb
             const escaped = pv.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
             const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
-            highlighted = highlighted.replace(regex, (match) => {{
+            highlighted = replaceNotInTags(highlighted, regex, (match) => {{
               if (translation) {{
                 return `<span class="phrasal-verb-en">${{match}}</span><span class="phrasal-verb-translation"> ${{translation}}</span>`;
               }}
@@ -548,14 +561,20 @@ html_content = f"""<!DOCTYPE html>
         }});
       }}
       
-      // Highlight advanced vocabulary with Chinese translation
+      // Highlight advanced vocabulary with Chinese translation (sort by length, longest first)
       if (advancedVocab && Array.isArray(advancedVocab)) {{
-        advancedVocab.forEach(vocab => {{
+        const sortedVocab = [...advancedVocab].sort((a, b) => {{
+          const aWord = (a.word || a).toLowerCase();
+          const bWord = (b.word || b).toLowerCase();
+          return bWord.length - aWord.length;
+        }});
+        
+        sortedVocab.forEach(vocab => {{
           const word = vocab.word || vocab;
           const translation = vocab.translation || '';
           const escaped = word.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
           const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
-          highlighted = highlighted.replace(regex, (match) => {{
+          highlighted = replaceNotInTags(highlighted, regex, (match) => {{
             if (translation) {{
               return `<span class="advanced-vocab">${{match}}</span><span class="advanced-vocab-translation"> ${{translation}}</span>`;
             }}
