@@ -94,6 +94,59 @@ html_content = f"""<!DOCTYPE html>
       border-radius: 4px;
       font-weight: 600;
     }}
+    .logical-connective {{
+      background-color: #fef3c7;
+      color: #92400e;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }}
+    .advanced-vocab {{
+      background-color: #e9d5ff;
+      color: #6b21a8;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+      position: relative;
+      cursor: help;
+    }}
+    .advanced-vocab:hover::after {{
+      content: attr(data-translation);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #1f2937;
+      color: white;
+      padding: 4px 8px;
+      border-radius: 4px;
+      white-space: nowrap;
+      z-index: 1000;
+      font-size: 0.875rem;
+      margin-bottom: 4px;
+    }}
+    .ielts-question {{
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #1e40af;
+      margin-bottom: 1.5rem;
+      cursor: pointer;
+      padding: 1rem;
+      border: 2px dashed #3b82f6;
+      border-radius: 0.5rem;
+      transition: all 0.3s;
+    }}
+    .ielts-question:hover {{
+      background-color: #eff6ff;
+      border-color: #2563eb;
+    }}
+    .ielts-answer {{
+      font-size: 1.125rem;
+      line-height: 1.75rem;
+      color: #374151;
+      text-align: left;
+      padding: 1rem;
+    }}
   </style>
 </head>
 <body>
@@ -114,14 +167,20 @@ html_content = f"""<!DOCTYPE html>
         <input type="radio" id="phrasal_verbs" name="card_type" value="phrasal_verbs" class="form-radio text-blue-600 h-4 w-4">
         <label for="phrasal_verbs" class="text-lg font-medium text-gray-700">Phrasal Verbs</label>
       </div>
+      <div class="flex items-center space-x-2">
+        <input type="radio" id="ielts_questions" name="card_type" value="ielts_questions" class="form-radio text-blue-600 h-4 w-4">
+        <label for="ielts_questions" class="text-lg font-medium text-gray-700">IELTS Questions</label>
+      </div>
     </div>
 
     <div class="text-gray-500 mb-4" id="card-counter"></div>
 
     <div class="card-content border border-gray-300 rounded-xl p-6 w-full flex flex-col justify-center items-center">
       <div id="verb-group" class="text-lg font-bold text-green-600 mb-3 text-center"></div>
+      <div id="ielts-question" class="ielts-question w-full" style="display: none;"></div>
       <div id="chinese-text" class="text-2xl sm:text-3xl font-semibold text-gray-800 mb-4 text-center"></div>
       <div id="english-text" class="text-xl sm:text-2xl text-gray-600 transition-opacity duration-300 ease-in-out opacity-0 mt-4 text-center"></div>
+      <div id="ielts-answer" class="ielts-answer w-full" style="display: none;"></div>
     </div>
 
     <div class="flex flex-wrap justify-center gap-4 mt-8 w-full">
@@ -149,6 +208,8 @@ html_content = f"""<!DOCTYPE html>
     const englishText = document.getElementById('english-text');
     const cardCounter = document.getElementById('card-counter');
     const verbGroupDisplay = document.getElementById('verb-group');
+    const ieltsQuestion = document.getElementById('ielts-question');
+    const ieltsAnswer = document.getElementById('ielts-answer');
     const showHideBtn = document.getElementById('show-hide-btn');
     const nextBtn = document.getElementById('next-btn');
     const shuffleBtn = document.getElementById('shuffle-btn');
@@ -315,17 +376,97 @@ html_content = f"""<!DOCTYPE html>
       return highlighted;
     }}
 
+    function highlightIELTSAnswer(text, logicalConnectives, phrasalVerbs, advancedVocab) {{
+      let highlighted = text;
+      
+      // Highlight logical connectives
+      if (logicalConnectives && logicalConnectives.length > 0) {{
+        logicalConnectives.forEach(conn => {{
+          const escaped = conn.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+          const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
+          highlighted = highlighted.replace(regex, (match) => {{
+            return `<span class="logical-connective">${{match}}</span>`;
+          }});
+        }});
+      }}
+      
+      // Highlight phrasal verbs
+      if (phrasalVerbs && phrasalVerbs.length > 0) {{
+        phrasalVerbs.forEach(pv => {{
+          const parts = pv.trim().split(/\\s+/);
+          if (parts.length >= 2) {{
+            const baseVerb = parts[0].toLowerCase();
+            const particle = parts.slice(1).join(' ');
+            const escapedParticle = particle.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+            const pattern = `\\\\b${{baseVerb}}[a-z]*\\\\s+${{escapedParticle}}\\\\b`;
+            const regex = new RegExp(pattern, 'gi');
+            highlighted = highlighted.replace(regex, (match) => {{
+              return `<span class="phrasal-verb-en">${{match}}</span>`;
+            }});
+          }}
+        }});
+      }}
+      
+      // Highlight advanced vocabulary with Chinese translation
+      if (advancedVocab && Array.isArray(advancedVocab)) {{
+        advancedVocab.forEach(vocab => {{
+          const word = vocab.word || vocab;
+          const translation = vocab.translation || '';
+          const escaped = word.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+          const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
+          highlighted = highlighted.replace(regex, (match) => {{
+            return `<span class="advanced-vocab" data-translation="${{translation}}">${{match}}</span>`;
+          }});
+        }});
+      }}
+      
+      return highlighted;
+    }}
+
     function renderCard() {{
       if (filteredData.length === 0) {{
         chineseText.innerHTML = "No cards available.";
         englishText.innerHTML = "";
         englishText.classList.add('opacity-0');
         verbGroupDisplay.innerText = "";
+        ieltsQuestion.style.display = 'none';
+        ieltsAnswer.style.display = 'none';
         cardCounter.innerText = "0/0";
         return;
       }}
       const currentCard = filteredData[cardIndex];
       const selectedType = document.querySelector('input[name="card_type"]:checked')?.value || 'sentence';
+      
+      // Handle IELTS questions
+      if (selectedType === 'ielts_questions') {{
+        verbGroupDisplay.style.display = 'none';
+        chineseText.style.display = 'none';
+        englishText.style.display = 'none';
+        ieltsQuestion.style.display = 'block';
+        ieltsQuestion.innerText = currentCard.question || "";
+        ieltsAnswer.style.display = showTranslation ? 'block' : 'none';
+        
+        if (showTranslation && currentCard.answer) {{
+          let highlightedAnswer = currentCard.answer;
+          if (currentCard.logicalConnectives || currentCard.phrasalVerbs || currentCard.advancedVocab) {{
+            highlightedAnswer = highlightIELTSAnswer(
+              currentCard.answer,
+              currentCard.logicalConnectives,
+              currentCard.phrasalVerbs,
+              currentCard.advancedVocab
+            );
+          }}
+          ieltsAnswer.innerHTML = highlightedAnswer;
+        }}
+        cardCounter.innerText = `${{cardIndex + 1}}/${{filteredData.length}}`;
+        return;
+      }}
+      
+      // Regular cards (sentences, vocabulary, phrasal verbs)
+      ieltsQuestion.style.display = 'none';
+      ieltsAnswer.style.display = 'none';
+      chineseText.style.display = 'block';
+      englishText.style.display = 'block';
       
       // Display verb group for phrasal verbs
       if (selectedType === 'phrasal_verbs' && currentCard.verbGroup) {{
@@ -360,6 +501,15 @@ html_content = f"""<!DOCTYPE html>
     function handleShowHide() {{ showTranslation = !showTranslation; renderCard(); }}
     function handleNextCard() {{ cardIndex = (cardIndex + 1) % filteredData.length; showTranslation = false; renderCard(); }}
     function handleShuffle() {{ filterAndShuffleCards(); renderCard(); }}
+
+    // Click handler for IELTS questions
+    ieltsQuestion.addEventListener('click', () => {{
+      const selectedType = document.querySelector('input[name="card_type"]:checked')?.value || 'sentence';
+      if (selectedType === 'ielts_questions') {{
+        showTranslation = !showTranslation;
+        renderCard();
+      }}
+    }});
 
     showHideBtn.addEventListener('click', handleShowHide);
     nextBtn.addEventListener('click', handleNextCard);
