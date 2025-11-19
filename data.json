@@ -5252,6 +5252,985 @@
           "translation": "跨国的"
         }
       ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Where do children learn to be patient, at home or at school?",
+      "answer": "Well, I believe children primarily learn to be patient at school. There are a couple of reasons for this. Firstly, the school environment requires them to pay more attention in class, with fewer irrelevant things to distract them. For instance, they simply cannot use mobile phones or play computer games during their free time. This rule forces them to focus on the task at hand, which is a fundamental practice of patience. Moreover, schools provide a good learning atmosphere that helps children concentrate. To be more specific, when a child is surrounded by classmates who are all listening carefully in class and asking questions afterwards, it creates positive peer pressure. In this kind of setting, they naturally learn to immerse themselves in their studies and develop the patience to see things through.",
+      "logicalConnectives": [
+        "firstly",
+        "for instance",
+        "moreover",
+        "to be more specific",
+        "in this kind of setting"
+      ],
+      "phrasalVerbs": [
+        "pay attention",
+        "focus on",
+        "surrounded by",
+        "see things through"
+      ],
+      "advancedVocab": [
+        {
+          "word": "primarily",
+          "translation": "主要地"
+        },
+        {
+          "word": "fundamental",
+          "translation": "基本的"
+        },
+        {
+          "word": "atmosphere",
+          "translation": "氛围"
+        },
+        {
+          "word": "concentrate",
+          "translation": "集中注意力"
+        },
+        {
+          "word": "immerse",
+          "translation": "沉浸"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think it is good to teach swimming in school?",
+      "answer": "Yeah, for sure. I'm totally in favor of it. You know, the main thing for me is that it can really inspire their interest in different subjects outside of the usual academics. For instance, a kid might discover a real talent for swimming in class, who might be a professional coach or an athlete in the future. It can achieve students' potential. On a more practical level, it definitely helps them prepare for employment by gaining practical experience. I mean, nowadays, companies aren't just looking for grades; they want well-rounded people who pick up unique skills. So, if students are good at swimming and cooking, it might help them stand out from the crowd. So yeah, overall, I'd say it's a fantastic idea.",
+      "logicalConnectives": [
+        "for instance",
+        "on a more practical level",
+        "nowadays",
+        "so",
+        "overall"
+      ],
+      "phrasalVerbs": [
+        "in favor of",
+        "inspire interest",
+        "pick up",
+        "stand out",
+        "gain experience"
+      ],
+      "advancedVocab": [
+        {
+          "word": "academics",
+          "translation": "学术"
+        },
+        {
+          "word": "talent",
+          "translation": "天赋"
+        },
+        {
+          "word": "potential",
+          "translation": "潜力"
+        },
+        {
+          "word": "employment",
+          "translation": "就业"
+        },
+        {
+          "word": "well-rounded",
+          "translation": "全面的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What are the differences between friends made inside and outside the workplace?",
+      "answer": "Yeah, I can't speak for all people, but I can certainly share the opinions of people in my age. I'd say on the one hand, friendships at work are often more professional and interest-driven. Since you work with other colleagues who come from various backgrounds, the main thing you have in common is, well, the job itself. Because of this, the connection might not last for a long time. Like, you might be really close with a co-worker while you're both finishing the same project, but once you wrap up the project, you could easily lose touch. Whereas, on the other hand, friendships outside the workplace are usually more genuine. These are often people you've grown up with, so there's no ulterior motive. Take for instance, a childhood friend from your same hometown. You've shared key life experiences, and that creates a bond which makes relationships often stand the test of time.",
+      "logicalConnectives": [
+        "on the one hand",
+        "since",
+        "because of this",
+        "whereas",
+        "on the other hand",
+        "take for instance"
+      ],
+      "phrasalVerbs": [
+        "work with",
+        "have in common",
+        "wrap up",
+        "lose touch",
+        "grown up with",
+        "stand the test of time"
+      ],
+      "advancedVocab": [
+        {
+          "word": "professional",
+          "translation": "职业的"
+        },
+        {
+          "word": "interest-driven",
+          "translation": "利益驱动的"
+        },
+        {
+          "word": "various",
+          "translation": "各种各样的"
+        },
+        {
+          "word": "genuine",
+          "translation": "真诚的"
+        },
+        {
+          "word": "ulterior",
+          "translation": "隐藏的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Who should get more promotion opportunities in the workplace, young people or older people?",
+      "answer": "Well, I believe that young people deserve a strong focus when it comes to promotions, for two reasons. First, they're often able to dedicate more undivided attention to their careers. You see, many young people aren't married yet or have started families, so they have fewer personal things pulling their focus away from the office. This means they can take on more responsibilities and work longer hours when needed. On top of that, young employees have creative ideas. Because they've usually received a higher education, sometimes even holding master's degrees. This means they're not just full of creative ideas, but they also know exactly how to use tools, for example, they usually use the internet and ChatGPT to work out problems in productive ways. So, in conclusion, while experience is valuable, young people who have up-to-date knowledge are also excellent candidates for companies.",
+      "logicalConnectives": [
+        "first",
+        "on top of that",
+        "because",
+        "for example",
+        "so",
+        "in conclusion",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "when it comes to",
+        "dedicate attention",
+        "pulling away",
+        "take on",
+        "work out",
+        "up-to-date"
+      ],
+      "advancedVocab": [
+        {
+          "word": "deserve",
+          "translation": "值得"
+        },
+        {
+          "word": "undivided",
+          "translation": "专一的"
+        },
+        {
+          "word": "responsibilities",
+          "translation": "责任"
+        },
+        {
+          "word": "productive",
+          "translation": "高效的"
+        },
+        {
+          "word": "candidates",
+          "translation": "候选人"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you think it's possible for bosses and their employees to become friends?",
+      "answer": "Yeah, I'd say it's definitely possible, and there are a couple of reasons for this. You know, first off, the modern workplace makes both bosses and their employees get closer. Companies nowadays often organize a lot of team dinners and holiday activities, which creates chances for everyone to relax and chat with each other. So, in that kind of setting, the distance between a boss and an employee is naturally small and helps them to build a real friendship. But beyond that, what really solidifies a friendship is having common ground outside of work. I mean, everyone has their own hobbies, right? Like, some love cooking, others are into hiking. It's totally possible that a boss and an employee discover they have the same hobbies, such as hiking. So, they can go on hiking trips together on weekends. When that happens, their connection is no longer just in job; it's built on shared experiences and interests, maybe can develop into genuine friendship.",
+      "logicalConnectives": [
+        "first off",
+        "nowadays",
+        "so",
+        "but beyond that",
+        "when",
+        "maybe"
+      ],
+      "phrasalVerbs": [
+        "get closer",
+        "chat with",
+        "build friendship",
+        "common ground",
+        "are into",
+        "go on trips",
+        "develop into"
+      ],
+      "advancedVocab": [
+        {
+          "word": "definitely",
+          "translation": "肯定地"
+        },
+        {
+          "word": "solidifies",
+          "translation": "巩固"
+        },
+        {
+          "word": "genuine",
+          "translation": "真诚的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do people prefer to eat out at restaurants or eat at home during the Spring Festival?",
+      "answer": "It's difficult to offer a general statement, but I can certainly comment on the situation in my region. I think younger families prefer to celebrate at restaurants. First off, restaurants offer an incredible variety of cuisines that a home kitchen simply can't match. You know, at home, you're usually limited to a few family specialties. But at a restaurant, you can order anything you want—whether it's Cantonese, fiery Hunan, Taiwanese, or even Thai food. This freedom of choice is a huge draw. On top of that, restaurants often create a much stronger and more exciting festival atmosphere. They go all out with the decorations, like hanging huge red lanterns and other festive setups. This bustling and joyous vibe makes the entire dining experience feel more auspicious. So, while the traditional home-cooked meal is still cherished, the convenience, diversity, and vibrant ambiance of restaurants are also attracting people to eat out.",
+      "logicalConnectives": [
+        "but",
+        "first off",
+        "on top of that",
+        "so",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "go all out",
+        "hanging up",
+        "eat out"
+      ],
+      "advancedVocab": [
+        {
+          "word": "incredible",
+          "translation": "难以置信的"
+        },
+        {
+          "word": "variety",
+          "translation": "种类"
+        },
+        {
+          "word": "cuisines",
+          "translation": "菜系"
+        },
+        {
+          "word": "specialties",
+          "translation": "特色菜"
+        },
+        {
+          "word": "bustling",
+          "translation": "热闹的"
+        },
+        {
+          "word": "vibrant",
+          "translation": "充满活力的"
+        },
+        {
+          "word": "ambiance",
+          "translation": "氛围"
+        },
+        {
+          "word": "auspicious",
+          "translation": "吉祥的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What food do you eat on special occasions, like during the Spring Festival or the Mid-autumn Festival?",
+      "answer": "Well, different times, different manners. I suppose the two that immediately come to mind are tangyuan and oranges. For instance, during the Mid-autumn Festival, we always eat tangyuan. These are glutinous rice balls, usually with sweet fillings like sesame or peanut. What makes them special isn't just the taste; it's their round shape, which symbolizes wholeness and family reunion. So, sharing them represents the wish for a lovely, united family. Another classic example is oranges during the Spring Festival. You'll see them everywhere—in homes, as gifts, and as decorations. Their importance comes from the word, for 'orange' sounds like the word for 'success' and 'good fortune.' Because of this, giving and eating oranges is a way to wish that everything goes smoothly for your family and friends in the coming year. So, it's really these deep cultural symbols, more than just the flavors, that make these foods so central to our celebrations.",
+      "logicalConnectives": [
+        "for instance",
+        "so",
+        "another",
+        "because of this",
+        "so"
+      ],
+      "phrasalVerbs": [
+        "come to mind",
+        "goes smoothly"
+      ],
+      "advancedVocab": [
+        {
+          "word": "glutinous",
+          "translation": "粘的"
+        },
+        {
+          "word": "symbolizes",
+          "translation": "象征"
+        },
+        {
+          "word": "wholeness",
+          "translation": "完整"
+        },
+        {
+          "word": "reunion",
+          "translation": "团聚"
+        },
+        {
+          "word": "fortune",
+          "translation": "财富"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Why do people like to have meals together during important festivals?",
+      "answer": "It's difficult to offer a general statement, but I can certainly comment on the situation in my region. Well, there are a couple of reasons for this: deep-rooted cultural symbolism and the irreplaceable atmosphere it creates. First, sharing a meal is deeply embedded in our traditional culture as a powerful symbol of wholeness and family reunion. A perfect case in point is we eat tangyuan together during the Lantern Festival. When families gather to share tangyuan, it's much more than just eating; it's a tangible expression of their wish for a close-knit and harmonious family. On top of that, the whole family eating together generates a unique and powerful festival atmosphere. Think about the Spring Festival family dinner. The vibe is simply different—it's more auspicious and genuinely joyful when everyone is celebrating together under one roof. This shared joy and excitement, amplified by being together, truly makes the festival feel memorable. In short, the meal acts as both a symbolic ritual for unity and a way to strengthen bonds between family members.",
+      "logicalConnectives": [
+        "but",
+        "first",
+        "on top of that",
+        "in short",
+        "both",
+        "and"
+      ],
+      "phrasalVerbs": [
+        "embedded in",
+        "gather to",
+        "under one roof",
+        "strengthen bonds"
+      ],
+      "advancedVocab": [
+        {
+          "word": "deep-rooted",
+          "translation": "根深蒂固的"
+        },
+        {
+          "word": "symbolism",
+          "translation": "象征意义"
+        },
+        {
+          "word": "irreplaceable",
+          "translation": "不可替代的"
+        },
+        {
+          "word": "tangible",
+          "translation": "具体的"
+        },
+        {
+          "word": "close-knit",
+          "translation": "紧密的"
+        },
+        {
+          "word": "harmonious",
+          "translation": "和谐的"
+        },
+        {
+          "word": "amplified",
+          "translation": "放大的"
+        },
+        {
+          "word": "ritual",
+          "translation": "仪式"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Is it a hassle to prepare a meal at home?",
+      "answer": "Not at all. I actually think it can be quite simple, especially if you approach it the right way. For one, you don't need to be a master chef to whip up something simple and delicious. A perfect example is a classic dish like stir-fried tomato and eggs. The process is super simple: you just need to clean and chop the tomatoes, whisk the eggs in a bowl, and then fry everything together in a bit of oil. It's a matter of basic steps. Besides, with all the conveniences available now, the process is even easier. We can always turn to pre-made dishes. I mean, you can just pop into a supermarket or order them on your phone. These meals are lifesavers because most of the prep work is already done. All that's left for you to do is basically heat them up, and you can whip up a few different dishes for a meal without any of the usual fuss. So, all in all, I'd argue that cooking at home doesn't have to be a big production.",
+      "logicalConnectives": [
+        "for one",
+        "besides",
+        "so",
+        "all in all"
+      ],
+      "phrasalVerbs": [
+        "whip up",
+        "turn to",
+        "pop into",
+        "heat up",
+        "left for"
+      ],
+      "advancedVocab": [
+        {
+          "word": "hassle",
+          "translation": "麻烦"
+        },
+        {
+          "word": "approach",
+          "translation": "处理"
+        },
+        {
+          "word": "master chef",
+          "translation": "大厨"
+        },
+        {
+          "word": "conveniences",
+          "translation": "便利"
+        },
+        {
+          "word": "lifesavers",
+          "translation": "救命稻草"
+        },
+        {
+          "word": "production",
+          "translation": "复杂的事"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Is there an advertisement that made an impression on you when you were a child?",
+      "answer": "Oh, absolutely! The one that instantly pops into my head is the ad for Skittles rainbow candies. I can still vividly recall their slogan, 'Taste the Rainbow.' It was such a creative and whimsical commercial—it featured a giraffe reaching up, biting off a piece of a rainbow, and then magically producing the colorful candies from its body. This ad left a lasting impression on me for a couple of reasons. For starters, as a kid who had a huge sweet tooth, I was naturally drawn to anything candy-related. So, naturally, the Skittles ad would draw my attention and immediately made me crave them. But what really sealed the deal for me was how incredibly creative and entertaining the visuals were. The whole idea of a giraffe interacting with a rainbow and creating candy was so far from reality, yet it was delightful and magical to watch. It wasn't just trying to sell a product; it was selling a fun, imaginative experience.",
+      "logicalConnectives": [
+        "for starters",
+        "so",
+        "but",
+        "yet"
+      ],
+      "phrasalVerbs": [
+        "pops into",
+        "reaching up",
+        "biting off",
+        "drawn to",
+        "sealed the deal",
+        "far from"
+      ],
+      "advancedVocab": [
+        {
+          "word": "vividly",
+          "translation": "清晰地"
+        },
+        {
+          "word": "whimsical",
+          "translation": "异想天开的"
+        },
+        {
+          "word": "magically",
+          "translation": "神奇地"
+        },
+        {
+          "word": "crave",
+          "translation": "渴望"
+        },
+        {
+          "word": "delightful",
+          "translation": "令人愉快的"
+        },
+        {
+          "word": "imaginative",
+          "translation": "富有想象力的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you see a lot of advertising on trains or other transport?",
+      "answer": "Oh, absolutely. Since I take public transport almost every day, I'm constantly surrounded by it. I'd say it's pretty much unavoidable. They're plastered everywhere—on station billboards, inside the trains. From what I see, they generally fall into a few categories. You've got your glossy ads for fashion and cosmetics, a bunch for local services like property agents, and of course, plenty pushing the latest mobile apps—they're definitely targeting us commuters glued to our phones.",
+      "logicalConnectives": [
+        "since",
+        "from what I see",
+        "of course"
+      ],
+      "phrasalVerbs": [
+        "take transport",
+        "surrounded by",
+        "fall into",
+        "glued to"
+      ],
+      "advancedVocab": [
+        {
+          "word": "unavoidable",
+          "translation": "不可避免的"
+        },
+        {
+          "word": "plastered",
+          "translation": "贴满"
+        },
+        {
+          "word": "billboards",
+          "translation": "广告牌"
+        },
+        {
+          "word": "glossy",
+          "translation": "光鲜亮丽的"
+        },
+        {
+          "word": "cosmetics",
+          "translation": "化妆品"
+        },
+        {
+          "word": "commuters",
+          "translation": "通勤者"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Do you like advertisements?",
+      "answer": "Yes, absolutely. I think advertisements can inspire my imagination. The one that instantly pops into my head is the ad for Skittles rainbow candies. I can still vividly recall their slogan, 'Taste the Rainbow.' It was such a creative and whimsical commercial—it featured a giraffe reaching up, biting off a piece of a rainbow, and then magically producing the colorful candies from its body. The whole idea of a giraffe interacting with a rainbow and creating candy was so far from reality, yet it was delightful and magical to watch. It wasn't just trying to sell a product; it was selling a fun, imaginative experience.",
+      "logicalConnectives": [
+        "yet"
+      ],
+      "phrasalVerbs": [
+        "pops into",
+        "reaching up",
+        "biting off",
+        "far from"
+      ],
+      "advancedVocab": [
+        {
+          "word": "vividly",
+          "translation": "清晰地"
+        },
+        {
+          "word": "whimsical",
+          "translation": "异想天开的"
+        },
+        {
+          "word": "magically",
+          "translation": "神奇地"
+        },
+        {
+          "word": "delightful",
+          "translation": "令人愉快的"
+        },
+        {
+          "word": "imaginative",
+          "translation": "富有想象力的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What kinds of things are popular on social media?",
+      "answer": "That's a profound topic, and it involves a lot of different factors. There are a few types of content that really dominate the scene. The most obvious one is visually-driven stuff, especially short, snappy videos like on TikTok, and of course, eye-catching pictures. These are perfect for capturing our shrinking attention spans. Content itself includes daily life topics like travel, fashion, pets, family and friends, and food. Debates with conflicted opinions also become arguments and are very popular. So overall, there are many things that people might be interested in watching on the internet, but people should still be cautious and careful in what they see and comment.",
+      "logicalConnectives": [
+        "and",
+        "the most obvious one",
+        "of course",
+        "so overall",
+        "but"
+      ],
+      "phrasalVerbs": [
+        "dominate the scene",
+        "capturing attention"
+      ],
+      "advancedVocab": [
+        {
+          "word": "profound",
+          "translation": "深刻的"
+        },
+        {
+          "word": "dominate",
+          "translation": "主导"
+        },
+        {
+          "word": "visually-driven",
+          "translation": "视觉驱动的"
+        },
+        {
+          "word": "snappy",
+          "translation": "快速的"
+        },
+        {
+          "word": "eye-catching",
+          "translation": "吸引眼球的"
+        },
+        {
+          "word": "shrinking",
+          "translation": "缩小的"
+        },
+        {
+          "word": "cautious",
+          "translation": "谨慎的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What are the advantages and disadvantages of using social media?",
+      "answer": "It's difficult to offer a general statement, but I can certainly comment on the situation in my region. First, I think the biggest advantage is the immediate access to a wealth of information. For instance, nowadays many young people find job opportunities not just limited to news articles but also learn from short videos, insightful posts, and even use platforms in social media. However, the major downside is how it can trap us in echo chambers or information cocoons. A case for point is that algorithms are designed to show us content we agree with. This creates a perfect environment for clickbait and stories that are spun to be sensational, which makes it hard to get a balanced, objective view of the world. It becomes a vicious cycle that reinforces our existing biases. So, while it's a powerful tool for connection and information, it demands a lot of critical thinking from us as users.",
+      "logicalConnectives": [
+        "but",
+        "first",
+        "for instance",
+        "however",
+        "so",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "trap us in",
+        "agree with",
+        "spun to be",
+        "get a view"
+      ],
+      "advancedVocab": [
+        {
+          "word": "immediate",
+          "translation": "即时的"
+        },
+        {
+          "word": "wealth",
+          "translation": "财富"
+        },
+        {
+          "word": "insightful",
+          "translation": "有深度的"
+        },
+        {
+          "word": "downside",
+          "translation": "缺点"
+        },
+        {
+          "word": "echo chambers",
+          "translation": "回音室"
+        },
+        {
+          "word": "cocoons",
+          "translation": "茧"
+        },
+        {
+          "word": "algorithms",
+          "translation": "算法"
+        },
+        {
+          "word": "clickbait",
+          "translation": "点击诱饵"
+        },
+        {
+          "word": "sensational",
+          "translation": "耸人听闻的"
+        },
+        {
+          "word": "objective",
+          "translation": "客观的"
+        },
+        {
+          "word": "vicious cycle",
+          "translation": "恶性循环"
+        },
+        {
+          "word": "reinforces",
+          "translation": "强化"
+        },
+        {
+          "word": "biases",
+          "translation": "偏见"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "What do you think of making friends on social networks?",
+      "answer": "To be honest, I think it's a fantastic development. Well, there are a couple of reasons for this. For starters, these platforms allow us to connect with an incredibly diverse range of people. We're not just limited to people from our school or neighborhood. For example, young people who like comics often scroll through online communities and easily interact with individuals from different countries and cultures who share the same hobbies. Second, the real clincher for most people is the sheer convenience. Making a connection online is as easy as a single tap. For example, people can reach out to make friends online anywhere and anytime. In contrast, building friendships offline usually requires much more time and effort—you have to be in the same place repeatedly and find common ground gradually. Social media accelerates that entire process. So, while it's a powerful tool for making friends, it demands a lot of critical thinking from us as users.",
+      "logicalConnectives": [
+        "for starters",
+        "for example",
+        "second",
+        "in contrast",
+        "so",
+        "while"
+      ],
+      "phrasalVerbs": [
+        "connect with",
+        "limited to",
+        "scroll through",
+        "reach out",
+        "find common ground",
+        "accelerates process"
+      ],
+      "advancedVocab": [
+        {
+          "word": "fantastic",
+          "translation": "极好的"
+        },
+        {
+          "word": "diverse",
+          "translation": "多样的"
+        },
+        {
+          "word": "clincher",
+          "translation": "关键因素"
+        },
+        {
+          "word": "sheer",
+          "translation": "纯粹的"
+        },
+        {
+          "word": "convenience",
+          "translation": "便利"
+        },
+        {
+          "word": "accelerates",
+          "translation": "加速"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Which science subject is the most important for children to learn?",
+      "answer": "I personally think Maths is the most important science subject for children to learn. To begin with, maths plays a crucial role in children's brain development. It trains their logical thinking and strengthens their ability to analyse problems, which are essential skills for dealing with challenges in everyday life. For example, when maths is taught in a fun or interactive way, it can really spark children's curiosity. They might start exploring patterns, numbers or even more complex concepts, and in the long term, this could inspire them to become mathematicians or maths teachers. Another key reason is that maths has huge practical value. A solid foundation in maths can significantly improve children's job prospects in the future. Nowadays, many companies favour applicants who have strong analytical abilities and can handle numerical tasks with ease. For instance, students who are confident in maths usually find it easier to pick up other useful skills, which makes them more attractive to employers in a wide range of industries. So overall, my view is that studying maths at school is absolutely essential.",
+      "logicalConnectives": [
+        "to begin with",
+        "for example",
+        "another",
+        "nowadays",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "plays a role",
+        "dealing with",
+        "spark curiosity",
+        "pick up",
+        "wide range"
+      ],
+      "advancedVocab": [
+        {
+          "word": "crucial",
+          "translation": "关键的"
+        },
+        {
+          "word": "logical",
+          "translation": "逻辑的"
+        },
+        {
+          "word": "strengthens",
+          "translation": "加强"
+        },
+        {
+          "word": "analyse",
+          "translation": "分析"
+        },
+        {
+          "word": "essential",
+          "translation": "必要的"
+        },
+        {
+          "word": "spark",
+          "translation": "激发"
+        },
+        {
+          "word": "curiosity",
+          "translation": "好奇心"
+        },
+        {
+          "word": "mathematicians",
+          "translation": "数学家"
+        },
+        {
+          "word": "foundation",
+          "translation": "基础"
+        },
+        {
+          "word": "significantly",
+          "translation": "显著地"
+        },
+        {
+          "word": "prospects",
+          "translation": "前景"
+        },
+        {
+          "word": "analytical",
+          "translation": "分析的"
+        },
+        {
+          "word": "numerical",
+          "translation": "数字的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How do you get to know about scientific news?",
+      "answer": "I usually get to know about scientific news in two main ways. First of all, I still rely on some traditional media, like newspapers, TV programmes, and even science books from the library. The reason is that traditional media offers a wide range of reliable and well-organised scientific information, so people can learn about science in a very direct and trustworthy way. For example, when I was younger, I often read National Geographic, which is a world-famous science magazine. It helped many people, including myself, get their first taste of scientific knowledge. Apart from that, I also learn about science through online media, such as social platforms and video-streaming websites. This is because it's extremely convenient—you don't have to spend money or time travelling, and the content is usually very engaging. For instance, many science channels produce vivid, bite-sized videos that explain complicated ideas in a simple way. A lot of children love watching these short clips in their free time. So overall, I think both traditional and online media play an important role in helping people stay updated with scientific news.",
+      "logicalConnectives": [
+        "first of all",
+        "the reason is",
+        "for example",
+        "apart from that",
+        "this is because",
+        "for instance",
+        "so overall"
+      ],
+      "phrasalVerbs": [
+        "get to know",
+        "rely on",
+        "get their first taste",
+        "stay updated"
+      ],
+      "advancedVocab": [
+        {
+          "word": "reliable",
+          "translation": "可靠的"
+        },
+        {
+          "word": "well-organised",
+          "translation": "组织良好的"
+        },
+        {
+          "word": "trustworthy",
+          "translation": "值得信赖的"
+        },
+        {
+          "word": "world-famous",
+          "translation": "世界著名的"
+        },
+        {
+          "word": "convenient",
+          "translation": "方便的"
+        },
+        {
+          "word": "engaging",
+          "translation": "吸引人的"
+        },
+        {
+          "word": "vivid",
+          "translation": "生动的"
+        },
+        {
+          "word": "bite-sized",
+          "translation": "简短的"
+        },
+        {
+          "word": "complicated",
+          "translation": "复杂的"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "Should scientists explain the research process to the public?",
+      "answer": "Well, it's difficult to offer a general statement, but I can certainly comment on the situation in my region. I would say yes, scientists definitely should explain their research to the public. To begin with, explaining the research process can really open the black box of science for ordinary people. The reason is that a lot of scientific knowledge seems mysterious or too abstract to apply in daily life, so breaking it down helps the public make sense of cutting-edge discoveries. For example, during COVID-19, people didn't know what actions to take at first. But once scientists explained the research behind how the virus spreads, public awareness improved dramatically, and that really moved the needle in terms of public health. On top of that, walking people through how state-of-the-art research works can inspire curiosity across society. When science becomes transparent and approachable, people are naturally more willing to engage with it. This is because people of all ages—teenagers, adults, and even the elderly—can learn something valuable from scientific communication, which helps build a more educated society. For instance, many scientists publish accessible explanations of their work in National Geographic. People often read it to understand geography or environmental-related research, and it has helped the whole society become better educated. So overall, I believe that when scientists communicate their work clearly, it not only increases public understanding but also encourages more people to appreciate and engage with science.",
+      "logicalConnectives": [
+        "but",
+        "to begin with",
+        "the reason is",
+        "for example",
+        "on top of that",
+        "when",
+        "this is because",
+        "for instance",
+        "so overall",
+        "not only",
+        "but also"
+      ],
+      "phrasalVerbs": [
+        "open the box",
+        "breaking it down",
+        "make sense of",
+        "moved the needle",
+        "walking people through",
+        "engage with"
+      ],
+      "advancedVocab": [
+        {
+          "word": "definitely",
+          "translation": "肯定地"
+        },
+        {
+          "word": "mysterious",
+          "translation": "神秘的"
+        },
+        {
+          "word": "abstract",
+          "translation": "抽象的"
+        },
+        {
+          "word": "cutting-edge",
+          "translation": "前沿的"
+        },
+        {
+          "word": "dramatically",
+          "translation": "显著地"
+        },
+        {
+          "word": "state-of-the-art",
+          "translation": "最先进的"
+        },
+        {
+          "word": "transparent",
+          "translation": "透明的"
+        },
+        {
+          "word": "approachable",
+          "translation": "平易近人的"
+        },
+        {
+          "word": "accessible",
+          "translation": "可获得的"
+        },
+        {
+          "word": "appreciate",
+          "translation": "欣赏"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How do children make friends at school?",
+      "answer": "I think children often make friends through their core classes at school. These classes provide opportunities for kids to spend time together, for example through group discussions or team projects, which helps them get to know each other better. For instance, in PE classes, children often play small team games. While having fun, they naturally start to interact and build closer relationships. Another way children make friends is through extracurricular interest classes. Besides core courses, schools often offer classes like art, music, or painting. These allow children to meet peers with similar interests. For example, a school might have a choir or music club, where kids who enjoy singing can join together. Through practicing and performing as a team, they get to know each other and make new friends. So overall, children make friends both through their regular classes and by joining interest-based clubs or activities, which provide natural ways to meet and connect with peers.",
+      "logicalConnectives": [
+        "for example",
+        "for instance",
+        "while",
+        "another",
+        "besides",
+        "so overall",
+        "both",
+        "and"
+      ],
+      "phrasalVerbs": [
+        "spend time together",
+        "get to know",
+        "build relationships",
+        "join together"
+      ],
+      "advancedVocab": [
+        {
+          "word": "core",
+          "translation": "核心的"
+        },
+        {
+          "word": "opportunities",
+          "translation": "机会"
+        },
+        {
+          "word": "extracurricular",
+          "translation": "课外的"
+        },
+        {
+          "word": "peers",
+          "translation": "同龄人"
+        },
+        {
+          "word": "choir",
+          "translation": "合唱团"
+        },
+        {
+          "word": "performing",
+          "translation": "表演"
+        }
+      ]
+    },
+    {
+      "type": "ielts_questions",
+      "question": "How do children make friends when they are not at school?",
+      "answer": "I think children can make friends outside of school through extracurricular interest classes. These classes give kids a chance to hang out with peers who share the same interests, which makes it easier to bond naturally. For instance, a child who joins a choir or music club can practice and perform alongside others who enjoy singing. By working together and spending time in a fun environment, they often pick up new friends quite quickly. Another way children make friends is through community activities. Children living in the same neighbourhood frequently meet at local events, which gives them opportunities to connect and build relationships outside a formal school setting. For example, some communities organise volunteer projects or fun recreational events for kids. By taking part in these activities, children can collaborate with each other and form strong friendships in a relaxed, social setting. So overall, whether it's joining interest-based classes or taking part in community events, children have plenty of ways to meet peers and form lasting friendships outside school.",
+      "logicalConnectives": [
+        "for instance",
+        "another",
+        "for example",
+        "so overall",
+        "whether"
+      ],
+      "phrasalVerbs": [
+        "hang out with",
+        "share interests",
+        "pick up friends",
+        "take part in",
+        "form friendships"
+      ],
+      "advancedVocab": [
+        {
+          "word": "extracurricular",
+          "translation": "课外的"
+        },
+        {
+          "word": "peers",
+          "translation": "同龄人"
+        },
+        {
+          "word": "bond",
+          "translation": "建立联系"
+        },
+        {
+          "word": "neighbourhood",
+          "translation": "社区"
+        },
+        {
+          "word": "frequently",
+          "translation": "经常地"
+        },
+        {
+          "word": "recreational",
+          "translation": "娱乐的"
+        },
+        {
+          "word": "collaborate",
+          "translation": "合作"
+        },
+        {
+          "word": "lasting",
+          "translation": "持久的"
+        }
+      ]
     }
   ]
 }
