@@ -93,6 +93,23 @@ html_content = f"""<!DOCTYPE html>
       padding: 2px 6px;
       border-radius: 4px;
       font-weight: 600;
+      position: relative;
+      cursor: help;
+    }}
+    .phrasal-verb-en:hover::after {{
+      content: attr(data-translation);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: #1f2937;
+      color: white;
+      padding: 4px 8px;
+      border-radius: 4px;
+      white-space: nowrap;
+      z-index: 1000;
+      font-size: 0.875rem;
+      margin-bottom: 4px;
     }}
     .logical-connective {{
       background-color: #fef3c7;
@@ -376,8 +393,112 @@ html_content = f"""<!DOCTYPE html>
       return highlighted;
     }}
 
+    // Phrasal verb to Chinese translation mapping
+    const phrasalVerbTranslations = {{
+      "focus on": "专注于",
+      "raise awareness": "提高意识",
+      "passed down": "传承",
+      "gather around": "聚集在",
+      "bring closer": "拉近",
+      "give out": "发放",
+      "change to": "改变为",
+      "developed fully": "完全发展",
+      "establish connections": "建立联系",
+      "grow up": "成长",
+      "learn from": "从...学习",
+      "wind down": "放松",
+      "fall asleep": "入睡",
+      "slip into": "进入",
+      "pick up": "学习",
+      "bumped into": "撞到",
+      "accompany to": "陪同到",
+      "get bumped": "被撞",
+      "looked up": "查找",
+      "brought to": "带到",
+      "put in": "投入",
+      "paid off": "得到回报",
+      "follow one's heart": "跟随内心",
+      "speak for": "代表",
+      "have an impact on": "对...有影响",
+      "align with": "与...一致",
+      "familiar with": "熟悉",
+      "equipped with": "配备",
+      "dedicate to": "致力于",
+      "prepared for": "为...准备",
+      "get close to": "接近",
+      "get into": "进入",
+      "get to know": "了解",
+      "connect with": "与...联系",
+      "depends on": "取决于",
+      "feel proud of": "为...感到骄傲",
+      "go anywhere": "去任何地方",
+      "inclined towards": "倾向于",
+      "make an impact": "产生影响",
+      "driven by": "由...驱动",
+      "puts focus on": "关注",
+      "plays a role": "发挥作用",
+      "suits me": "适合我",
+      "updating wardrobe": "更新衣柜",
+      "boost tourism": "促进旅游业",
+      "stimulate demands": "刺激需求",
+      "try on": "试穿",
+      "cover the needs": "满足需求",
+      "pay for": "支付",
+      "redeem for": "兑换",
+      "pay by": "通过...支付",
+      "make sure": "确保",
+      "build awareness": "建立意识",
+      "follow rules": "遵守规则",
+      "full of": "充满",
+      "enrich experiences": "丰富经历",
+      "go for": "追求",
+      "release stress": "释放压力",
+      "let out": "释放",
+      "serve purposes": "服务于目的",
+      "unlock opportunities": "解锁机会",
+      "helps with": "有助于",
+      "spike interest": "激发兴趣",
+      "master skills": "掌握技能",
+      "fade away": "淡出",
+      "get off work": "下班",
+      "come from": "来自",
+      "based on": "基于",
+      "rush into": "匆忙进入",
+      "take time": "花时间",
+      "find chances": "找到机会",
+      "practice speaking": "练习口语",
+      "travel abroad": "出国旅行",
+      "get lost": "迷路",
+      "ask for": "询问",
+      "involved in": "参与"
+    }};
+
+    function formatIELTSAnswer(text) {{
+      // Add line breaks before points, reasons, and conclusions
+      let formatted = text;
+      
+      // Patterns to match (case insensitive) - order matters!
+      // Match conclusions first (they usually come at the end)
+      formatted = formatted.replace(/(\\s|^)(In conclusion,|To conclude,|To sum up,|In short,|In summary,)/gi, '<br><br>$2');
+      
+      // Match numbered points and reasons
+      formatted = formatted.replace(/(\\s|^)(Point 1:|Point 2:|Point 3:|Point 4:|Point 5:)/gi, '<br><br>$2');
+      formatted = formatted.replace(/(\\s|^)(Reason 1:|Reason 2:|Reason 3:|Reason 4:)/gi, '<br><br>$2');
+      
+      // Match ordinal points (First, Second, Third, etc.)
+      formatted = formatted.replace(/(\\s|^)(First,|Second,|Third,|Fourth,|Fifth,|Finally,)/gi, '<br><br>$2');
+      
+      // Match transition phrases that start new points
+      formatted = formatted.replace(/(\\s|^)(As for|Moreover,|Furthermore,|Additionally,|Also,)/gi, '<br><br>$2');
+      
+      return formatted;
+    }}
+
     function highlightIELTSAnswer(text, logicalConnectives, phrasalVerbs, advancedVocab) {{
       let highlighted = text;
+      
+      // Format with line breaks first
+      highlighted = formatIELTSAnswer(highlighted);
       
       // Highlight logical connectives
       if (logicalConnectives && logicalConnectives.length > 0) {{
@@ -390,9 +511,10 @@ html_content = f"""<!DOCTYPE html>
         }});
       }}
       
-      // Highlight phrasal verbs
+      // Highlight phrasal verbs with Chinese translation
       if (phrasalVerbs && phrasalVerbs.length > 0) {{
         phrasalVerbs.forEach(pv => {{
+          const translation = phrasalVerbTranslations[pv.toLowerCase()] || '';
           const parts = pv.trim().split(/\\s+/);
           if (parts.length >= 2) {{
             const baseVerb = parts[0].toLowerCase();
@@ -401,7 +523,14 @@ html_content = f"""<!DOCTYPE html>
             const pattern = `\\\\b${{baseVerb}}[a-z]*\\\\s+${{escapedParticle}}\\\\b`;
             const regex = new RegExp(pattern, 'gi');
             highlighted = highlighted.replace(regex, (match) => {{
-              return `<span class="phrasal-verb-en">${{match}}</span>`;
+              return `<span class="phrasal-verb-en" data-translation="${{translation}}">${{match}}</span>`;
+            }});
+          }} else {{
+            // Single word phrasal verb
+            const escaped = pv.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+            const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
+            highlighted = highlighted.replace(regex, (match) => {{
+              return `<span class="phrasal-verb-en" data-translation="${{translation}}">${{match}}</span>`;
             }});
           }}
         }});
