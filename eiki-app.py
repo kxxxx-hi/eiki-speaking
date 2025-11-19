@@ -1087,6 +1087,641 @@ html_content = f"""<!DOCTYPE html>
         {{"word": "across countries", "translation": "跨国的"}},
         {{"word": "global", "translation": "全球的"}},
         {{"word": "worldwide", "translation": "世界范围的"}}
+      ],
+      "primarily": [
+        {{"word": "mainly", "translation": "主要地"}},
+        {{"word": "mostly", "translation": "大部分"}},
+        {{"word": "chiefly", "translation": "主要地"}}
+      ],
+      "fundamental": [
+        {{"word": "basic", "translation": "基本的"}},
+        {{"word": "essential", "translation": "必要的"}},
+        {{"word": "important", "translation": "重要的"}}
+      ],
+      "atmosphere": [
+        {{"word": "environment", "translation": "氛围"}},
+        {{"word": "mood", "translation": "气氛"}},
+        {{"word": "feeling", "translation": "感觉"}}
+      ],
+      "concentrate": [
+        {{"word": "focus", "translation": "集中注意力"}},
+        {{"word": "pay attention", "translation": "注意"}},
+        {{"word": "think hard", "translation": "认真思考"}}
+      ],
+      "immerse": [
+        {{"word": "involve deeply", "translation": "沉浸"}},
+        {{"word": "get into", "translation": "进入"}},
+        {{"word": "focus completely", "translation": "完全专注"}}
+      ],
+      "academics": [
+        {{"word": "school subjects", "translation": "学术"}},
+        {{"word": "studies", "translation": "学习"}},
+        {{"word": "education", "translation": "教育"}}
+      ],
+      "talent": [
+        {{"word": "natural ability", "translation": "天赋"}},
+        {{"word": "gift", "translation": "天赋"}},
+        {{"word": "skill", "translation": "技能"}}
+      ],
+      "potential": [
+        {{"word": "possibility", "translation": "潜力"}},
+        {{"word": "ability", "translation": "能力"}},
+        {{"word": "what could be", "translation": "可能"}}
+      ],
+      "employment": [
+        {{"word": "jobs", "translation": "就业"}},
+        {{"word": "work", "translation": "工作"}},
+        {{"word": "career", "translation": "职业"}}
+      ],
+      "well-rounded": [
+        {{"word": "complete", "translation": "全面的"}},
+        {{"word": "balanced", "translation": "平衡的"}},
+        {{"word": "all-around", "translation": "全面的"}}
+      ],
+      "professional": [
+        {{"word": "work-related", "translation": "职业的"}},
+        {{"word": "business-like", "translation": "专业的"}},
+        {{"word": "formal", "translation": "正式的"}}
+      ],
+      "interest-driven": [
+        {{"word": "based on benefits", "translation": "利益驱动的"}},
+        {{"word": "for gain", "translation": "为了利益"}},
+        {{"word": "profit-based", "translation": "基于利润的"}}
+      ],
+      "various": [
+        {{"word": "different", "translation": "各种各样的"}},
+        {{"word": "many kinds", "translation": "多种"}},
+        {{"word": "diverse", "translation": "多样的"}}
+      ],
+      "genuine": [
+        {{"word": "real", "translation": "真诚的"}},
+        {{"word": "true", "translation": "真实的"}},
+        {{"word": "sincere", "translation": "真诚的"}}
+      ],
+      "ulterior": [
+        {{"word": "hidden", "translation": "隐藏的"}},
+        {{"word": "secret", "translation": "秘密的"}},
+        {{"word": "not obvious", "translation": "不明显的"}}
+      ],
+      "deserve": [
+        {{"word": "should get", "translation": "值得"}},
+        {{"word": "merit", "translation": "应得"}},
+        {{"word": "worthy of", "translation": "值得的"}}
+      ],
+      "undivided": [
+        {{"word": "full", "translation": "专一的"}},
+        {{"word": "complete", "translation": "完全的"}},
+        {{"word": "total", "translation": "全部的"}}
+      ],
+      "responsibilities": [
+        {{"word": "duties", "translation": "责任"}},
+        {{"word": "tasks", "translation": "任务"}},
+        {{"word": "jobs", "translation": "工作"}}
+      ],
+      "productive": [
+        {{"word": "efficient", "translation": "高效的"}},
+        {{"word": "effective", "translation": "有效的"}},
+        {{"word": "useful", "translation": "有用的"}}
+      ],
+      "candidates": [
+        {{"word": "applicants", "translation": "候选人"}},
+        {{"word": "people applying", "translation": "申请者"}},
+        {{"word": "options", "translation": "选择"}}
+      ],
+      "definitely": [
+        {{"word": "certainly", "translation": "肯定地"}},
+        {{"word": "surely", "translation": "确定地"}},
+        {{"word": "for sure", "translation": "肯定"}}
+      ],
+      "solidifies": [
+        {{"word": "strengthens", "translation": "巩固"}},
+        {{"word": "makes stronger", "translation": "使更强"}},
+        {{"word": "builds up", "translation": "建立"}}
+      ],
+      "incredible": [
+        {{"word": "amazing", "translation": "难以置信的"}},
+        {{"word": "unbelievable", "translation": "不可思议的"}},
+        {{"word": "wonderful", "translation": "极好的"}}
+      ],
+      "variety": [
+        {{"word": "many kinds", "translation": "种类"}},
+        {{"word": "selection", "translation": "选择"}},
+        {{"word": "range", "translation": "范围"}}
+      ],
+      "cuisines": [
+        {{"word": "types of food", "translation": "菜系"}},
+        {{"word": "cooking styles", "translation": "烹饪风格"}},
+        {{"word": "food", "translation": "食物"}}
+      ],
+      "specialties": [
+        {{"word": "special dishes", "translation": "特色菜"}},
+        {{"word": "famous food", "translation": "名菜"}},
+        {{"word": "unique dishes", "translation": "独特菜肴"}}
+      ],
+      "bustling": [
+        {{"word": "busy", "translation": "热闹的"}},
+        {{"word": "lively", "translation": "活跃的"}},
+        {{"word": "full of activity", "translation": "充满活动的"}}
+      ],
+      "vibrant": [
+        {{"word": "lively", "translation": "充满活力的"}},
+        {{"word": "energetic", "translation": "有活力的"}},
+        {{"word": "bright", "translation": "明亮的"}}
+      ],
+      "ambiance": [
+        {{"word": "atmosphere", "translation": "氛围"}},
+        {{"word": "mood", "translation": "气氛"}},
+        {{"word": "feeling", "translation": "感觉"}}
+      ],
+      "auspicious": [
+        {{"word": "lucky", "translation": "吉祥的"}},
+        {{"word": "fortunate", "translation": "幸运的"}},
+        {{"word": "promising", "translation": "有希望的"}}
+      ],
+      "glutinous": [
+        {{"word": "sticky", "translation": "粘的"}},
+        {{"word": "thick", "translation": "厚的"}},
+        {{"word": "chewy", "translation": "有嚼劲的"}}
+      ],
+      "symbolizes": [
+        {{"word": "represents", "translation": "象征"}},
+        {{"word": "stands for", "translation": "代表"}},
+        {{"word": "means", "translation": "意味着"}}
+      ],
+      "wholeness": [
+        {{"word": "completeness", "translation": "完整"}},
+        {{"word": "unity", "translation": "统一"}},
+        {{"word": "togetherness", "translation": "团结"}}
+      ],
+      "reunion": [
+        {{"word": "getting together", "translation": "团聚"}},
+        {{"word": "meeting again", "translation": "重聚"}},
+        {{"word": "family gathering", "translation": "家庭聚会"}}
+      ],
+      "fortune": [
+        {{"word": "luck", "translation": "财富"}},
+        {{"word": "wealth", "translation": "财富"}},
+        {{"word": "success", "translation": "成功"}}
+      ],
+      "deep-rooted": [
+        {{"word": "long-standing", "translation": "根深蒂固的"}},
+        {{"word": "traditional", "translation": "传统的"}},
+        {{"word": "strongly held", "translation": "根深蒂固的"}}
+      ],
+      "symbolism": [
+        {{"word": "meaning", "translation": "象征意义"}},
+        {{"word": "representation", "translation": "代表"}},
+        {{"word": "significance", "translation": "意义"}}
+      ],
+      "irreplaceable": [
+        {{"word": "cannot be replaced", "translation": "不可替代的"}},
+        {{"word": "unique", "translation": "独特的"}},
+        {{"word": "special", "translation": "特殊的"}}
+      ],
+      "tangible": [
+        {{"word": "real", "translation": "具体的"}},
+        {{"word": "concrete", "translation": "具体的"}},
+        {{"word": "actual", "translation": "实际的"}}
+      ],
+      "close-knit": [
+        {{"word": "tight", "translation": "紧密的"}},
+        {{"word": "united", "translation": "团结的"}},
+        {{"word": "close", "translation": "亲密的"}}
+      ],
+      "harmonious": [
+        {{"word": "peaceful", "translation": "和谐的"}},
+        {{"word": "agreeable", "translation": "和谐的"}},
+        {{"word": "balanced", "translation": "平衡的"}}
+      ],
+      "amplified": [
+        {{"word": "increased", "translation": "放大的"}},
+        {{"word": "made stronger", "translation": "增强的"}},
+        {{"word": "enhanced", "translation": "增强的"}}
+      ],
+      "ritual": [
+        {{"word": "ceremony", "translation": "仪式"}},
+        {{"word": "tradition", "translation": "传统"}},
+        {{"word": "custom", "translation": "习俗"}}
+      ],
+      "hassle": [
+        {{"word": "trouble", "translation": "麻烦"}},
+        {{"word": "bother", "translation": "麻烦"}},
+        {{"word": "difficulty", "translation": "困难"}}
+      ],
+      "approach": [
+        {{"word": "way of doing", "translation": "处理"}},
+        {{"word": "method", "translation": "方法"}},
+        {{"word": "way", "translation": "方式"}}
+      ],
+      "master chef": [
+        {{"word": "expert cook", "translation": "大厨"}},
+        {{"word": "professional cook", "translation": "专业厨师"}},
+        {{"word": "skilled cook", "translation": "熟练的厨师"}}
+      ],
+      "conveniences": [
+        {{"word": "helpful things", "translation": "便利"}},
+        {{"word": "useful services", "translation": "有用的服务"}},
+        {{"word": "comforts", "translation": "舒适"}}
+      ],
+      "lifesavers": [
+        {{"word": "very helpful things", "translation": "救命稻草"}},
+        {{"word": "solutions", "translation": "解决方案"}},
+        {{"word": "help", "translation": "帮助"}}
+      ],
+      "production": [
+        {{"word": "big task", "translation": "复杂的事"}},
+        {{"word": "complicated thing", "translation": "复杂的事情"}},
+        {{"word": "big effort", "translation": "大努力"}}
+      ],
+      "vividly": [
+        {{"word": "clearly", "translation": "清晰地"}},
+        {{"word": "in detail", "translation": "详细地"}},
+        {{"word": "brightly", "translation": "明亮地"}}
+      ],
+      "whimsical": [
+        {{"word": "playful", "translation": "异想天开的"}},
+        {{"word": "funny", "translation": "有趣的"}},
+        {{"word": "imaginative", "translation": "富有想象力的"}}
+      ],
+      "magically": [
+        {{"word": "mysteriously", "translation": "神奇地"}},
+        {{"word": "wonderfully", "translation": "奇妙地"}},
+        {{"word": "like magic", "translation": "像魔法一样"}}
+      ],
+      "crave": [
+        {{"word": "want badly", "translation": "渴望"}},
+        {{"word": "desire", "translation": "渴望"}},
+        {{"word": "long for", "translation": "渴望"}}
+      ],
+      "delightful": [
+        {{"word": "pleasant", "translation": "令人愉快的"}},
+        {{"word": "enjoyable", "translation": "令人愉快的"}},
+        {{"word": "charming", "translation": "迷人的"}}
+      ],
+      "imaginative": [
+        {{"word": "creative", "translation": "富有想象力的"}},
+        {{"word": "original", "translation": "原创的"}},
+        {{"word": "inventive", "translation": "有创造力的"}}
+      ],
+      "unavoidable": [
+        {{"word": "cannot avoid", "translation": "不可避免的"}},
+        {{"word": "certain", "translation": "确定的"}},
+        {{"word": "sure to happen", "translation": "肯定会发生"}}
+      ],
+      "plastered": [
+        {{"word": "covered", "translation": "贴满"}},
+        {{"word": "filled with", "translation": "充满"}},
+        {{"word": "everywhere", "translation": "到处都是"}}
+      ],
+      "billboards": [
+        {{"word": "large signs", "translation": "广告牌"}},
+        {{"word": "advertising boards", "translation": "广告板"}},
+        {{"word": "posters", "translation": "海报"}}
+      ],
+      "glossy": [
+        {{"word": "shiny", "translation": "光鲜亮丽的"}},
+        {{"word": "smooth", "translation": "光滑的"}},
+        {{"word": "polished", "translation": "抛光的"}}
+      ],
+      "cosmetics": [
+        {{"word": "makeup", "translation": "化妆品"}},
+        {{"word": "beauty products", "translation": "美容产品"}},
+        {{"word": "beauty items", "translation": "美容用品"}}
+      ],
+      "commuters": [
+        {{"word": "people who travel to work", "translation": "通勤者"}},
+        {{"word": "daily travelers", "translation": "日常通勤者"}},
+        {{"word": "workers", "translation": "工作者"}}
+      ],
+      "profound": [
+        {{"word": "deep", "translation": "深刻的"}},
+        {{"word": "serious", "translation": "严肃的"}},
+        {{"word": "important", "translation": "重要的"}}
+      ],
+      "dominate": [
+        {{"word": "control", "translation": "主导"}},
+        {{"word": "lead", "translation": "领导"}},
+        {{"word": "rule", "translation": "统治"}}
+      ],
+      "visually-driven": [
+        {{"word": "picture-based", "translation": "视觉驱动的"}},
+        {{"word": "image-focused", "translation": "以图像为中心"}},
+        {{"word": "visual", "translation": "视觉的"}}
+      ],
+      "snappy": [
+        {{"word": "quick", "translation": "快速的"}},
+        {{"word": "fast", "translation": "快的"}},
+        {{"word": "brief", "translation": "简短的"}}
+      ],
+      "eye-catching": [
+        {{"word": "attractive", "translation": "吸引眼球的"}},
+        {{"word": "noticeable", "translation": "引人注目的"}},
+        {{"word": "striking", "translation": "醒目的"}}
+      ],
+      "shrinking": [
+        {{"word": "getting smaller", "translation": "缩小的"}},
+        {{"word": "reducing", "translation": "减少的"}},
+        {{"word": "decreasing", "translation": "下降的"}}
+      ],
+      "cautious": [
+        {{"word": "careful", "translation": "谨慎的"}},
+        {{"word": "watchful", "translation": "警惕的"}},
+        {{"word": "alert", "translation": "警觉的"}}
+      ],
+      "immediate": [
+        {{"word": "instant", "translation": "即时的"}},
+        {{"word": "right away", "translation": "立即"}},
+        {{"word": "quick", "translation": "快速的"}}
+      ],
+      "wealth": [
+        {{"word": "rich information", "translation": "财富"}},
+        {{"word": "lots of", "translation": "很多"}},
+        {{"word": "abundance", "translation": "丰富"}}
+      ],
+      "insightful": [
+        {{"word": "thoughtful", "translation": "有深度的"}},
+        {{"word": "wise", "translation": "明智的"}},
+        {{"word": "deep", "translation": "深刻的"}}
+      ],
+      "downside": [
+        {{"word": "disadvantage", "translation": "缺点"}},
+        {{"word": "problem", "translation": "问题"}},
+        {{"word": "negative side", "translation": "负面"}}
+      ],
+      "echo chambers": [
+        {{"word": "closed groups", "translation": "回音室"}},
+        {{"word": "isolated views", "translation": "孤立观点"}},
+        {{"word": "same opinions only", "translation": "只有相同意见"}}
+      ],
+      "cocoons": [
+        {{"word": "isolated spaces", "translation": "茧"}},
+        {{"word": "closed environments", "translation": "封闭环境"}},
+        {{"word": "bubbles", "translation": "气泡"}}
+      ],
+      "algorithms": [
+        {{"word": "computer programs", "translation": "算法"}},
+        {{"word": "systems", "translation": "系统"}},
+        {{"word": "formulas", "translation": "公式"}}
+      ],
+      "clickbait": [
+        {{"word": "misleading headlines", "translation": "点击诱饵"}},
+        {{"word": "trick titles", "translation": "欺骗性标题"}},
+        {{"word": "attention-grabbing", "translation": "吸引注意"}}
+      ],
+      "sensational": [
+        {{"word": "shocking", "translation": "耸人听闻的"}},
+        {{"word": "exciting", "translation": "令人兴奋的"}},
+        {{"word": "dramatic", "translation": "戏剧性的"}}
+      ],
+      "objective": [
+        {{"word": "fair", "translation": "客观的"}},
+        {{"word": "unbiased", "translation": "无偏见的"}},
+        {{"word": "neutral", "translation": "中立的"}}
+      ],
+      "vicious cycle": [
+        {{"word": "bad circle", "translation": "恶性循环"}},
+        {{"word": "endless problem", "translation": "无尽的问题"}},
+        {{"word": "repeating trouble", "translation": "重复的麻烦"}}
+      ],
+      "reinforces": [
+        {{"word": "strengthens", "translation": "强化"}},
+        {{"word": "makes stronger", "translation": "使更强"}},
+        {{"word": "supports", "translation": "支持"}}
+      ],
+      "biases": [
+        {{"word": "prejudices", "translation": "偏见"}},
+        {{"word": "unfair views", "translation": "不公平的观点"}},
+        {{"word": "favoritism", "translation": "偏袒"}}
+      ],
+      "fantastic": [
+        {{"word": "great", "translation": "极好的"}},
+        {{"word": "wonderful", "translation": "极好的"}},
+        {{"word": "excellent", "translation": "优秀的"}}
+      ],
+      "clincher": [
+        {{"word": "key point", "translation": "关键因素"}},
+        {{"word": "main reason", "translation": "主要原因"}},
+        {{"word": "deciding factor", "translation": "决定因素"}}
+      ],
+      "sheer": [
+        {{"word": "pure", "translation": "纯粹的"}},
+        {{"word": "simple", "translation": "简单的"}},
+        {{"word": "complete", "translation": "完全的"}}
+      ],
+      "convenience": [
+        {{"word": "ease", "translation": "便利"}},
+        {{"word": "comfort", "translation": "舒适"}},
+        {{"word": "easy access", "translation": "容易获得"}}
+      ],
+      "accelerates": [
+        {{"word": "speeds up", "translation": "加速"}},
+        {{"word": "makes faster", "translation": "使更快"}},
+        {{"word": "quickens", "translation": "加快"}}
+      ],
+      "crucial": [
+        {{"word": "very important", "translation": "关键的"}},
+        {{"word": "essential", "translation": "必要的"}},
+        {{"word": "vital", "translation": "至关重要的"}}
+      ],
+      "logical": [
+        {{"word": "reasonable", "translation": "逻辑的"}},
+        {{"word": "sensible", "translation": "合理的"}},
+        {{"word": "makes sense", "translation": "有道理"}}
+      ],
+      "strengthens": [
+        {{"word": "makes stronger", "translation": "加强"}},
+        {{"word": "improves", "translation": "改善"}},
+        {{"word": "builds up", "translation": "建立"}}
+      ],
+      "analyse": [
+        {{"word": "examine", "translation": "分析"}},
+        {{"word": "study", "translation": "研究"}},
+        {{"word": "look at carefully", "translation": "仔细看"}}
+      ],
+      "essential": [
+        {{"word": "necessary", "translation": "必要的"}},
+        {{"word": "important", "translation": "重要的"}},
+        {{"word": "needed", "translation": "需要的"}}
+      ],
+      "spark": [
+        {{"word": "ignite", "translation": "激发"}},
+        {{"word": "create", "translation": "创造"}},
+        {{"word": "trigger", "translation": "触发"}}
+      ],
+      "curiosity": [
+        {{"word": "interest", "translation": "好奇心"}},
+        {{"word": "wanting to know", "translation": "想知道"}},
+        {{"word": "wonder", "translation": "好奇"}}
+      ],
+      "mathematicians": [
+        {{"word": "math experts", "translation": "数学家"}},
+        {{"word": "math teachers", "translation": "数学老师"}},
+        {{"word": "people who study math", "translation": "研究数学的人"}}
+      ],
+      "foundation": [
+        {{"word": "base", "translation": "基础"}},
+        {{"word": "groundwork", "translation": "基础"}},
+        {{"word": "starting point", "translation": "起点"}}
+      ],
+      "significantly": [
+        {{"word": "greatly", "translation": "显著地"}},
+        {{"word": "a lot", "translation": "很多"}},
+        {{"word": "much", "translation": "非常"}}
+      ],
+      "prospects": [
+        {{"word": "chances", "translation": "前景"}},
+        {{"word": "opportunities", "translation": "机会"}},
+        {{"word": "possibilities", "translation": "可能性"}}
+      ],
+      "analytical": [
+        {{"word": "logical", "translation": "分析的"}},
+        {{"word": "thinking", "translation": "思考的"}},
+        {{"word": "examining", "translation": "检查的"}}
+      ],
+      "numerical": [
+        {{"word": "number-related", "translation": "数字的"}},
+        {{"word": "math", "translation": "数学"}},
+        {{"word": "calculating", "translation": "计算的"}}
+      ],
+      "reliable": [
+        {{"word": "trustworthy", "translation": "可靠的"}},
+        {{"word": "dependable", "translation": "可靠的"}},
+        {{"word": "can be trusted", "translation": "可以信任"}}
+      ],
+      "well-organised": [
+        {{"word": "well-arranged", "translation": "组织良好的"}},
+        {{"word": "orderly", "translation": "有序的"}},
+        {{"word": "structured", "translation": "结构化的"}}
+      ],
+      "trustworthy": [
+        {{"word": "reliable", "translation": "值得信赖的"}},
+        {{"word": "honest", "translation": "诚实的"}},
+        {{"word": "can be trusted", "translation": "可以信任"}}
+      ],
+      "world-famous": [
+        {{"word": "known worldwide", "translation": "世界著名的"}},
+        {{"word": "internationally known", "translation": "国际知名的"}},
+        {{"word": "globally recognized", "translation": "全球认可的"}}
+      ],
+      "engaging": [
+        {{"word": "interesting", "translation": "吸引人的"}},
+        {{"word": "captivating", "translation": "吸引人的"}},
+        {{"word": "appealing", "translation": "有吸引力的"}}
+      ],
+      "vivid": [
+        {{"word": "clear", "translation": "生动的"}},
+        {{"word": "lifelike", "translation": "栩栩如生的"}},
+        {{"word": "bright", "translation": "明亮的"}}
+      ],
+      "bite-sized": [
+        {{"word": "short", "translation": "简短的"}},
+        {{"word": "quick", "translation": "快速的"}},
+        {{"word": "easy to digest", "translation": "容易理解"}}
+      ],
+      "complicated": [
+        {{"word": "complex", "translation": "复杂的"}},
+        {{"word": "difficult", "translation": "困难的"}},
+        {{"word": "hard", "translation": "难的"}}
+      ],
+      "mysterious": [
+        {{"word": "unknown", "translation": "神秘的"}},
+        {{"word": "puzzling", "translation": "令人困惑的"}},
+        {{"word": "strange", "translation": "奇怪的"}}
+      ],
+      "abstract": [
+        {{"word": "theoretical", "translation": "抽象的"}},
+        {{"word": "not concrete", "translation": "不具体的"}},
+        {{"word": "hard to understand", "translation": "难以理解"}}
+      ],
+      "cutting-edge": [
+        {{"word": "latest", "translation": "前沿的"}},
+        {{"word": "most advanced", "translation": "最先进的"}},
+        {{"word": "newest", "translation": "最新的"}}
+      ],
+      "dramatically": [
+        {{"word": "greatly", "translation": "显著地"}},
+        {{"word": "significantly", "translation": "显著地"}},
+        {{"word": "a lot", "translation": "很多"}}
+      ],
+      "state-of-the-art": [
+        {{"word": "most advanced", "translation": "最先进的"}},
+        {{"word": "latest technology", "translation": "最新技术"}},
+        {{"word": "cutting-edge", "translation": "前沿的"}}
+      ],
+      "transparent": [
+        {{"word": "clear", "translation": "透明的"}},
+        {{"word": "open", "translation": "开放的"}},
+        {{"word": "honest", "translation": "诚实的"}}
+      ],
+      "approachable": [
+        {{"word": "easy to understand", "translation": "平易近人的"}},
+        {{"word": "friendly", "translation": "友好的"}},
+        {{"word": "accessible", "translation": "可获得的"}}
+      ],
+      "accessible": [
+        {{"word": "easy to reach", "translation": "可获得的"}},
+        {{"word": "available", "translation": "可获得的"}},
+        {{"word": "reachable", "translation": "可到达的"}}
+      ],
+      "appreciate": [
+        {{"word": "value", "translation": "欣赏"}},
+        {{"word": "enjoy", "translation": "享受"}},
+        {{"word": "understand", "translation": "理解"}}
+      ],
+      "core": [
+        {{"word": "main", "translation": "核心的"}},
+        {{"word": "central", "translation": "中心的"}},
+        {{"word": "essential", "translation": "必要的"}}
+      ],
+      "opportunities": [
+        {{"word": "chances", "translation": "机会"}},
+        {{"word": "possibilities", "translation": "可能性"}},
+        {{"word": "options", "translation": "选择"}}
+      ],
+      "extracurricular": [
+        {{"word": "outside class", "translation": "课外的"}},
+        {{"word": "after school", "translation": "放学后"}},
+        {{"word": "additional", "translation": "额外的"}}
+      ],
+      "peers": [
+        {{"word": "people same age", "translation": "同龄人"}},
+        {{"word": "classmates", "translation": "同学"}},
+        {{"word": "equals", "translation": "同等的人"}}
+      ],
+      "choir": [
+        {{"word": "singing group", "translation": "合唱团"}},
+        {{"word": "vocal group", "translation": "声乐组"}},
+        {{"word": "singers", "translation": "歌手"}}
+      ],
+      "performing": [
+        {{"word": "acting", "translation": "表演"}},
+        {{"word": "showing", "translation": "展示"}},
+        {{"word": "presenting", "translation": "呈现"}}
+      ],
+      "bond": [
+        {{"word": "connection", "translation": "建立联系"}},
+        {{"word": "relationship", "translation": "关系"}},
+        {{"word": "link", "translation": "联系"}}
+      ],
+      "frequently": [
+        {{"word": "often", "translation": "经常地"}},
+        {{"word": "regularly", "translation": "定期地"}},
+        {{"word": "many times", "translation": "多次"}}
+      ],
+      "recreational": [
+        {{"word": "for fun", "translation": "娱乐的"}},
+        {{"word": "leisure", "translation": "休闲的"}},
+        {{"word": "entertainment", "translation": "娱乐"}}
+      ],
+      "collaborate": [
+        {{"word": "work together", "translation": "合作"}},
+        {{"word": "cooperate", "translation": "合作"}},
+        {{"word": "team up", "translation": "组队"}}
+      ],
+      "lasting": [
+        {{"word": "long-term", "translation": "持久的"}},
+        {{"word": "enduring", "translation": "持久的"}},
+        {{"word": "permanent", "translation": "永久的"}}
       ]
     }};
 
