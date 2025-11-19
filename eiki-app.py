@@ -93,23 +93,11 @@ html_content = f"""<!DOCTYPE html>
       padding: 2px 6px;
       border-radius: 4px;
       font-weight: 600;
-      position: relative;
-      cursor: help;
     }}
-    .phrasal-verb-en:hover::after {{
-      content: attr(data-translation);
-      position: absolute;
-      bottom: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      background-color: #1f2937;
-      color: white;
-      padding: 4px 8px;
-      border-radius: 4px;
-      white-space: nowrap;
-      z-index: 1000;
-      font-size: 0.875rem;
-      margin-bottom: 4px;
+    .phrasal-verb-translation {{
+      color: #065f46;
+      font-size: 0.9em;
+      margin-left: 4px;
     }}
     .logical-connective {{
       background-color: #fef3c7;
@@ -124,23 +112,11 @@ html_content = f"""<!DOCTYPE html>
       padding: 2px 6px;
       border-radius: 4px;
       font-weight: 600;
-      position: relative;
-      cursor: help;
     }}
-    .advanced-vocab:hover::after {{
-      content: attr(data-translation);
-      position: absolute;
-      bottom: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      background-color: #1f2937;
-      color: white;
-      padding: 4px 8px;
-      border-radius: 4px;
-      white-space: nowrap;
-      z-index: 1000;
-      font-size: 0.875rem;
-      margin-bottom: 4px;
+    .advanced-vocab-translation {{
+      color: #6b21a8;
+      font-size: 0.9em;
+      margin-left: 4px;
     }}
     .ielts-question {{
       font-size: 1.5rem;
@@ -523,14 +499,20 @@ html_content = f"""<!DOCTYPE html>
             const pattern = `\\\\b${{baseVerb}}[a-z]*\\\\s+${{escapedParticle}}\\\\b`;
             const regex = new RegExp(pattern, 'gi');
             highlighted = highlighted.replace(regex, (match) => {{
-              return `<span class="phrasal-verb-en" data-translation="${{translation}}">${{match}}</span>`;
+              if (translation) {{
+                return `<span class="phrasal-verb-en">${{match}}</span><span class="phrasal-verb-translation"> ${{translation}}</span>`;
+              }}
+              return `<span class="phrasal-verb-en">${{match}}</span>`;
             }});
           }} else {{
             // Single word phrasal verb
             const escaped = pv.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
             const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
             highlighted = highlighted.replace(regex, (match) => {{
-              return `<span class="phrasal-verb-en" data-translation="${{translation}}">${{match}}</span>`;
+              if (translation) {{
+                return `<span class="phrasal-verb-en">${{match}}</span><span class="phrasal-verb-translation"> ${{translation}}</span>`;
+              }}
+              return `<span class="phrasal-verb-en">${{match}}</span>`;
             }});
           }}
         }});
@@ -544,7 +526,10 @@ html_content = f"""<!DOCTYPE html>
           const escaped = word.replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
           const regex = new RegExp(`\\\\b${{escaped}}\\\\b`, 'gi');
           highlighted = highlighted.replace(regex, (match) => {{
-            return `<span class="advanced-vocab" data-translation="${{translation}}">${{match}}</span>`;
+            if (translation) {{
+              return `<span class="advanced-vocab">${{match}}</span><span class="advanced-vocab-translation"> ${{translation}}</span>`;
+            }}
+            return `<span class="advanced-vocab">${{match}}</span>`;
           }});
         }});
       }}
